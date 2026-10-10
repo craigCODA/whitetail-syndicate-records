@@ -22,12 +22,13 @@
       "title": "AGENTS.md",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:18.860256+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.072399+00:00"
     },
     {
       "id": "material-b33563055168",
@@ -36,12 +37,13 @@
       "title": "README.md",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:18.894744+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.104867+00:00"
     },
     {
       "id": "material-6c33a3943990",
@@ -50,12 +52,13 @@
       "title": "STATUS.md",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:18.927002+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.136128+00:00"
     },
     {
       "id": "material-c3685680d134",
@@ -3858,12 +3861,13 @@
       "title": "Records guide",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Whitetail Syndicate project records.",
-      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
-      "used_for": "Project evidence, current billing and continued agent work.",
-      "updated_at": "2026-10-10T18:46:18.958195+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.167787+00:00"
     },
     {
       "id": "material-14cf7ae0bf09",
@@ -3872,12 +3876,13 @@
       "title": "Decisions and standing instructions",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:18.990633+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.229580+00:00"
     },
     {
       "id": "material-09c44461631d",
@@ -3956,12 +3961,13 @@
       "title": "sources.json",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Whitetail Syndicate project records.",
-      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
-      "used_for": "Project evidence, current billing and continued agent work.",
-      "updated_at": "2026-10-10T18:46:19.055084+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.262723+00:00"
     },
     {
       "id": "material-b6271aad4431",
@@ -3970,12 +3976,13 @@
       "title": "Verification record",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:19.086930+00:00"
+      "source_note": "Local test and validator output from October 10, 2026; confirmed billing record.",
+      "how_created": "Recorded completed local billing tests, report confidence checks and repository validation.",
+      "used_for": "Distinguishing verified local behavior from external outcomes and billing source evidence.",
+      "updated_at": "2026-10-10T19:33:39.755188+00:00"
     },
     {
       "id": "material-58adc084a507",
@@ -4026,12 +4033,13 @@
       "title": "validate_records.py",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:19.119963+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.326238+00:00"
     },
     {
       "id": "material-0eb684c3ea7b",
@@ -4096,12 +4104,13 @@
       "title": "Hours and payments trial guide",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Whitetail Syndicate project records.",
-      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
-      "used_for": "Project evidence, current billing and continued agent work.",
-      "updated_at": "2026-10-10T18:46:19.185079+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.198804+00:00"
     },
     {
       "id": "material-57a972eaa1cf",
@@ -4115,7 +4124,7 @@
       "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
       "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
       "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
-      "updated_at": "2026-10-10T18:46:19.564064+00:00"
+      "updated_at": "2026-10-10T19:32:51.458709+00:00"
     },
     {
       "id": "material-aa1defcae3aa",
@@ -4124,12 +4133,13 @@
       "title": "Hours and payments ledger helper",
       "status": "current",
       "source_refs": [
-        "craig-billing-record-2026-10-09"
+        "craig-billing-record-2026-10-09",
+        "craig-evidence-standards-2026-10-10"
       ],
-      "source_note": "Confirmed project records and Craig Ramos's billing information.",
-      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
-      "used_for": "Project record keeping and the hours/payments workflow.",
-      "updated_at": "2026-10-10T18:46:19.246119+00:00"
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.295166+00:00"
     },
     {
       "id": "material-1d4affd3597b",
@@ -4157,7 +4167,7 @@
       "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
       "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
       "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
-      "updated_at": "2026-10-10T18:46:19.601306+00:00"
+      "updated_at": "2026-10-10T19:32:51.490232+00:00"
     },
     {
       "id": "material-f4c116b946ef",
@@ -4171,7 +4181,7 @@
       "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
       "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
       "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
-      "updated_at": "2026-10-10T18:46:19.634308+00:00"
+      "updated_at": "2026-10-10T19:32:51.523029+00:00"
     },
     {
       "id": "material-d39e89613d16",
@@ -4228,6 +4238,34 @@
       "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
       "used_for": "Project record keeping and the hours/payments workflow.",
       "updated_at": "2026-10-10T18:46:19.460091+00:00"
+    },
+    {
+      "id": "material-4b4f8a75305a",
+      "path": "records/evidence-standards.md",
+      "area": "records",
+      "title": "Evidence standards",
+      "status": "current",
+      "source_refs": [
+        "craig-evidence-standards-2026-10-10"
+      ],
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.361500+00:00"
+    },
+    {
+      "id": "material-7eac32e0c209",
+      "path": "records/billing/provenance.md",
+      "area": "billing",
+      "title": "Billing provenance",
+      "status": "current",
+      "source_refs": [
+        "craig-evidence-standards-2026-10-10"
+      ],
+      "source_note": "Craig Ramos's October 10, 2026 instructions; confirmed billing record and attached project materials.",
+      "how_created": "Documented the evidence hierarchy and claim limits from Craig Ramos's October 10 instructions and existing repository evidence.",
+      "used_for": "Evidence-based status and billing responses, provenance and report confidence.",
+      "updated_at": "2026-10-10T19:32:51.392314+00:00"
     }
   ]
 }

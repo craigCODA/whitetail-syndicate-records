@@ -10,7 +10,9 @@
 - [Activity](activity.jsonl): append-only creation/change events.
 - [File inventory](file-inventory.json): generated file paths, sizes and hashes.
 - [Verification](verification.md): checks run for this import.
+- [Evidence standards](evidence-standards.md): evidence hierarchy, claim limits and missing-material states.
 
 - [Hours and payments trial](billing/README.md): evidence-backed ledger, generated summary and branch workflow.
+- [Billing provenance](billing/provenance.md): confirmed itemization and supporting records by work area.
 
 The historical work report contains retrospective effort estimates. The [billing record](billing/evidence/2026-10-09-billing-record.md) lists one $560 paid bill and $310 current accrued through October 9.

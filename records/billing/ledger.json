@@ -141,6 +141,7 @@
     ],
     "paid_bill_invoice_date": "2026-10-07",
     "current_accrual_start_date": "2026-10-07",
-    "current_itemization_path": "records/billing/current-itemization.md"
+    "current_itemization_path": "records/billing/current-itemization.md",
+    "evidence_note": "Independent time logs are not present; exact minute splits rest on the confirmed itemization."
   }
 }

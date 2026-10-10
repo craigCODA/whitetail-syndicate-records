@@ -6,6 +6,8 @@ This trial is on `trial/hours-payments`. Read [the current summary](summary.md).
 
 The $310 opening balance covers work and payments through the end of October 9. It includes the five website hours and the $560 receipt; neither is counted again. Future confirmed entries after October 9 adjust it. Earlier broader effort estimates remain historical references.
 
+The generated summary includes a balance confidence note for the itemized opening balance. Its date comes from the confirmed itemization; the evidence note is recorded in `ledger.json` under `reconciliation.evidence_note`. Independent time logs for the current itemization are not present. If such material is attached, link it in the reconciliation evidence and update the evidence note from that source. Do not infer a stronger evidence class from the report's exact minute display. See [billing provenance](provenance.md) and [evidence standards](../evidence-standards.md).
+
 ## How it stays current
 
 1. At the end of a task, record actual minutes only when Craig supplied or confirmed them. An agent's effort estimate is recorded with `basis: estimated` and cannot become earnings just by confirming it.

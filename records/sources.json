@@ -477,6 +477,18 @@
         "records/billing/current-itemization.md"
       ],
       "transformation": "Confirmed itemized work, billing dates and payment status: $560 paid and $310 current accrued."
+    },
+    {
+      "id": "craig-evidence-standards-2026-10-10",
+      "original_name": "Craig Ramos evidence standards and status-response instructions, October 10, 2026",
+      "source_url": null,
+      "retrieved_on": "2026-10-10",
+      "repository_paths": [
+        "records/evidence-standards.md",
+        "records/billing/provenance.md",
+        "README.md"
+      ],
+      "transformation": "Repository guidance derived from Craig Ramos's instructions in this conversation; no independent time records, owner decisions or deployment evidence supplied."
     }
   ]
 }

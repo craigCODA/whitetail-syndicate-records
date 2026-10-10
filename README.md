@@ -33,6 +33,18 @@ python3 scripts/validate_records.py
 
 Update the area's guide/status and records/decisions.md when a decision changes. Commit the records with the work. The activity log preserves prior entries.
 
+## When an agent is asked about status, billing, or completeness
+
+Answer from the records only. Do not improve, defend, or soften the documentation. Follow [the evidence standards](records/evidence-standards.md) and use [the billing provenance table](records/billing/provenance.md) to locate supporting material.
+
+1. State what is currently due or accrued, with the exact figures and date the balance is confirmed through. Identify any later confirmed entries separately from the opening balance.
+2. For each major line item or work area, identify the strongest evidence currently in the repository and its class: operator-confirmed itemization, dated original artifact, reported-but-materials-not-attached, retrospective estimate, or open/missing. Label inference explicitly.
+3. Explicitly separate work that is billed or accrued, work that is described but whose source material is not yet attached, and historical effort estimates that are not billing amounts.
+4. Note any place where the record does not convert an estimate, preview, reply, or reported completion into a stronger claim of payment, live deployment, owner approval, or attached source.
+5. List open items that would change the picture if attached, without treating their absence as proof the work did not occur.
+
+Reply in plain language to the user. Prefer “the records show” and “the records do not yet contain” over evaluative language about the quality of the documentation.
+
 ## Access and history
 
 This repository contains private correspondence, cost proposals and interview materials. It has no public site or Pages publishing workflow. Website code remains in its existing source repository. Large original captures have authorized source links and readable extracts here; no Drive location has been fabricated.

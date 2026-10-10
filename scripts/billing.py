@@ -70,6 +70,8 @@ def reconciliation_details(ledger):
     if payment['status'] != 'confirmed' or payment['scope'] != 'current_work':
         raise ValueError('paid bill requires a confirmed current-work payment')
     as_of = iso_date(r['as_of'])
+    if 'evidence_note' in r:
+        text(r['evidence_note'], 'itemization evidence note')
     invoice_date = iso_date(r['paid_bill_invoice_date'])
     accrual_start = iso_date(r['current_accrual_start_date'])
     if invoice_date > payment['date']:
@@ -374,8 +376,10 @@ def render_bill_statement(s):
     payment = next(p for p in s['payments'] if p['id'] == r['payment_id'])
     paid_minutes = r['paid_work_minutes']
     rate = s['default_rate_cents']
-    rows = ['# Bills and payments', '', f'Rate: {money(rate)} per hour.', '',
-            '## Bill 1 - paid', '']
+    rows = ['# Bills and payments', '', f'Rate: {money(rate)} per hour.', '']
+    if r.get('evidence_note'):
+        rows += [f"**Balance confidence:** The itemized opening balance is operator-confirmed through {r['as_of']}. {safe(r['evidence_note'])}", '']
+    rows += ['## Bill 1 - paid', '']
     if r.get('paid_bill_invoice_date'):
         rows += [f"Invoiced: **{r['paid_bill_invoice_date']}**. Paid: **{payment['date']}**.", '']
     rows += ['| Work performed | Hours | Amount |', '| --- | --- | --- |']

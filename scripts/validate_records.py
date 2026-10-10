@@ -31,7 +31,7 @@ def main():
     unregistered=set(actual)-{m['path'] for m in materials}-{'records/materials.json','records/activity.jsonl'}
     if unregistered:errors.append('unregistered files: '+', '.join(sorted(unregistered)))
     authored=[ROOT/'README.md',ROOT/'AGENTS.md',ROOT/'STATUS.md']+[ROOT/area/'README.md' for area in ['interviews','product-audit','outreach','website','launch-research','artwork','records']]+[ROOT/'records/material-directory.md',ROOT/'outreach/contacts/index.md',ROOT/'interviews/nathan-deville/README.md']
-    authored += [p for p in [ROOT/'records/billing/README.md', ROOT/'records/billing/summary.md'] if p.exists()]
+    authored += [p for p in [ROOT/'records/billing/README.md', ROOT/'records/billing/summary.md', ROOT/'records/evidence-standards.md', ROOT/'records/billing/provenance.md'] if p.exists()]
     for p in authored:
         text=re.sub(r'```[\s\S]*?```','',p.read_text())
         for target in re.findall(r'\[[^\]]*\]\(([^)]+)\)',text):

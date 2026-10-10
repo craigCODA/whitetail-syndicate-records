@@ -11,5 +11,6 @@
 | Prior website instructions | Work locally; do not write to Shopify without authorized scope | The records repository has no Shopify publishing connection |
 | October 9, Craig in this conversation | Test an up-to-date hours/payments workflow in a branch first | Trial restricted to `trial/hours-payments`; adoption on main remains a later review |
 | October 10, Craig | Present ordinary itemized bills and receipts containing work, dates, amounts and payment status | [Billing record](billing/evidence/2026-10-09-billing-record.md): $560 paid/18h40m, invoiced October 7 and paid October 9; $310 current accrued/10h20m, October 7 through October 9 |
+| October 10, Craig | Apply an explicit evidence hierarchy and answer status, billing and completeness from the records without praise or defense | [Evidence standards](evidence-standards.md), [billing provenance](billing/provenance.md) and the root response instructions identify confirmed itemization, attached artifacts, reported work, estimates and open evidence separately |
 
 Add a dated row for new owner decisions, linking the returned file, approval message or meeting note. Identify who decided and what changed. Earlier source-file proposals are not approvals.

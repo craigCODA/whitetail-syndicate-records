@@ -27,3 +27,9 @@ Run `python3 scripts/billing.py refresh --check` and `python3 scripts/validate_r
 ## External outcomes
 
 No live Shopify changes, website deployment, new outreach email, Drive upload or form-delivery fix was performed by this import. The private repository is the record and handoff.
+
+## Evidence and report confidence
+
+On October 10, 2026, the 28 billing tests passed with the evidence note included in the generated report. A temporary in-memory future-hours check confirmed that the confidence note remains scoped to the October 9 opening balance while subsequent confirmed entries affect the calculated balance. No temporary verification entry was saved.
+
+The financial ledger values, paid/current task splits and receipt PDF bytes match the confirmed billing record. The evidence note describes the itemization's support; it does not add work, charges or payment evidence. The evidence standards and billing provenance links are included in the record validator. Validation passed for 304 registered materials, 32 sources, 306 inventoried file hashes and 17 authored Markdown link checks.

@@ -17,3 +17,12 @@ Baseline: Craig's October 9, 2026 recap plus dated source material imported that
 This repository is populated with evidence and agent maintenance instructions. It does not change the store or send email.
 
 Hours/payments workflow: under test on `trial/hours-payments`. **Bill 1: $560 for 18h40m, invoiced October 7 and paid October 9. Bill 2: $310 current accrued for 10h20m, October 7 through October 9.** See [the billing report](records/billing/summary.md), [current itemization](records/billing/current-itemization.md), and [bill and receipt PDF](records/billing/receipts/WTS-Bills-2026-10-09.pdf).
+
+## What this record does not claim
+
+- Local previews establish local work; they do not establish live Shopify publication.
+- The second interview is reported by Craig; its identity and raw materials are not yet attached in this repository.
+- Historical effort estimates are not additional amounts due.
+- Owner decisions are open until the returned decision or approval is attached.
+
+Apply [the evidence standards](records/evidence-standards.md) to each claim. See [billing provenance](records/billing/provenance.md) for the distinction between confirmed itemization and supporting work products.

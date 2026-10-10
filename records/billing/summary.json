@@ -160,13 +160,14 @@
     "paid_bill_invoice_date": "2026-10-07",
     "current_accrual_start_date": "2026-10-07",
     "current_itemization_path": "records/billing/current-itemization.md",
+    "evidence_note": "Independent time logs are not present; exact minute splits rest on the confirmed itemization.",
     "paid_work_minutes": 1120,
     "paid_work_cents": 56000,
     "current_accrued_cents": 31000,
     "current_accrued_minutes": 620,
     "total_reconciled_minutes": 1740
   },
-  "ledger_sha256": "f9e5513cb1b812e0ebc76c5a56a92f38976759618827ed2b45367e0369496ee0",
+  "ledger_sha256": "6f7cc6a6c9db08ab8602a241eebe27b7e48493de7fb6fd0cbdd5fd802a61884d",
   "evidence_sha256": {
     "records/billing/evidence/2026-10-09-billing-record.md": "9918bd9975c7357d6b33fe650d5da51c3105133fc53cbb77cf5d7037cacaaa2b"
   }

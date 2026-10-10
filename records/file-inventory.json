@@ -17,18 +17,18 @@
     },
     {
       "path": "AGENTS.md",
-      "size_bytes": 4389,
-      "sha256": "fbcb5c6550bca372ac47b105a1d7df7d492deeefac5179fafdba68112d96f391"
+      "size_bytes": 5017,
+      "sha256": "d138eeb166f3d95398e7b7f99c076d1904f8351e566b99aaefc31ebaca6441ad"
     },
     {
       "path": "README.md",
-      "size_bytes": 2926,
-      "sha256": "11541d21bdcc5765c57a3903089db263d73719cb2024f43375a3e1009ce88087"
+      "size_bytes": 4382,
+      "sha256": "0282f87ada8f65a456710d0778d4a9675b68944bfc45582f0bb5dbdfe565e427"
     },
     {
       "path": "STATUS.md",
-      "size_bytes": 2076,
-      "sha256": "57a7ff4eecf02f95fd6ca9965caebd4360d51e64eebefeea63619b4d07421cd3"
+      "size_bytes": 2673,
+      "sha256": "284c2ff2b7dc784c0bcf0b9cc52e778d2ef92f270d2df828149051d123227118"
     },
     {
       "path": "artwork/README.md",
@@ -1387,18 +1387,18 @@
     },
     {
       "path": "records/README.md",
-      "size_bytes": 1072,
-      "sha256": "4ee99bc13d93c1f682897ad11ecccd937f25ec1c68dda373c8412d2cbf6f74f0"
+      "size_bytes": 1287,
+      "sha256": "d922d885f1edf1c5155a235966320fadbe663a7fdc9885ffd8bc083acccd6b18"
     },
     {
       "path": "records/activity.jsonl",
-      "size_bytes": 194394,
-      "sha256": "7e66a416a8c66999dcb1a5ace09b178829a4a9c61282adebe917680519fdb8a1"
+      "size_bytes": 212868,
+      "sha256": "69a0084661f82d26f736d9f5459b045bf403d4fc4b256092abb96d1d5d57fbf1"
     },
     {
       "path": "records/billing/README.md",
-      "size_bytes": 6742,
-      "sha256": "d338b4ab5a42ab15d42e33979f7ac25a18223a0ccd708e16840d309ca3c708b6"
+      "size_bytes": 7320,
+      "sha256": "4cbd5481f333459f082947d0ffd3c1485ded73f494d7b630a160cd14967ac26f"
     },
     {
       "path": "records/billing/current-itemization.md",
@@ -1412,8 +1412,13 @@
     },
     {
       "path": "records/billing/ledger.json",
-      "size_bytes": 4016,
-      "sha256": "f9e5513cb1b812e0ebc76c5a56a92f38976759618827ed2b45367e0369496ee0"
+      "size_bytes": 4134,
+      "sha256": "6f7cc6a6c9db08ab8602a241eebe27b7e48493de7fb6fd0cbdd5fd802a61884d"
+    },
+    {
+      "path": "records/billing/provenance.md",
+      "size_bytes": 3222,
+      "sha256": "dc7935cd17fd61bc0f22fdfcdf65edc9855af38dc2a461d1dc2531b41c653361"
     },
     {
       "path": "records/billing/receipts/WTS-Bills-2026-10-09.pdf",
@@ -1422,18 +1427,23 @@
     },
     {
       "path": "records/billing/summary.json",
-      "size_bytes": 5042,
-      "sha256": "43ee1023c5696e6c5c722a00e79287343c20a20ef60ded8fc8665ced0b478a28"
+      "size_bytes": 5160,
+      "sha256": "a6175ebaade3b0e3f5724b208e339aaee10b36b3a14cc1718738ada980520b04"
     },
     {
       "path": "records/billing/summary.md",
-      "size_bytes": 1974,
-      "sha256": "6fef9d4ea50f70daec19d0a9c02bf6314a697cab0c4f2bbe543c84f32946e7ee"
+      "size_bytes": 2164,
+      "sha256": "4d7de5af3897141fcc3fb11e79b97568fa6b33d6f86165d96dec0d1315ca287d"
     },
     {
       "path": "records/decisions.md",
-      "size_bytes": 1842,
-      "sha256": "06c855428d874214d3c64db715aaa30d70a316b718f99384245cf974e031e75c"
+      "size_bytes": 2222,
+      "sha256": "bce0363c7e40f18694523b04b21d99e5e688ebf2468fcc83b9008753991b691a"
+    },
+    {
+      "path": "records/evidence-standards.md",
+      "size_bytes": 2849,
+      "sha256": "4d2fb672093bf7d3d9fe60837d63ea803b35e6a74142f8113bb6f9d1edfe0a70"
     },
     {
       "path": "records/historical/2026-10-08-work-record-readable.md",
@@ -1447,8 +1457,8 @@
     },
     {
       "path": "records/materials.json",
-      "size_bytes": 166657,
-      "sha256": "b3a12d51c1aae9c2b33dffd5f66540d13a19c36918a52f6712e36cf4d5b63e66"
+      "size_bytes": 169529,
+      "sha256": "35abf790fa38fbb16175d4c2fa11492fc6d128084417752ee7f51b1f60b4e622"
     },
     {
       "path": "records/meetings/2026-09-21-lori-call-redacted.md",
@@ -1467,13 +1477,13 @@
     },
     {
       "path": "records/sources.json",
-      "size_bytes": 25718,
-      "sha256": "29bf853702babcc4f9bffc263a236eb646c693ba46e6f889de1b4ac371417795"
+      "size_bytes": 26277,
+      "sha256": "1c5c14681c073dac69844087c0e6e3e1e9c64cb3825b808173f9fcf3f61a737f"
     },
     {
       "path": "records/verification.md",
-      "size_bytes": 2628,
-      "sha256": "8731bc091052f63a243f1663440d94b205515ce9e6a070c2c60138309bd2779c"
+      "size_bytes": 3438,
+      "sha256": "fb13e7a2a4a1074a65159996193fd1aa52c09a0d06bdff8be445d4db944e15d4"
     },
     {
       "path": "records/work-recap.md",
@@ -1482,8 +1492,8 @@
     },
     {
       "path": "scripts/billing.py",
-      "size_bytes": 32630,
-      "sha256": "46e9d4a81dbd7da921d9cf555e602367ab61a072ff21c8d53b5676411914ec6f"
+      "size_bytes": 32902,
+      "sha256": "e8a970a50e517b06810e462f05cd531068477d4d1546760b956fd527ccf9da95"
     },
     {
       "path": "scripts/create_billing_receipt.py",
@@ -1502,8 +1512,8 @@
     },
     {
       "path": "scripts/validate_records.py",
-      "size_bytes": 3815,
-      "sha256": "34a1bf4a14dd734c212b4e52ec7c5d9e0d886027830dcc1120ce140161fb5ede"
+      "size_bytes": 3891,
+      "sha256": "f8d3813f9c8bf54c94ef13ac890436da55e206e2fb1613aa5d53ed10f7ceaf1a"
     },
     {
       "path": "tests/test_billing.py",

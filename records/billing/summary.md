@@ -2,6 +2,8 @@
 
 Rate: $30.00 per hour.
 
+**Balance confidence:** The itemized opening balance is operator-confirmed through 2026-10-09. Independent time logs are not present; exact minute splits rest on the confirmed itemization.
+
 ## Bill 1 - paid
 
 Invoiced: **2026-10-07**. Paid: **2026-10-09**.
