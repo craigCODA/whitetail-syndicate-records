@@ -1,0 +1,23 @@
+import {esc} from './status-chip.js';
+const opts=(list,current)=>list.map(([v,l])=>`<option value="${esc(v)}" ${current===v?'selected':''}>${esc(l)}</option>`).join('');
+export function decisionControls(d={}){
+ const audience=[['','Choose…'],['buck','Buck'],['doe','Doe'],['yearling','Yearling'],['fawn','Fawn'],['shared','Shared / Family'],['gear','Gear / Accessories'],['headwear','Headwear'],['rut_apparel','The Rut apparel'],['none','Does not belong in these collections'],['investigate','Needs investigation']];
+ const dispositions=[['','Choose…'],['keep','Keep as-is'],['repair','Keep but repair'],['move','Move / recategorize'],['cross_list','Cross-list intentionally'],['merge_candidate','Merge candidate'],['hold','Hold from launch'],['retire','Retire'],['investigate','Needs investigation']];
+ const title=[['','Choose…'],['approved','Approved as-is'],['rewrite','Rewrite'],['craig_rewrite','Craig proposes rewrite']];
+ const verification=[['unknown','Unknown'],['verified','Verified'],['not_applicable','Not applicable']];
+ const design=[['','Choose…'],['keep','Keep current approved design'],['D01','Replace with D01'],['D02','Replace with D02'],['D03','Replace with D03'],['D04','Replace with D04'],['D05','Replace with D05'],['blank','No design / blank exception'],['review','Needs design review'],['reject_global','Reject this design globally']];
+ const currentDesign=[['','Unknown / unmapped'],['D01','D01'],['D02','D02'],['D03','D03'],['D04','D04'],['D05','D05'],['OTHER','Other / variant']];
+ const collectionTargets=[['buck','Buck'],['doe','Doe'],['yearling','Yearling'],['fawn','Fawn'],['gear','Gear / Accessories'],['headwear','Headwear'],['rut_apparel','The Rut apparel']];
+ return `<div class="decision-grid">
+ <label>Audience / placement<select name="audience">${opts(audience,d.audience)}</select></label>
+ <label>Product disposition<select name="disposition">${opts(dispositions,d.disposition)}</select></label>
+ <label>Title decision<select name="title_decision">${opts(title,d.title_decision)}</select></label>
+ <label>Current design / artwork<select name="current_design_id">${opts(currentDesign,d.current_design_id)}</select></label><label>Design decision<select name="design_decision">${opts(design,d.design_decision)}</select></label><label>Provider route verification<select name="provider_verification">${opts(verification,d.provider_verification||'unknown')}</select></label><label>Sample status<select name="sample_status">${opts(verification,d.sample_status||'unknown')}</select></label><label>Other design / variant label<input name="current_design_label" value="${esc(d.current_design_label||'')}" placeholder="e.g. old antler badge"></label>
+ </div>
+ <fieldset><legend>Cross-list targets</legend><p class="muted">Use these only with <strong>Cross-list intentionally</strong>.</p>${collectionTargets.map(([v,l])=>`<label class="check"><input type="checkbox" name="target_collections" value="${v}" ${(d.target_collections||[]).includes(v)?'checked':''}> ${l}</label>`).join('')}</fieldset>
+ <label>Proposed title<input name="proposed_title" value="${esc(d.proposed_title||'')}" placeholder="Leave blank to keep current"></label><label>Proposed description<textarea name="proposed_description" rows="5" placeholder="Local draft only">${esc(d.proposed_description||'')}</textarea></label>
+ <fieldset><legend>Description review</legend>${[['approved','Approved as-is'],['rewrite','Rewrite'],['too_generic','Too generic'],['technical','Technically incorrect'],['sizing','Missing sizing / fit'],['care','Missing care'],['delivery','Missing delivery / printed-to-order'],['broken_links','Contains broken / irrelevant links'],['provider','Needs provider fact verification']].map(([v,l])=>`<label class="check"><input type="checkbox" name="description_flags" value="${v}" ${(d.description_flags||[]).includes(v)?'checked':''}> ${l}</label>`).join('')}</fieldset>
+ <div class="decision-grid"><label>Provider waiver note<input name="provider_waiver_note" value="${esc(d.provider_waiver_note||'')}" placeholder="Optional owner waiver reason"></label><label>Sample waiver note<input name="sample_waiver_note" value="${esc(d.sample_waiver_note||'')}" placeholder="Optional owner waiver reason"></label></div>
+ <label class="launch-toggle"><input type="checkbox" name="launch_selected" ${d.launch_selected?'checked':''}> Include as launch candidate</label><label>Decision note<textarea name="note" rows="3" placeholder="Why this decision?">${esc(d.note||'')}</textarea></label>
+ <label>Decision maker<input name="decided_by" value="${esc(d.decided_by||'Kraig')}" /></label>`;
+}

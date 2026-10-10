@@ -1,0 +1,828 @@
+{
+  "source_workbook": "Whitetail_2x_Cost_Pricing_Decision_Workbook.xlsx",
+  "sheet": "Tier Pricing",
+  "read_only_export": true,
+  "note": "Values are saved workbook values; formulas are preserved as text and were not recalculated. Prices are proposals unless approval evidence is attached.",
+  "rows": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "WHITETAIL SYNDICATE | AFFORDABLE CATEGORY PRICE TARGETS | APPROX 2X COST",
+          "formula": null
+        },
+        {
+          "cell": "B1",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "C1",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "D1",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E1",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "F1",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "cell": "A3",
+          "value": "Target roughly twice reasonable production cost. Review high-cost supplier listings rather than inflating suggested prices.",
+          "formula": null
+        },
+        {
+          "cell": "B3",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "C3",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "D3",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E3",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "F3",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "cell": "A4",
+          "value": "Category / price family",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "Consumer-friendly retail target",
+          "formula": null
+        },
+        {
+          "cell": "C4",
+          "value": "Review / owner notes",
+          "formula": null
+        },
+        {
+          "cell": "E4",
+          "value": "Additional decoration proposal",
+          "formula": null
+        },
+        {
+          "cell": "F4",
+          "value": "Suggested increment",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "cell": "A5",
+          "value": "Baby one-piece",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "27.99",
+          "formula": null
+        },
+        {
+          "cell": "C5",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E5",
+          "value": "Second print location",
+          "formula": null
+        },
+        {
+          "cell": "F5",
+          "value": "6",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "cell": "A6",
+          "value": "Baby / toddler tee",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "27.99",
+          "formula": null
+        },
+        {
+          "cell": "C6",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E6",
+          "value": "Third print location",
+          "formula": null
+        },
+        {
+          "cell": "F6",
+          "value": "5",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "cell": "A7",
+          "value": "Youth tee",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "23.99",
+          "formula": null
+        },
+        {
+          "cell": "C7",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E7",
+          "value": "Embroidery / all-over treatment",
+          "formula": null
+        },
+        {
+          "cell": "F7",
+          "value": "Review actual method",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "cell": "A8",
+          "value": "Youth long sleeve",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "32.99",
+          "formula": null
+        },
+        {
+          "cell": "C8",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "cell": "A9",
+          "value": "Youth/toddler hoodie",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "37.99",
+          "formula": null
+        },
+        {
+          "cell": "C9",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E9",
+          "value": "2X COST PRICING GUIDANCE",
+          "formula": null
+        },
+        {
+          "cell": "F9",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "cell": "A10",
+          "value": "Youth crewneck",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "29.99",
+          "formula": null
+        },
+        {
+          "cell": "C10",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E10",
+          "value": "Cost allowance near 1/2 retail",
+          "formula": null
+        },
+        {
+          "cell": "F10",
+          "value": "Review supplier if actual cost exceeds it",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "cell": "A11",
+          "value": "Adult basic tee",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "24.99",
+          "formula": null
+        },
+        {
+          "cell": "C11",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "E11",
+          "value": "Do not raise price just for expensive vendor",
+          "formula": null
+        },
+        {
+          "cell": "F11",
+          "value": "Re-source, exclude or approve exception",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "cell": "A12",
+          "value": "Women tee / tank",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "29.99",
+          "formula": null
+        },
+        {
+          "cell": "C12",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "cell": "A13",
+          "value": "Adult long sleeve",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "32.99",
+          "formula": null
+        },
+        {
+          "cell": "C13",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "cell": "A14",
+          "value": "Performance tee",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "34.99",
+          "formula": null
+        },
+        {
+          "cell": "C14",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "cell": "A15",
+          "value": "Performance long sleeve",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "34.99",
+          "formula": null
+        },
+        {
+          "cell": "C15",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "cell": "A16",
+          "value": "Adult hoodie",
+          "formula": null
+        },
+        {
+          "cell": "B16",
+          "value": "44.99",
+          "formula": null
+        },
+        {
+          "cell": "C16",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "cell": "A17",
+          "value": "Women/crop hoodie",
+          "formula": null
+        },
+        {
+          "cell": "B17",
+          "value": "44.99",
+          "formula": null
+        },
+        {
+          "cell": "C17",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "cell": "A18",
+          "value": "Adult crewneck",
+          "formula": null
+        },
+        {
+          "cell": "B18",
+          "value": "35.99",
+          "formula": null
+        },
+        {
+          "cell": "C18",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "cell": "A19",
+          "value": "Windbreaker / jacket",
+          "formula": null
+        },
+        {
+          "cell": "B19",
+          "value": "54.99",
+          "formula": null
+        },
+        {
+          "cell": "C19",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "cell": "A20",
+          "value": "Fleece vest",
+          "formula": null
+        },
+        {
+          "cell": "B20",
+          "value": "39.99",
+          "formula": null
+        },
+        {
+          "cell": "C20",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "cells": [
+        {
+          "cell": "A21",
+          "value": "Down vest",
+          "formula": null
+        },
+        {
+          "cell": "B21",
+          "value": "64.99",
+          "formula": null
+        },
+        {
+          "cell": "C21",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "cells": [
+        {
+          "cell": "A22",
+          "value": "Standard cap",
+          "formula": null
+        },
+        {
+          "cell": "B22",
+          "value": "23.99",
+          "formula": null
+        },
+        {
+          "cell": "C22",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "cell": "A23",
+          "value": "Premium cap",
+          "formula": null
+        },
+        {
+          "cell": "B23",
+          "value": "27.99",
+          "formula": null
+        },
+        {
+          "cell": "C23",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "cell": "A24",
+          "value": "Beanie",
+          "formula": null
+        },
+        {
+          "cell": "B24",
+          "value": "26.99",
+          "formula": null
+        },
+        {
+          "cell": "C24",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "cell": "A25",
+          "value": "Clothing set",
+          "formula": null
+        },
+        {
+          "cell": "B25",
+          "value": "34.99",
+          "formula": null
+        },
+        {
+          "cell": "C25",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "cells": [
+        {
+          "cell": "A26",
+          "value": "Pants",
+          "formula": null
+        },
+        {
+          "cell": "B26",
+          "value": "34.99",
+          "formula": null
+        },
+        {
+          "cell": "C26",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "cells": [
+        {
+          "cell": "A27",
+          "value": "Mug / tumbler",
+          "formula": null
+        },
+        {
+          "cell": "B27",
+          "value": "19.99",
+          "formula": null
+        },
+        {
+          "cell": "C27",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "cells": [
+        {
+          "cell": "A28",
+          "value": "Neck gaiter",
+          "formula": null
+        },
+        {
+          "cell": "B28",
+          "value": "8.99",
+          "formula": null
+        },
+        {
+          "cell": "C28",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "cells": [
+        {
+          "cell": "A29",
+          "value": "Balaclava",
+          "formula": null
+        },
+        {
+          "cell": "B29",
+          "value": "9.99",
+          "formula": null
+        },
+        {
+          "cell": "C29",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "cells": [
+        {
+          "cell": "A30",
+          "value": "Backpack",
+          "formula": null
+        },
+        {
+          "cell": "B30",
+          "value": "49.99",
+          "formula": null
+        },
+        {
+          "cell": "C30",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "cells": [
+        {
+          "cell": "A31",
+          "value": "Duffle bag",
+          "formula": null
+        },
+        {
+          "cell": "B31",
+          "value": "59.99",
+          "formula": null
+        },
+        {
+          "cell": "C31",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "cells": [
+        {
+          "cell": "A32",
+          "value": "Other bag / cooler",
+          "formula": null
+        },
+        {
+          "cell": "B32",
+          "value": "29.99",
+          "formula": null
+        },
+        {
+          "cell": "C32",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "cells": [
+        {
+          "cell": "A33",
+          "value": "Phone case",
+          "formula": null
+        },
+        {
+          "cell": "B33",
+          "value": "11.99",
+          "formula": null
+        },
+        {
+          "cell": "C33",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "cells": [
+        {
+          "cell": "A34",
+          "value": "Blanket / quilt",
+          "formula": null
+        },
+        {
+          "cell": "B34",
+          "value": "29.99",
+          "formula": null
+        },
+        {
+          "cell": "C34",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "cells": [
+        {
+          "cell": "A35",
+          "value": "Shoe / clog",
+          "formula": null
+        },
+        {
+          "cell": "B35",
+          "value": "29.99",
+          "formula": null
+        },
+        {
+          "cell": "C35",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "cells": [
+        {
+          "cell": "A36",
+          "value": "Sunshade",
+          "formula": null
+        },
+        {
+          "cell": "B36",
+          "value": "15.99",
+          "formula": null
+        },
+        {
+          "cell": "C36",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "cells": [
+        {
+          "cell": "A37",
+          "value": "Decals",
+          "formula": null
+        },
+        {
+          "cell": "B37",
+          "value": "15.99",
+          "formula": null
+        },
+        {
+          "cell": "C37",
+          "value": "",
+          "formula": null
+        }
+      ]
+    }
+  ]
+}

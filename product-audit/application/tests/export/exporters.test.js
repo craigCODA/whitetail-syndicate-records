@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {buildExports} from '../../src/export/exporters.js';
+test('exports exact required filenames and no secrets',()=>{
+ const out=buildExports({products:[{shopify_product_id:'gid://shopify/Product/1',handle_current:'x',title_current:'X'}],productDecisions:[{product_id:'gid://shopify/Product/1',disposition:'keep'}],designDecisions:[],actions:[],readiness:[]});
+ const names=out.map(x=>x.filename).sort();
+ for(const n of ['Whitetail_Product_Decisions.json','Whitetail_Action_Queue.csv','Whitetail_Design_Decisions.json','Whitetail_Launch_Catalog.csv','Whitetail_Unresolved_Verification.csv'])assert.ok(names.includes(n));
+ assert.ok(!JSON.stringify(out).match(/access_token|admin\/api|graphql_mutation/i));
+});
+test('action CSV carries exact proposed target values',()=>{const out=buildExports({products:[{shopify_product_id:'p1',handle_current:'x',title_current:'X'}],productDecisions:[],designDecisions:[],actions:[{product_id:'p1',handle:'x',type:'title_rewrite',owner:'Craig',priority:'normal',status:'open',target_value:'Fawn One Piece',reason:'Title'}],readiness:[]});const f=out.find(x=>x.filename==='Whitetail_Action_Queue.csv');assert.ok(f.content.includes('target'));assert.ok(f.content.includes('Fawn One Piece'));});
+test('unresolved verification export respects local verification overlays',()=>{const out=buildExports({products:[{shopify_product_id:'p1',handle_current:'x',title_current:'X',provider_verification:'unknown',sample_status:'unknown'}],productDecisions:[{product_id:'p1',provider_verification:'verified',sample_status:'verified'}],designDecisions:[],actions:[],readiness:[]});const f=out.find(x=>x.filename==='Whitetail_Unresolved_Verification.csv');assert.equal(f.content.trim().split('\n').length,1);});
+test('not-applicable verification states are not exported as unresolved',()=>{const out=buildExports({products:[{shopify_product_id:'p1',handle_current:'x',title_current:'X',provider_verification:'unknown',sample_status:'unknown'}],productDecisions:[{product_id:'p1',provider_verification:'not_applicable',sample_status:'not_applicable'}],designDecisions:[],actions:[],readiness:[]});const f=out.find(x=>x.filename==='Whitetail_Unresolved_Verification.csv');assert.equal(f.content.trim().split('\n').length,1);});

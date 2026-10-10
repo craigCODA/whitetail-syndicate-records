@@ -1,0 +1,2706 @@
+[
+  {
+    "product_id": "gid://shopify/Product/10233791348839",
+    "handle": "short-sleeve-unisex-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233791348839",
+    "handle": "short-sleeve-unisex-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233791348839",
+    "handle": "short-sleeve-unisex-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233689374823",
+    "handle": "kiss-cut-vinyl-decals-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233689374823",
+    "handle": "kiss-cut-vinyl-decals-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Single public product image"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233689374823",
+    "handle": "kiss-cut-vinyl-decals-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233688391783",
+    "handle": "kiss-cut-vinyl-decals",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233688391783",
+    "handle": "kiss-cut-vinyl-decals",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Single public product image"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233688391783",
+    "handle": "kiss-cut-vinyl-decals",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233523535975",
+    "handle": "structured-twill-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233523535975",
+    "handle": "structured-twill-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233514819687",
+    "handle": "closed-back-trucker-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233514819687",
+    "handle": "closed-back-trucker-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233432834151",
+    "handle": "windshield-sunshade-137cm53-10",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233432834151",
+    "handle": "windshield-sunshade-137cm53-10",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233432834151",
+    "handle": "windshield-sunshade-137cm53-10",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233432834151",
+    "handle": "windshield-sunshade-137cm53-10",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233431949415",
+    "handle": "windshield-sunshade-137cm53-9",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233431949415",
+    "handle": "windshield-sunshade-137cm53-9",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233431949415",
+    "handle": "windshield-sunshade-137cm53-9",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10233431949415",
+    "handle": "windshield-sunshade-137cm53-9",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232059887719",
+    "handle": "womens-lightweight-wash-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232059887719",
+    "handle": "womens-lightweight-wash-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232059691111",
+    "handle": "womens-lightweight-wash-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232059691111",
+    "handle": "womens-lightweight-wash-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232031772775",
+    "handle": "all-over-print-men-s-fleece-half-zip-hoodie-with-arm-pockets",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232031772775",
+    "handle": "all-over-print-men-s-fleece-half-zip-hoodie-with-arm-pockets",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232031019111",
+    "handle": "all-over-print-womens-waffle-hoodie-with-raglan-sleeve",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232031019111",
+    "handle": "all-over-print-womens-waffle-hoodie-with-raglan-sleeve",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232029216871",
+    "handle": "all-over-print-mens-thicken-pullover-hoodie-with-inner-hood",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232029216871",
+    "handle": "all-over-print-mens-thicken-pullover-hoodie-with-inner-hood",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232028889191",
+    "handle": "all-over-print-mens-pullover-hoodie-with-mask",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232028889191",
+    "handle": "all-over-print-mens-pullover-hoodie-with-mask",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232026169447",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232026169447",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232026169447",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232025120871",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232025120871",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10232025120871",
+    "handle": "all-over-print-mens-hoodie-with-double-side-print-hood",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231981015143",
+    "handle": "all-over-print-unisex-down-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231981015143",
+    "handle": "all-over-print-unisex-down-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231975510119",
+    "handle": "all-over-print-mens-stand-up-collar-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231975510119",
+    "handle": "all-over-print-mens-stand-up-collar-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231975510119",
+    "handle": "all-over-print-mens-stand-up-collar-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231973085287",
+    "handle": "all-over-print-mens-stand-up-collar-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231973085287",
+    "handle": "all-over-print-mens-stand-up-collar-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231973085287",
+    "handle": "all-over-print-mens-stand-up-collar-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231968989287",
+    "handle": "all-over-print-mens-t-shirt-bonded-seam",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231968989287",
+    "handle": "all-over-print-mens-t-shirt-bonded-seam",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231964008551",
+    "handle": "all-over-print-mens-long-sleeved-sunscreen-t-shirt-with-thumbhole",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231964008551",
+    "handle": "all-over-print-mens-long-sleeved-sunscreen-t-shirt-with-thumbhole",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231153229927",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231153229927",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231153229927",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231153229927",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231139434599",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231139434599",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231139434599",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231139434599",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231134552167",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231134552167",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231134552167",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10231134552167",
+    "handle": "womens-lightweight-wash-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230961504359",
+    "handle": "all-over-print-flat-brim-baseball-cap-with-box",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230961504359",
+    "handle": "all-over-print-flat-brim-baseball-cap-with-box",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230961504359",
+    "handle": "all-over-print-flat-brim-baseball-cap-with-box",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230960816231",
+    "handle": "minimalist-square-crossbody-bucket-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230960816231",
+    "handle": "minimalist-square-crossbody-bucket-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230960816231",
+    "handle": "minimalist-square-crossbody-bucket-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230959636583",
+    "handle": "gram-flannel-blanket-printed-in-canada-280gsm",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230959636583",
+    "handle": "gram-flannel-blanket-printed-in-canada-280gsm",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230959636583",
+    "handle": "gram-flannel-blanket-printed-in-canada-280gsm",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230959439975",
+    "handle": "lightweight-breathable-quilt-with-edge-wrapping-strips",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230930800743",
+    "handle": "all-over-print-mens-half-zip-sweatshirt-230gsm",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230930800743",
+    "handle": "all-over-print-mens-half-zip-sweatshirt-230gsm",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230928179303",
+    "handle": "all-over-print-mens-sun-protection-hooded-sport-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230928179303",
+    "handle": "all-over-print-mens-sun-protection-hooded-sport-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230926475367",
+    "handle": "mens-classic-clogs-with-fleece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230926475367",
+    "handle": "mens-classic-clogs-with-fleece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230924181607",
+    "handle": "all-over-print-knitted-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230924181607",
+    "handle": "all-over-print-knitted-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230924181607",
+    "handle": "all-over-print-knitted-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230923001959",
+    "handle": "all-over-print-balaclava-face-mask",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230923001959",
+    "handle": "all-over-print-balaclava-face-mask",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230923001959",
+    "handle": "all-over-print-balaclava-face-mask",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230922379367",
+    "handle": "iphone-17-series-mobile-phone-case-silicone",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230922379367",
+    "handle": "iphone-17-series-mobile-phone-case-silicone",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230922379367",
+    "handle": "iphone-17-series-mobile-phone-case-silicone",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230922379367",
+    "handle": "iphone-17-series-mobile-phone-case-silicone",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230921986151",
+    "handle": "30oz-cone-car-cup",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230921986151",
+    "handle": "30oz-cone-car-cup",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230918217831",
+    "handle": "glitter-tumbler-with-stainless-steel-straw-20oz",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230918217831",
+    "handle": "glitter-tumbler-with-stainless-steel-straw-20oz",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230918217831",
+    "handle": "glitter-tumbler-with-stainless-steel-straw-20oz",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230917496935",
+    "handle": "insulated-cylinder-cooler-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230917496935",
+    "handle": "insulated-cylinder-cooler-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230915956839",
+    "handle": "all-over-print-pullover-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230914547815",
+    "handle": "all-over-print-peaked-cap-with-box",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230914547815",
+    "handle": "all-over-print-peaked-cap-with-box",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230913269863",
+    "handle": "all-over-print-multifunctional-backpack",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230913269863",
+    "handle": "all-over-print-multifunctional-backpack",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230913106023",
+    "handle": "all-over-print-neck-gaiter",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230913106023",
+    "handle": "all-over-print-neck-gaiter",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230904782951",
+    "handle": "unisex-trucker-hat-with-black-half-mesh",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230904782951",
+    "handle": "unisex-trucker-hat-with-black-half-mesh",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230900621415",
+    "handle": "all-over-print-mens-half-zip-pullover",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230900621415",
+    "handle": "all-over-print-mens-half-zip-pullover",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230899572839",
+    "handle": "all-over-print-unisex-set-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230899572839",
+    "handle": "all-over-print-unisex-set-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230879191143",
+    "handle": "all-over-print-mens-cargo-pants",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230879191143",
+    "handle": "all-over-print-mens-cargo-pants",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230828335207",
+    "handle": "sports-warmup-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10230828335207",
+    "handle": "sports-warmup-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227364200551",
+    "handle": "unisex-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227364200551",
+    "handle": "unisex-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227364200551",
+    "handle": "unisex-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227358433383",
+    "handle": "mens-rash-guard",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227358433383",
+    "handle": "mens-rash-guard",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227358433383",
+    "handle": "mens-rash-guard",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227356467303",
+    "handle": "oversized-cotton-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227356467303",
+    "handle": "oversized-cotton-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227356467303",
+    "handle": "oversized-cotton-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227351289959",
+    "handle": "unisex-zip-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227351289959",
+    "handle": "unisex-zip-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227348111463",
+    "handle": "men-s-windbreaker-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227348111463",
+    "handle": "men-s-windbreaker-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227348111463",
+    "handle": "men-s-windbreaker-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227348111463",
+    "handle": "men-s-windbreaker-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227346047079",
+    "handle": "men-s-windbreaker",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227346047079",
+    "handle": "men-s-windbreaker",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227346047079",
+    "handle": "men-s-windbreaker",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227346047079",
+    "handle": "men-s-windbreaker",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227341852775",
+    "handle": "duffle-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227341852775",
+    "handle": "duffle-bag",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227339591783",
+    "handle": "all-over-print-beanie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227339591783",
+    "handle": "all-over-print-beanie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227339591783",
+    "handle": "all-over-print-beanie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227339591783",
+    "handle": "all-over-print-beanie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227333628007",
+    "handle": "all-over-print-beanie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227333628007",
+    "handle": "all-over-print-beanie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier style product title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227333628007",
+    "handle": "all-over-print-beanie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227333628007",
+    "handle": "all-over-print-beanie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227309084775",
+    "handle": "unisex-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227309084775",
+    "handle": "unisex-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227309084775",
+    "handle": "unisex-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227307774055",
+    "handle": "unisex-cotton-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227307774055",
+    "handle": "unisex-cotton-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227305087079",
+    "handle": "oversized-cotton-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227305087079",
+    "handle": "oversized-cotton-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227305087079",
+    "handle": "oversized-cotton-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227304857703",
+    "handle": "oversized-cotton-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Blank public product type needs taxonomy review"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227304857703",
+    "handle": "oversized-cotton-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227304857703",
+    "handle": "oversized-cotton-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227283853415",
+    "handle": "oversized-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227283853415",
+    "handle": "oversized-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227283853415",
+    "handle": "oversized-cotton-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140624487",
+    "handle": "toddler-fleece-pullover-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140624487",
+    "handle": "toddler-fleece-pullover-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140624487",
+    "handle": "toddler-fleece-pullover-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140132967",
+    "handle": "toddler-fleece-pullover-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140132967",
+    "handle": "toddler-fleece-pullover-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227140132967",
+    "handle": "toddler-fleece-pullover-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227139215463",
+    "handle": "kids-crew-neck-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227139215463",
+    "handle": "kids-crew-neck-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227139215463",
+    "handle": "kids-crew-neck-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138265191",
+    "handle": "kids-crew-neck-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138265191",
+    "handle": "kids-crew-neck-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138265191",
+    "handle": "kids-crew-neck-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138199655",
+    "handle": "baby-short-sleeve-one-piece-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138199655",
+    "handle": "baby-short-sleeve-one-piece-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138199655",
+    "handle": "baby-short-sleeve-one-piece-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138199655",
+    "handle": "baby-short-sleeve-one-piece-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138068583",
+    "handle": "baby-short-sleeve-one-piece-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138068583",
+    "handle": "baby-short-sleeve-one-piece-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138068583",
+    "handle": "baby-short-sleeve-one-piece-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227138068583",
+    "handle": "baby-short-sleeve-one-piece-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227137904743",
+    "handle": "baby-short-sleeve-one-piece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227137904743",
+    "handle": "baby-short-sleeve-one-piece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227137904743",
+    "handle": "baby-short-sleeve-one-piece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227137904743",
+    "handle": "baby-short-sleeve-one-piece",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135938663",
+    "handle": "value-fleece-vest-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135938663",
+    "handle": "value-fleece-vest-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Single public product image"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135938663",
+    "handle": "value-fleece-vest-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135938663",
+    "handle": "value-fleece-vest-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135742055",
+    "handle": "value-fleece-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135742055",
+    "handle": "value-fleece-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Single public product image"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135742055",
+    "handle": "value-fleece-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227135742055",
+    "handle": "value-fleece-vest-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227043663975",
+    "handle": "value-fleece-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227043663975",
+    "handle": "value-fleece-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227043663975",
+    "handle": "value-fleece-vest",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227023675495",
+    "handle": "unisex-midweight-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227023675495",
+    "handle": "unisex-midweight-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10227023675495",
+    "handle": "unisex-midweight-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225980768359",
+    "handle": "cuffed-beanie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225977720935",
+    "handle": "5-panel-neon-orange-camo",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225977720935",
+    "handle": "5-panel-neon-orange-camo",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225977720935",
+    "handle": "5-panel-neon-orange-camo",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Single public product image"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225977720935",
+    "handle": "5-panel-neon-orange-camo",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225977720935",
+    "handle": "5-panel-neon-orange-camo",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225975656551",
+    "handle": "skull-cap-4",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225975656551",
+    "handle": "skull-cap-4",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225975656551",
+    "handle": "skull-cap-4",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225975656551",
+    "handle": "skull-cap-4",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225975656551",
+    "handle": "skull-cap-4",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225893277799",
+    "handle": "skull-cap-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225893277799",
+    "handle": "skull-cap-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225893277799",
+    "handle": "skull-cap-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225893277799",
+    "handle": "skull-cap-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225893277799",
+    "handle": "skull-cap-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225892589671",
+    "handle": "skull-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225892589671",
+    "handle": "skull-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225892589671",
+    "handle": "skull-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225892589671",
+    "handle": "skull-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225892589671",
+    "handle": "skull-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225891410023",
+    "handle": "skull-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225891410023",
+    "handle": "skull-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225891410023",
+    "handle": "skull-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225891410023",
+    "handle": "skull-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225891410023",
+    "handle": "skull-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225889476711",
+    "handle": "skull-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225889476711",
+    "handle": "skull-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225889476711",
+    "handle": "skull-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225889476711",
+    "handle": "skull-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225889476711",
+    "handle": "skull-cap",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225876140135",
+    "handle": "vintage-cotton-twill-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225876140135",
+    "handle": "vintage-cotton-twill-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225871388775",
+    "handle": "vintage-cotton-twill-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225871388775",
+    "handle": "vintage-cotton-twill-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225865064551",
+    "handle": "lightweight-crop-hoodie-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225865064551",
+    "handle": "lightweight-crop-hoodie-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225865064551",
+    "handle": "lightweight-crop-hoodie-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225865064551",
+    "handle": "lightweight-crop-hoodie-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225865064551",
+    "handle": "lightweight-crop-hoodie-3",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864966247",
+    "handle": "lightweight-crop-hoodie-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864966247",
+    "handle": "lightweight-crop-hoodie-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864966247",
+    "handle": "lightweight-crop-hoodie-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864966247",
+    "handle": "lightweight-crop-hoodie-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864966247",
+    "handle": "lightweight-crop-hoodie-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864933479",
+    "handle": "lightweight-crop-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864933479",
+    "handle": "lightweight-crop-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864933479",
+    "handle": "lightweight-crop-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864933479",
+    "handle": "lightweight-crop-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864933479",
+    "handle": "lightweight-crop-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864605799",
+    "handle": "lightweight-crop-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864605799",
+    "handle": "lightweight-crop-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864605799",
+    "handle": "lightweight-crop-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864605799",
+    "handle": "lightweight-crop-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225864605799",
+    "handle": "lightweight-crop-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225838227559",
+    "handle": "women-s-garment-dye-cropped-tee-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225838227559",
+    "handle": "women-s-garment-dye-cropped-tee-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225838227559",
+    "handle": "women-s-garment-dye-cropped-tee-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225838227559",
+    "handle": "women-s-garment-dye-cropped-tee-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225834786919",
+    "handle": "women-s-garment-dye-cropped-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225834786919",
+    "handle": "women-s-garment-dye-cropped-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225834786919",
+    "handle": "women-s-garment-dye-cropped-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225834786919",
+    "handle": "women-s-garment-dye-cropped-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225819746407",
+    "handle": "women-s-relaxed-v-neck-t-shirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225819746407",
+    "handle": "women-s-relaxed-v-neck-t-shirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225819746407",
+    "handle": "women-s-relaxed-v-neck-t-shirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225819746407",
+    "handle": "women-s-relaxed-v-neck-t-shirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225807753319",
+    "handle": "womens-micro-rib-racer-tank-top-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225807753319",
+    "handle": "womens-micro-rib-racer-tank-top-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225807753319",
+    "handle": "womens-micro-rib-racer-tank-top-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225807753319",
+    "handle": "womens-micro-rib-racer-tank-top-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225799888999",
+    "handle": "women-s-relaxed-v-neck-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225799888999",
+    "handle": "women-s-relaxed-v-neck-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225799888999",
+    "handle": "women-s-relaxed-v-neck-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225799888999",
+    "handle": "women-s-relaxed-v-neck-t-shirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225774788711",
+    "handle": "womens-micro-rib-racer-tank-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225774788711",
+    "handle": "womens-micro-rib-racer-tank-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225774788711",
+    "handle": "womens-micro-rib-racer-tank-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225774788711",
+    "handle": "womens-micro-rib-racer-tank-top",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225750540391",
+    "handle": "hooded-long-sleeve-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225750540391",
+    "handle": "hooded-long-sleeve-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225750540391",
+    "handle": "hooded-long-sleeve-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743921255",
+    "handle": "camouflage-trucker-hat-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743921255",
+    "handle": "camouflage-trucker-hat-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743921255",
+    "handle": "camouflage-trucker-hat-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743790183",
+    "handle": "camouflage-trucker-hat-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743790183",
+    "handle": "camouflage-trucker-hat-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10225743790183",
+    "handle": "camouflage-trucker-hat-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224768122983",
+    "handle": "camouflage-trucker-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224768122983",
+    "handle": "camouflage-trucker-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224768122983",
+    "handle": "camouflage-trucker-hat",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224608215143",
+    "handle": "posi-uv-pro-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224608215143",
+    "handle": "posi-uv-pro-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224608215143",
+    "handle": "posi-uv-pro-hoodie-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224563257447",
+    "handle": "posi-uv-pro-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224563257447",
+    "handle": "posi-uv-pro-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224563257447",
+    "handle": "posi-uv-pro-hoodie",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417833063",
+    "handle": "avenue-pullover-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417833063",
+    "handle": "avenue-pullover-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417833063",
+    "handle": "avenue-pullover-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417833063",
+    "handle": "avenue-pullover-hooded-sweatshirt-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417538151",
+    "handle": "avenue-pullover-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417538151",
+    "handle": "avenue-pullover-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417538151",
+    "handle": "avenue-pullover-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/10224417538151",
+    "handle": "avenue-pullover-hooded-sweatshirt",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Entire listing unavailable"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed apostrophe in title"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Description repeats title only"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223609217127",
+    "handle": "whitetail-syndicate-women-39-s-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223608594535",
+    "handle": "whitetail-syndicate-womens-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Entire listing unavailable"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223608594535",
+    "handle": "whitetail-syndicate-womens-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223608594535",
+    "handle": "whitetail-syndicate-womens-ideal-crew",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223524544615",
+    "handle": "whitetail-syndicate-youth-performance-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Entire listing unavailable"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223524544615",
+    "handle": "whitetail-syndicate-youth-performance-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223524544615",
+    "handle": "whitetail-syndicate-youth-performance-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223524544615",
+    "handle": "whitetail-syndicate-youth-performance-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466283111",
+    "handle": "whitetail-syndicate-a4-cooling-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Entire listing unavailable"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466283111",
+    "handle": "whitetail-syndicate-a4-cooling-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Description repeats title only"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466283111",
+    "handle": "whitetail-syndicate-a4-cooling-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466283111",
+    "handle": "whitetail-syndicate-a4-cooling-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466283111",
+    "handle": "whitetail-syndicate-a4-cooling-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466020967",
+    "handle": "whitetail-syndicate-cooling-ls-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Entire listing unavailable"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466020967",
+    "handle": "whitetail-syndicate-cooling-ls-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Description repeats title only"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466020967",
+    "handle": "whitetail-syndicate-cooling-ls-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466020967",
+    "handle": "whitetail-syndicate-cooling-ls-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/10223466020967",
+    "handle": "whitetail-syndicate-cooling-ls-tee",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7814568968295",
+    "handle": "tapered-stainless-steel-tumbler-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/7814568968295",
+    "handle": "tapered-stainless-steel-tumbler-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7814568444007",
+    "handle": "tapered-stainless-steel-tumbler",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/7814568444007",
+    "handle": "tapered-stainless-steel-tumbler",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No production or delivery wording in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798160162919",
+    "handle": "cotton-blend-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798160162919",
+    "handle": "cotton-blend-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798160162919",
+    "handle": "cotton-blend-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798160162919",
+    "handle": "cotton-blend-cap-2",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798156787815",
+    "handle": "cotton-blend-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Repeated title group needs artwork comparison"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798156787815",
+    "handle": "cotton-blend-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798156787815",
+    "handle": "cotton-blend-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798156787815",
+    "handle": "cotton-blend-cap-1",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798057468007",
+    "handle": "gildan-pullover-hoody",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Supplier or customization wording needs customer rewrite"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798057468007",
+    "handle": "gildan-pullover-hoody",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "Malformed quoted description links"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798057468007",
+    "handle": "gildan-pullover-hoody",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit sizing guide text in description"
+  },
+  {
+    "product_id": "gid://shopify/Product/7798057468007",
+    "handle": "gildan-pullover-hoody",
+    "source": "october_1_audit",
+    "type": "audit_evidence",
+    "priority": "P2",
+    "message": "No explicit care wording in description"
+  }
+]

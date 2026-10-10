@@ -1,0 +1,268 @@
+{
+  "source_workbook": "Whitetail_2x_Cost_Pricing_Decision_Workbook.xlsx",
+  "sheet": "Instructions",
+  "read_only_export": true,
+  "note": "Values are saved workbook values; formulas are preserved as text and were not recalculated. Prices are proposals unless approval evidence is attached.",
+  "rows": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "INSTRUCTIONS",
+          "formula": null
+        },
+        {
+          "cell": "B1",
+          "value": "",
+          "formula": null
+        },
+        {
+          "cell": "C1",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "cell": "A4",
+          "value": "1. Review catalog",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "Open the 2-per-page HTML or PDF alongside this workbook.",
+          "formula": null
+        },
+        {
+          "cell": "C4",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "cell": "A5",
+          "value": "2. Product decisions",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "Place X in Product Review column O to remove a whole listing.",
+          "formula": null
+        },
+        {
+          "cell": "C5",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "cell": "A6",
+          "value": "3. Color decisions",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "Place X on one or more Color Decisions rows for unwanted color options.",
+          "formula": null
+        },
+        {
+          "cell": "C6",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "cell": "A7",
+          "value": "4. Edit price standards",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "Change Tier Pricing column B. Proposed prices on Product Review calculate from the tier; customer affordability is the priority.",
+          "formula": null
+        },
+        {
+          "cell": "C7",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "cell": "A8",
+          "value": "5. Current retail",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "The first/highest price shown comes from Shopify current variant price range on Oct 8.",
+          "formula": null
+        },
+        {
+          "cell": "C8",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "cell": "A9",
+          "value": "6. Shopify unit cost",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "Cost-per-item values are Shopify InventoryItem.unitCost, NOT independently verified supplier print charges, shipping, tax or landed costs.",
+          "formula": null
+        },
+        {
+          "cell": "C9",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "cell": "A10",
+          "value": "7. Proposed retail",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "Consumer-facing category targets, typically near 2x the cost of a viable supplier. High supplier costs are a sourcing problem, not a reason to inflate the category price.",
+          "formula": null
+        },
+        {
+          "cell": "C10",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "cell": "A11",
+          "value": "8. Review warnings",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "Hold or re-source if actual Shopify cost is above affordable standard or too close for the roughly 2x target. Other high-multiple and incomplete rows need review.",
+          "formula": null
+        },
+        {
+          "cell": "C11",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "cell": "A12",
+          "value": "9. Incomplete variant coverage",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "Products with >40 variants have cost figures based on the first 40 returned; compare supplier costs before approving a category price.",
+          "formula": null
+        },
+        {
+          "cell": "C12",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "cell": "A13",
+          "value": "10. No automatic action",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "X marks are review instructions, not changes to live Shopify data.",
+          "formula": null
+        },
+        {
+          "cell": "C13",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "cell": "A14",
+          "value": "Data source",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "Shopify Admin read-only GraphQL products/variants as of 2026-10-08.",
+          "formula": null
+        },
+        {
+          "cell": "C14",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "cell": "A15",
+          "value": "Report",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "Product count: 137. Cost values available for 135 listings. Color choices: 363.",
+          "formula": null
+        },
+        {
+          "cell": "C15",
+          "value": "",
+          "formula": null
+        }
+      ]
+    }
+  ]
+}

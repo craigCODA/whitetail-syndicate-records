@@ -1,0 +1,4233 @@
+{
+  "schema_version": 1,
+  "materials": [
+    {
+      "id": "material-bc37d034bad5",
+      "path": ".gitignore",
+      "area": "project",
+      "title": ".gitignore",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of project work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a54ff182c7e8",
+      "path": "AGENTS.md",
+      "area": "records",
+      "title": "AGENTS.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:18.860256+00:00"
+    },
+    {
+      "id": "material-b33563055168",
+      "path": "README.md",
+      "area": "records",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:18.894744+00:00"
+    },
+    {
+      "id": "material-6c33a3943990",
+      "path": "STATUS.md",
+      "area": "records",
+      "title": "STATUS.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:18.927002+00:00"
+    },
+    {
+      "id": "material-c3685680d134",
+      "path": "artwork/README.md",
+      "area": "artwork",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f888fe060658",
+      "path": "artwork/inventory/2026-10-08-artwork-inventory.xlsx",
+      "area": "artwork",
+      "title": "2026-10-08-artwork-inventory.xlsx",
+      "status": "source",
+      "source_refs": [
+        "libfile_4bbc5c9e167c8191b3c9deb630aa8d24"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2fb5dd26adfd",
+      "path": "artwork/inventory/artwork-24-artwork-families.json",
+      "area": "artwork",
+      "title": "artwork-24-artwork-families.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4bbc5c9e167c8191b3c9deb630aa8d24"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-47a71396d69f",
+      "path": "artwork/inventory/artwork-all-137-products.json",
+      "area": "artwork",
+      "title": "artwork-all-137-products.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4bbc5c9e167c8191b3c9deb630aa8d24"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-42e0bc1622b6",
+      "path": "artwork/inventory/artwork-overview.json",
+      "area": "artwork",
+      "title": "artwork-overview.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4bbc5c9e167c8191b3c9deb630aa8d24"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-064df218def4",
+      "path": "artwork/inventory/artwork-photo-recovery.json",
+      "area": "artwork",
+      "title": "artwork-photo-recovery.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4bbc5c9e167c8191b3c9deb630aa8d24"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ac130c1ca2b3",
+      "path": "artwork/product-source-archive/README.txt",
+      "area": "artwork",
+      "title": "README.txt",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-25ab0528c41d",
+      "path": "artwork/product-source-archive/archive_gallery.html",
+      "area": "artwork",
+      "title": "archive_gallery.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4235d15da830",
+      "path": "artwork/product-source-archive/download_product_images.ps1",
+      "area": "artwork",
+      "title": "download_product_images.ps1",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4a4e6062093d",
+      "path": "artwork/product-source-archive/download_product_images.py",
+      "area": "artwork",
+      "title": "download_product_images.py",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6f8565f5d395",
+      "path": "artwork/product-source-archive/gear-accessories/products.json",
+      "area": "artwork",
+      "title": "products.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ed41e461e4a1",
+      "path": "artwork/product-source-archive/hats-beanies/products.json",
+      "area": "artwork",
+      "title": "products.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5be7f78c76c9",
+      "path": "artwork/product-source-archive/manifest_all.json",
+      "area": "artwork",
+      "title": "manifest_all.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_90089bf64e4c8191b2839e03ddceddde"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c0c7f4400b68",
+      "path": "artwork/reference/original-placement-proposal.pdf",
+      "area": "artwork",
+      "title": "original-placement-proposal.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_131bba7a3c3481919248ed6ffa2d03df"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-8c3fe33c3894",
+      "path": "artwork/reference/placement-proposal-readable.md",
+      "area": "artwork",
+      "title": "placement-proposal-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_131bba7a3c3481919248ed6ffa2d03df"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of artwork work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d25d63c97f2a",
+      "path": "interviews/README.md",
+      "area": "interviews",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0be94ada4417",
+      "path": "interviews/index.json",
+      "area": "interviews",
+      "title": "index.json",
+      "status": "source",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-64cd79258123",
+      "path": "interviews/nathan-deville/README.md",
+      "area": "interviews",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a6ff76f3efac",
+      "path": "interviews/nathan-deville/source-page-readable.md",
+      "area": "interviews",
+      "title": "source-page-readable.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_f47082bd41f0819186c861ef022296f7"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ca5841226977",
+      "path": "interviews/second-interview/README.md",
+      "area": "interviews",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2058a198c566",
+      "path": "interviews/templates/interview-and-permissions-readable.md",
+      "area": "interviews",
+      "title": "interview-and-permissions-readable.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_cf10a64e1c288191ae4a10bb2934ea05"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5762ad9df1b4",
+      "path": "interviews/templates/original-live-interview-packet.pdf",
+      "area": "interviews",
+      "title": "original-live-interview-packet.pdf",
+      "status": "source",
+      "source_refs": [
+        "libfile_cf10a64e1c288191ae4a10bb2934ea05"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d1906ffb00fa",
+      "path": "interviews/templates/original-questionnaire.pdf",
+      "area": "interviews",
+      "title": "original-questionnaire.pdf",
+      "status": "source",
+      "source_refs": [
+        "libfile_27cc68affb1c8191ac9130d3a2b740da"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4d62038d3695",
+      "path": "interviews/templates/questionnaire-readable.md",
+      "area": "interviews",
+      "title": "questionnaire-readable.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_27cc68affb1c8191ac9130d3a2b740da"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of interviews work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d284f31e05d6",
+      "path": "launch-research/README.md",
+      "area": "launch-research",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of launch-research work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-20773dcedbc1",
+      "path": "launch-research/historical/2026-10-08-full-packet-readable.md",
+      "area": "launch-research",
+      "title": "2026-10-08-full-packet-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_0b436d5df6c4819195988da4769024a2"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of launch-research work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-48bd9d3dd46c",
+      "path": "launch-research/historical/2026-10-08-full-packet.pdf",
+      "area": "launch-research",
+      "title": "2026-10-08-full-packet.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_0b436d5df6c4819195988da4769024a2"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of launch-research work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b6010dab2060",
+      "path": "launch-research/historical/2026-10-08-staged-site-presentation.pdf",
+      "area": "launch-research",
+      "title": "2026-10-08-staged-site-presentation.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_c195e82f6ef08191a3c28058540e0d26"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of launch-research work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-82e1c55ae492",
+      "path": "outreach/README.md",
+      "area": "outreach",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b5c2770d438c",
+      "path": "outreach/contacts/273-outdoors-chris/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-441f7c485bd1",
+      "path": "outreach/contacts/al-raychard-bangor-daily-news/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-36398c0afd55",
+      "path": "outreach/contacts/alexis-nunan-hero-hunts-foundation/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4d155a0515c3",
+      "path": "outreach/contacts/anderson-dingus-whitetails-unlimited-lonoke-county/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c315bdc268ed",
+      "path": "outreach/contacts/antlers-deer-festival/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6ae0b8762c23",
+      "path": "outreach/contacts/arkansas-big-buck-classic/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-76cb1bbd368c",
+      "path": "outreach/contacts/ashley-edwards-missouri-department-of-conservation/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f2f7750d4148",
+      "path": "outreach/contacts/ashley-eve-wildlife-taxidermy/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6dab5b52308a",
+      "path": "outreach/contacts/austin-and-charles-the-whitetail-distraction-podcast/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e9f01c84d8db",
+      "path": "outreach/contacts/bear-grease-meateater/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-852d3f611bbe",
+      "path": "outreach/contacts/big-h-hunts/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-74148912a0cb",
+      "path": "outreach/contacts/bill-s-sporting-goods/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5715b85d497e",
+      "path": "outreach/contacts/blue-sage-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7258f5a1dfb7",
+      "path": "outreach/contacts/bobby-armstrong-po-folk-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6b5a7d6e728a",
+      "path": "outreach/contacts/bobby-cole-outdoor-mentors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-bfcdac093be3",
+      "path": "outreach/contacts/brian-and-jeanne-herndon-big-creek-ducks-n-bucks/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b6df86170e8f",
+      "path": "outreach/contacts/charles-gaines-pine-tree-wda/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4c976ef95eeb",
+      "path": "outreach/contacts/cherokee-nation-wildlife/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c478ebacd58e",
+      "path": "outreach/contacts/clifton-denney-on-your-own-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6a917990b5c5",
+      "path": "outreach/contacts/cypress-valley-meat-company/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e9bb69181987",
+      "path": "outreach/contacts/darrell-noblitt-original-outreach-attribution-unconfirmed/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-97098ce23091",
+      "path": "outreach/contacts/darren-haverstick-united-bowhunters-of-missouri/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-14d2ab362592",
+      "path": "outreach/contacts/david-feisal-sportsman-s-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-592a0b0d47e6",
+      "path": "outreach/contacts/david-hinceman-hands-of-a-sportsman/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-fb0080097bbe",
+      "path": "outreach/contacts/dd214-outdoor-ministry/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d31710b8bcb0",
+      "path": "outreach/contacts/dr-mark-turner-blazin-grazin-and-other-wild-things/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a5c27fbdc77c",
+      "path": "outreach/contacts/duane-hada-cross-trail-outfitters-buffalo-river/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6f4396ae301e",
+      "path": "outreach/contacts/duck-creek-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-91b40d3ccad9",
+      "path": "outreach/contacts/dwayne-arkansas-bowhunters-association/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-43fad0ccac9b",
+      "path": "outreach/contacts/ed-haas-white-river-now/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-df6f097284b3",
+      "path": "outreach/contacts/findmybucknwa-drones-inbound/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-007e484bd8ae",
+      "path": "outreach/contacts/fort-rock-family-camp/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e1ebbf51fdd5",
+      "path": "outreach/contacts/gary-futrell-river-ranch-mentored-hunt/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cb251baad420",
+      "path": "outreach/contacts/greg-allen-bend-of-the-river-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1b321dcc4e0b",
+      "path": "outreach/contacts/greg-ray-outdoor-solutions-and-from-field-to-table/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-79160732cd2d",
+      "path": "outreach/contacts/hardwood-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d8897828de95",
+      "path": "outreach/contacts/harvesting-nature/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-dc7755d7b798",
+      "path": "outreach/contacts/huntdog-arkansas/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f0a23579b29d",
+      "path": "outreach/contacts/hunters-advantage-podcast-invitation-for-jordan-shofler/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-082e49258fe0",
+      "path": "outreach/contacts/hunters-harvest-berryville/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-124a72575ae2",
+      "path": "outreach/contacts/hunting-with-soldiers/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ad53db16c15d",
+      "path": "outreach/contacts/index.md",
+      "area": "outreach",
+      "title": "index.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ee448ce67042",
+      "path": "outreach/contacts/island-ranch/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f31c72b6993a",
+      "path": "outreach/contacts/jana-stout-the-quiver-peel-compton-foundation/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4be41722427b",
+      "path": "outreach/contacts/jay-compton-whitetail-properties/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-882aa04d5250",
+      "path": "outreach/contacts/joe-and-jamie-cannady-otter-creek-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-398a98f3c59f",
+      "path": "outreach/contacts/joel-acay-blast-cast-men-s-ministries/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-18d24c610dee",
+      "path": "outreach/contacts/joey-gentry-bull-shoals-lakeview-area/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9e0d1e5c23ab",
+      "path": "outreach/contacts/john-burk-missouri-governor-s-mentored-deer-hunt/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-dacebd67b5ba",
+      "path": "outreach/contacts/john-g-allman-atterbury-sportsman-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c28bb4116cff",
+      "path": "outreach/contacts/john-valor-camp-arkansas/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c41710d6851b",
+      "path": "outreach/contacts/jon-mission-4-19-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1ffc26f36ea5",
+      "path": "outreach/contacts/jonathan-mills-fort-campbell-fish-and-wildlife/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0c4508744959",
+      "path": "outreach/contacts/julie-hunters-for-the-hungry-louisiana/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cd646beab4fa",
+      "path": "outreach/contacts/kempf-s-meat-processing/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-69f1930a7fe5",
+      "path": "outreach/contacts/kevin-potts-reaching-outdoors-of-texas/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-00dc061c4739",
+      "path": "outreach/contacts/kylie-harris-searcy-county-4-h/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-09f13e368421",
+      "path": "outreach/contacts/lea-white-becoming-an-outdoors-woman-arkansas/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c829e1e8ed4d",
+      "path": "outreach/contacts/liberty-hill-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d3397ed19a0d",
+      "path": "outreach/contacts/logan-battle-branch-boys/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b51ac00d3566",
+      "path": "outreach/contacts/louisiana-outdoor-expo/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b2f779700d60",
+      "path": "outreach/contacts/luke-clayton/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5eb9916e13ae",
+      "path": "outreach/contacts/matt-mcnair-arkansas-wild/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7ef5163469eb",
+      "path": "outreach/contacts/micah-holmes-outdoor-oklahoma-odwc/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d02f565a7aeb",
+      "path": "outreach/contacts/mike-coffee-renfro-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-dfff3246f707",
+      "path": "outreach/contacts/mike-cranford-southern-sportsmen-foundation/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4983d0b76d16",
+      "path": "outreach/contacts/missouri-hunting-heritage-federation/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-63512056818e",
+      "path": "outreach/contacts/missouri-woods-water-podcast/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7d9a856641d0",
+      "path": "outreach/contacts/national-deer-association-keener-and-sons-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-972e80401e98",
+      "path": "outreach/contacts/naturally-wild-arkansas-tv/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-417a250e80f6",
+      "path": "outreach/contacts/nicole-gardner-camp/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f732e0f5bbc9",
+      "path": "outreach/contacts/north-american-whitetail-derek-curtis-inquiry/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-aa4059073433",
+      "path": "outreach/contacts/okie-land-bowhunters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d3de88d0ce44",
+      "path": "outreach/contacts/oklahoma-fur-bearers-alliance/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9dac263de953",
+      "path": "outreach/contacts/oklahoma-outdoor-pursuits/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-59af0341f7b0",
+      "path": "outreach/contacts/oklahoma-youth-hunting-program/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-acc97ddac021",
+      "path": "outreach/contacts/old-miss-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4ee2db90a738",
+      "path": "outreach/contacts/on-target-outfitters-dan-tyrrell/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-8a0f839a6524",
+      "path": "outreach/contacts/opie-thomas-paul-and-christy-parsons-hope-outdoors-searcy/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-dd43a68e62e4",
+      "path": "outreach/contacts/opportunity-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b61799c39fc5",
+      "path": "outreach/contacts/original-google-contacts.csv",
+      "area": "outreach",
+      "title": "original-google-contacts.csv",
+      "status": "source",
+      "source_refs": [
+        "libfile_81f1630d2ac88191b34eb11f6fbf1eda"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ac2cb0b49c3e",
+      "path": "outreach/contacts/osage-nation-department-of-natural-resources-kassidee-chouteau/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-8a3ed010fb07",
+      "path": "outreach/contacts/paul-tyus-4m-whitetails/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-8b194f1bd628",
+      "path": "outreach/contacts/pete-eisentrager-missouri-disabled-sportsmen/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-27946a041f11",
+      "path": "outreach/contacts/pushmataha-county-sportsman-club-inquiry/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-59db461acd51",
+      "path": "outreach/contacts/quapaw-nation-public-relations-and-wildlife/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0450e5ecac80",
+      "path": "outreach/contacts/randall-jay-townsend-usace-little-rock-district/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0567fdff2fb6",
+      "path": "outreach/contacts/red-rock-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f8d265b8a743",
+      "path": "outreach/contacts/rhett-acker-oklahoma-drone-recovery-company/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f52c69e28022",
+      "path": "outreach/contacts/rick-nolan-oklahoma-hunters-anglers/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-bc411bf0c431",
+      "path": "outreach/contacts/rivers-woods-county-whitetails/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-57666efc92a6",
+      "path": "outreach/contacts/ronnie-ritter-arkansas-hunters-feeding-the-hungry/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-733b77124722",
+      "path": "outreach/contacts/rustic-rack-outdoors/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6b3fa76855e9",
+      "path": "outreach/contacts/rusty-redfearn-rockin-69-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0c3f86818bc4",
+      "path": "outreach/contacts/s-bar-outfitters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5814765a349a",
+      "path": "outreach/contacts/safari-club-international-women-go-hunting/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a33dc8396fd7",
+      "path": "outreach/contacts/scott-hargrove-compton-traditional-bowhunters/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-185266536ff2",
+      "path": "outreach/contacts/shawn-daniel-darby-s-warrior-support/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-24850266a890",
+      "path": "outreach/contacts/silver-creek-hunting-club-david-glover/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d7d0e116f67a",
+      "path": "outreach/contacts/the-ozark-podcast/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ec1c1202c029",
+      "path": "outreach/contacts/todd-hsvpoa-urban-deer-hunt/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-56f285fe58d5",
+      "path": "outreach/contacts/trakr/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-244ac6fb2dfd",
+      "path": "outreach/contacts/tron-peterson-outdoors-ministries/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-8451533f1c65",
+      "path": "outreach/contacts/tu-mile-sportsmen-s-association/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-494ec0160cdb",
+      "path": "outreach/contacts/tulsa-archery-association/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-effde3f1153c",
+      "path": "outreach/contacts/virginia-rhame-slayton-my-natural-state-story/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cd4d477e66ba",
+      "path": "outreach/contacts/whitetails-unlimited-red-dirt-oklahoma-chapter/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6a50e7cb9683",
+      "path": "outreach/contacts/wild-country-meats/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-934eb0929de7",
+      "path": "outreach/contacts/wildherness/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a4cc7ab8b328",
+      "path": "outreach/contacts/william-frost-dan-fout-memorial-disabled-veterans-hunt/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-3e66e1f77efc",
+      "path": "outreach/contacts/willow-creek-hunting-club/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-65eb6ba57aa2",
+      "path": "outreach/contacts/woodlot-whitetail/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c81c36319ffe",
+      "path": "outreach/contacts/working-class-bowhunter-hunting-mason-dixon/profile.md",
+      "area": "outreach",
+      "title": "profile.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ec06dc906f16",
+      "path": "outreach/reference/2026-10-07-reply-strategy.md",
+      "area": "outreach",
+      "title": "2026-10-07-reply-strategy.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_2eb7718442e08191aad09972102fd387"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9ac73fd5e685",
+      "path": "outreach/reference/2026-10-07-update.md",
+      "area": "outreach",
+      "title": "2026-10-07-update.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_297316c6c1488191a7278eaed1ce86c4"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d2af05bc2112",
+      "path": "outreach/reference/first-call-binder-readable.md",
+      "area": "outreach",
+      "title": "first-call-binder-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_fed132acfca88191be96cf2811bf367e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1023f4af2d53",
+      "path": "outreach/reference/first-call-binder.pdf",
+      "area": "outreach",
+      "title": "first-call-binder.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_fed132acfca88191be96cf2811bf367e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-3046d8ab8195",
+      "path": "outreach/reply-status.json",
+      "area": "outreach",
+      "title": "reply-status.json",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-53540f81afa7",
+      "path": "outreach/sending-policy.json",
+      "area": "outreach",
+      "title": "sending-policy.json",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-73d5452518b0",
+      "path": "outreach/snapshots/2026-10-08-contact-packet-evidence.json",
+      "area": "outreach",
+      "title": "2026-10-08-contact-packet-evidence.json",
+      "status": "historical",
+      "source_refs": [
+        "libfile_a62f96fd6b9481918b5c0be8c2879c33"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9cbc03425141",
+      "path": "outreach/snapshots/2026-10-09-master-record.json",
+      "area": "outreach",
+      "title": "2026-10-09-master-record.json",
+      "status": "historical",
+      "source_refs": [
+        "libfile_81ab66bbeda081919b137ae8c0d413f1"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-30b77fc2ba74",
+      "path": "outreach/snapshots/2026-10-09-readable-review.html",
+      "area": "outreach",
+      "title": "2026-10-09-readable-review.html",
+      "status": "historical",
+      "source_refs": [
+        "libfile_2a2999802b04819190074fd357f1bb8e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of outreach work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6216b8e27926",
+      "path": "product-audit/README.md",
+      "area": "product-audit",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-85fb271e9707",
+      "path": "product-audit/application/.gitignore",
+      "area": "product-audit",
+      "title": ".gitignore",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0d9c83331add",
+      "path": "product-audit/application/README.md",
+      "area": "product-audit",
+      "title": "README.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-137c347bbe53",
+      "path": "product-audit/application/data/normalized/audit-flags.json",
+      "area": "product-audit",
+      "title": "audit-flags.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2dc79f500308",
+      "path": "product-audit/application/data/normalized/designs.json",
+      "area": "product-audit",
+      "title": "designs.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-785da8928d3c",
+      "path": "product-audit/application/data/normalized/products.json",
+      "area": "product-audit",
+      "title": "products.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-31d319b79226",
+      "path": "product-audit/application/data/normalized/snapshot-meta.json",
+      "area": "product-audit",
+      "title": "snapshot-meta.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-08bef525b223",
+      "path": "product-audit/application/data/raw/october-1-audit-reference.json",
+      "area": "product-audit",
+      "title": "october-1-audit-reference.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cfc5dcf6027e",
+      "path": "product-audit/application/data/raw/shopify-live-2026-10-06.json",
+      "area": "product-audit",
+      "title": "shopify-live-2026-10-06.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5394cd71e834",
+      "path": "product-audit/application/dist/data/normalized/audit-flags.json",
+      "area": "product-audit",
+      "title": "audit-flags.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-aaa93778d070",
+      "path": "product-audit/application/dist/data/normalized/designs.json",
+      "area": "product-audit",
+      "title": "designs.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b02a345fe6e7",
+      "path": "product-audit/application/dist/data/normalized/products.json",
+      "area": "product-audit",
+      "title": "products.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7f97a0478b23",
+      "path": "product-audit/application/dist/data/normalized/snapshot-meta.json",
+      "area": "product-audit",
+      "title": "snapshot-meta.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1fcec4c394e2",
+      "path": "product-audit/application/dist/data/raw/october-1-audit-reference.json",
+      "area": "product-audit",
+      "title": "october-1-audit-reference.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-12fff501584a",
+      "path": "product-audit/application/dist/data/raw/shopify-live-2026-10-06.json",
+      "area": "product-audit",
+      "title": "shopify-live-2026-10-06.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-55abe73d0252",
+      "path": "product-audit/application/dist/index.html",
+      "area": "product-audit",
+      "title": "index.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-70f8563860d9",
+      "path": "product-audit/application/dist/public/icon.svg",
+      "area": "product-audit",
+      "title": "icon.svg",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-809dd99c451f",
+      "path": "product-audit/application/dist/public/manifest.webmanifest",
+      "area": "product-audit",
+      "title": "manifest.webmanifest",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-db20eb5a641a",
+      "path": "product-audit/application/dist/public/sw.js",
+      "area": "product-audit",
+      "title": "sw.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-642bb39fe7c2",
+      "path": "product-audit/application/dist/src/app.js",
+      "area": "product-audit",
+      "title": "app.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e5bde617273a",
+      "path": "product-audit/application/dist/src/components/confirmation-dialog.js",
+      "area": "product-audit",
+      "title": "confirmation-dialog.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-56036ad95e2d",
+      "path": "product-audit/application/dist/src/components/decision-controls.js",
+      "area": "product-audit",
+      "title": "decision-controls.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6ce6aee12600",
+      "path": "product-audit/application/dist/src/components/flag-list.js",
+      "area": "product-audit",
+      "title": "flag-list.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-523fe44ac383",
+      "path": "product-audit/application/dist/src/components/product-card.js",
+      "area": "product-audit",
+      "title": "product-card.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d10555d480ba",
+      "path": "product-audit/application/dist/src/components/status-chip.js",
+      "area": "product-audit",
+      "title": "status-chip.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9607d611363e",
+      "path": "product-audit/application/dist/src/config.js",
+      "area": "product-audit",
+      "title": "config.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-47da9252261d",
+      "path": "product-audit/application/dist/src/data/load-baseline.js",
+      "area": "product-audit",
+      "title": "load-baseline.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d6c7296d3285",
+      "path": "product-audit/application/dist/src/data/validate-baseline.js",
+      "area": "product-audit",
+      "title": "validate-baseline.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7d4d85ee1938",
+      "path": "product-audit/application/dist/src/domain/actions.js",
+      "area": "product-audit",
+      "title": "actions.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2fbbcc70bfb2",
+      "path": "product-audit/application/dist/src/domain/design-impact.js",
+      "area": "product-audit",
+      "title": "design-impact.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-086302af1afb",
+      "path": "product-audit/application/dist/src/domain/duplicates.js",
+      "area": "product-audit",
+      "title": "duplicates.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5380420eb3c2",
+      "path": "product-audit/application/dist/src/domain/flags.js",
+      "area": "product-audit",
+      "title": "flags.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-40a2e7fca4c4",
+      "path": "product-audit/application/dist/src/domain/product-decision-flow.js",
+      "area": "product-audit",
+      "title": "product-decision-flow.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-3b7d7b603a0b",
+      "path": "product-audit/application/dist/src/domain/readiness.js",
+      "area": "product-audit",
+      "title": "readiness.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-240dec9037d6",
+      "path": "product-audit/application/dist/src/domain/review-order.js",
+      "area": "product-audit",
+      "title": "review-order.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-34b148ac71e1",
+      "path": "product-audit/application/dist/src/export/exporters.js",
+      "area": "product-audit",
+      "title": "exporters.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d2ccf74f0a5a",
+      "path": "product-audit/application/dist/src/export/import-decisions.js",
+      "area": "product-audit",
+      "title": "import-decisions.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cbdc6e918416",
+      "path": "product-audit/application/dist/src/state/db.js",
+      "area": "product-audit",
+      "title": "db.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4c63d64e7028",
+      "path": "product-audit/application/dist/src/state/repository.js",
+      "area": "product-audit",
+      "title": "repository.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-20da63f87851",
+      "path": "product-audit/application/dist/src/styles.css",
+      "area": "product-audit",
+      "title": "styles.css",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-6abf84b2409d",
+      "path": "product-audit/application/dist/src/views/action-queue.js",
+      "area": "product-audit",
+      "title": "action-queue.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cddcad7555cf",
+      "path": "product-audit/application/dist/src/views/dashboard.js",
+      "area": "product-audit",
+      "title": "dashboard.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a9c9c148422c",
+      "path": "product-audit/application/dist/src/views/design-library.js",
+      "area": "product-audit",
+      "title": "design-library.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-204f95b70814",
+      "path": "product-audit/application/dist/src/views/duplicate-review.js",
+      "area": "product-audit",
+      "title": "duplicate-review.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0992409f5a9f",
+      "path": "product-audit/application/dist/src/views/launch-collection.js",
+      "area": "product-audit",
+      "title": "launch-collection.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-725f57dc1a96",
+      "path": "product-audit/application/dist/src/views/product-review.js",
+      "area": "product-audit",
+      "title": "product-review.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f059d4fb6cc7",
+      "path": "product-audit/application/dist/sw.js",
+      "area": "product-audit",
+      "title": "sw.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9ef13e35ee40",
+      "path": "product-audit/application/docs/superpowers/plans/2026-10-06-whitetail-product-control-implementation.md",
+      "area": "product-audit",
+      "title": "2026-10-06-whitetail-product-control-implementation.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0c3515107341",
+      "path": "product-audit/application/docs/superpowers/specs/2026-10-06-whitetail-product-control-design.md",
+      "area": "product-audit",
+      "title": "2026-10-06-whitetail-product-control-design.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cabb98d59f25",
+      "path": "product-audit/application/index.html",
+      "area": "product-audit",
+      "title": "index.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-91511baad941",
+      "path": "product-audit/application/package.json",
+      "area": "product-audit",
+      "title": "package.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ba48d9bc511b",
+      "path": "product-audit/application/public/icon.svg",
+      "area": "product-audit",
+      "title": "icon.svg",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0d9ad8b37d82",
+      "path": "product-audit/application/public/manifest.webmanifest",
+      "area": "product-audit",
+      "title": "manifest.webmanifest",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9314ef4bcf10",
+      "path": "product-audit/application/public/sw.js",
+      "area": "product-audit",
+      "title": "sw.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-129e6e821e27",
+      "path": "product-audit/application/scripts/build.mjs",
+      "area": "product-audit",
+      "title": "build.mjs",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4a51c41e5b7e",
+      "path": "product-audit/application/scripts/normalize-baseline.mjs",
+      "area": "product-audit",
+      "title": "normalize-baseline.mjs",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e2e86a183d32",
+      "path": "product-audit/application/src/app.js",
+      "area": "product-audit",
+      "title": "app.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-32e626fdfcb1",
+      "path": "product-audit/application/src/components/confirmation-dialog.js",
+      "area": "product-audit",
+      "title": "confirmation-dialog.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cb1470748e51",
+      "path": "product-audit/application/src/components/decision-controls.js",
+      "area": "product-audit",
+      "title": "decision-controls.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f137f4d40b5c",
+      "path": "product-audit/application/src/components/flag-list.js",
+      "area": "product-audit",
+      "title": "flag-list.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-96ee4c8eb7d7",
+      "path": "product-audit/application/src/components/product-card.js",
+      "area": "product-audit",
+      "title": "product-card.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4c59033215a6",
+      "path": "product-audit/application/src/components/status-chip.js",
+      "area": "product-audit",
+      "title": "status-chip.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-be0f7cda8db4",
+      "path": "product-audit/application/src/config.js",
+      "area": "product-audit",
+      "title": "config.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2b73a4acbb42",
+      "path": "product-audit/application/src/data/load-baseline.js",
+      "area": "product-audit",
+      "title": "load-baseline.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b17088c63e81",
+      "path": "product-audit/application/src/data/validate-baseline.js",
+      "area": "product-audit",
+      "title": "validate-baseline.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-3bcc5ff19f76",
+      "path": "product-audit/application/src/domain/actions.js",
+      "area": "product-audit",
+      "title": "actions.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cc6bd0b201ea",
+      "path": "product-audit/application/src/domain/design-impact.js",
+      "area": "product-audit",
+      "title": "design-impact.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a119f008b7b1",
+      "path": "product-audit/application/src/domain/duplicates.js",
+      "area": "product-audit",
+      "title": "duplicates.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b407f7268290",
+      "path": "product-audit/application/src/domain/flags.js",
+      "area": "product-audit",
+      "title": "flags.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9bb25fbdd1f8",
+      "path": "product-audit/application/src/domain/product-decision-flow.js",
+      "area": "product-audit",
+      "title": "product-decision-flow.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-d6d2b5512748",
+      "path": "product-audit/application/src/domain/readiness.js",
+      "area": "product-audit",
+      "title": "readiness.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-66ca065a7009",
+      "path": "product-audit/application/src/domain/review-order.js",
+      "area": "product-audit",
+      "title": "review-order.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-688f8fd798bd",
+      "path": "product-audit/application/src/export/exporters.js",
+      "area": "product-audit",
+      "title": "exporters.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5548e8758811",
+      "path": "product-audit/application/src/export/import-decisions.js",
+      "area": "product-audit",
+      "title": "import-decisions.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-b4cee6a63dec",
+      "path": "product-audit/application/src/state/db.js",
+      "area": "product-audit",
+      "title": "db.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-cca80d7b936e",
+      "path": "product-audit/application/src/state/repository.js",
+      "area": "product-audit",
+      "title": "repository.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1119d537335a",
+      "path": "product-audit/application/src/styles.css",
+      "area": "product-audit",
+      "title": "styles.css",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a65958acea9d",
+      "path": "product-audit/application/src/views/action-queue.js",
+      "area": "product-audit",
+      "title": "action-queue.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-1d6667e9d165",
+      "path": "product-audit/application/src/views/dashboard.js",
+      "area": "product-audit",
+      "title": "dashboard.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9ab3fdf3610a",
+      "path": "product-audit/application/src/views/design-library.js",
+      "area": "product-audit",
+      "title": "design-library.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-a5c9afea62ce",
+      "path": "product-audit/application/src/views/duplicate-review.js",
+      "area": "product-audit",
+      "title": "duplicate-review.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-76a2d2585ee7",
+      "path": "product-audit/application/src/views/launch-collection.js",
+      "area": "product-audit",
+      "title": "launch-collection.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9a1467638bc4",
+      "path": "product-audit/application/src/views/product-review.js",
+      "area": "product-audit",
+      "title": "product-review.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-70fb9393c751",
+      "path": "product-audit/application/start_product_control.bat",
+      "area": "product-audit",
+      "title": "start_product_control.bat",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-7489a5d2f28a",
+      "path": "product-audit/application/start_product_control.sh",
+      "area": "product-audit",
+      "title": "start_product_control.sh",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-fb012e54f86a",
+      "path": "product-audit/application/sw.js",
+      "area": "product-audit",
+      "title": "sw.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-43eef4d5bb2a",
+      "path": "product-audit/application/tests/data/normalize-baseline.test.js",
+      "area": "product-audit",
+      "title": "normalize-baseline.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e45d5cc650aa",
+      "path": "product-audit/application/tests/domain/actions.test.js",
+      "area": "product-audit",
+      "title": "actions.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c16a0ece5b67",
+      "path": "product-audit/application/tests/domain/design-impact.test.js",
+      "area": "product-audit",
+      "title": "design-impact.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-adf15491aeff",
+      "path": "product-audit/application/tests/domain/duplicates.test.js",
+      "area": "product-audit",
+      "title": "duplicates.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-057654c5cae5",
+      "path": "product-audit/application/tests/domain/flags.test.js",
+      "area": "product-audit",
+      "title": "flags.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-37571ae5d3de",
+      "path": "product-audit/application/tests/domain/product-decision-flow.test.js",
+      "area": "product-audit",
+      "title": "product-decision-flow.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-99effdedca84",
+      "path": "product-audit/application/tests/domain/readiness.test.js",
+      "area": "product-audit",
+      "title": "readiness.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2212c91a07e6",
+      "path": "product-audit/application/tests/domain/review-order.test.js",
+      "area": "product-audit",
+      "title": "review-order.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-77ff4445e4d0",
+      "path": "product-audit/application/tests/e2e/action-execution.spec.js",
+      "area": "product-audit",
+      "title": "action-execution.spec.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-50e10cf536cc",
+      "path": "product-audit/application/tests/e2e/action-queue.spec.js",
+      "area": "product-audit",
+      "title": "action-queue.spec.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e259dab648d4",
+      "path": "product-audit/application/tests/e2e/offline.spec.js",
+      "area": "product-audit",
+      "title": "offline.spec.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e9a467b810d3",
+      "path": "product-audit/application/tests/e2e/product-review.spec.js",
+      "area": "product-audit",
+      "title": "product-review.spec.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-93f95ba5d8cc",
+      "path": "product-audit/application/tests/export/exporters.test.js",
+      "area": "product-audit",
+      "title": "exporters.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4efb7486b965",
+      "path": "product-audit/application/tests/export/import-decisions.test.js",
+      "area": "product-audit",
+      "title": "import-decisions.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-23847c2e7c21",
+      "path": "product-audit/application/tests/state/repository.test.js",
+      "area": "product-audit",
+      "title": "repository.test.js",
+      "status": "source",
+      "source_refs": [
+        "libfile_b7957074df788191a3b672b7e6638f53"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-ccc83367ab9a",
+      "path": "product-audit/decisions/README.md",
+      "area": "product-audit",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-566bef12787d",
+      "path": "product-audit/evidence/2026-10-01-site-audit-readable.md",
+      "area": "product-audit",
+      "title": "2026-10-01-site-audit-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_4f73e3e0b908819180444385d6367dd2"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f3bda627eb66",
+      "path": "product-audit/evidence/2026-10-03-site-audit-readable.md",
+      "area": "product-audit",
+      "title": "2026-10-03-site-audit-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_8d523d451228819194f5280a40dd22b1"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9a827ca272d3",
+      "path": "product-audit/evidence/2026-10-03-site-audit.pdf",
+      "area": "product-audit",
+      "title": "2026-10-03-site-audit.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_8d523d451228819194f5280a40dd22b1"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-9bab58823645",
+      "path": "product-audit/pricing/affordable-2x-proposal.xlsx",
+      "area": "product-audit",
+      "title": "affordable-2x-proposal.xlsx",
+      "status": "source",
+      "source_refs": [
+        "libfile_1b4715fc9460819192dbafa9e146215e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-485c2cd88dc4",
+      "path": "product-audit/pricing/earlier-tier-proposal.xlsx",
+      "area": "product-audit",
+      "title": "earlier-tier-proposal.xlsx",
+      "status": "source",
+      "source_refs": [
+        "libfile_4f9fff797b448191bbae18df1968f354"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0835cb8f5888",
+      "path": "product-audit/pricing/exports/affordable-2x-color-decisions.json",
+      "area": "product-audit",
+      "title": "affordable-2x-color-decisions.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_1b4715fc9460819192dbafa9e146215e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5408de06ba27",
+      "path": "product-audit/pricing/exports/affordable-2x-instructions.json",
+      "area": "product-audit",
+      "title": "affordable-2x-instructions.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_1b4715fc9460819192dbafa9e146215e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-fcb3a199360c",
+      "path": "product-audit/pricing/exports/affordable-2x-product-review.json",
+      "area": "product-audit",
+      "title": "affordable-2x-product-review.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_1b4715fc9460819192dbafa9e146215e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-f7eca795fce5",
+      "path": "product-audit/pricing/exports/affordable-2x-tier-pricing.json",
+      "area": "product-audit",
+      "title": "affordable-2x-tier-pricing.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_1b4715fc9460819192dbafa9e146215e"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-768d8eed73da",
+      "path": "product-audit/pricing/exports/earlier-tier-color-decisions.json",
+      "area": "product-audit",
+      "title": "earlier-tier-color-decisions.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4f9fff797b448191bbae18df1968f354"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e2f0b7e90d37",
+      "path": "product-audit/pricing/exports/earlier-tier-instructions.json",
+      "area": "product-audit",
+      "title": "earlier-tier-instructions.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4f9fff797b448191bbae18df1968f354"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-55f2472dea5e",
+      "path": "product-audit/pricing/exports/earlier-tier-product-review.json",
+      "area": "product-audit",
+      "title": "earlier-tier-product-review.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4f9fff797b448191bbae18df1968f354"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-e3018a6bd392",
+      "path": "product-audit/pricing/exports/earlier-tier-tier-pricing.json",
+      "area": "product-audit",
+      "title": "earlier-tier-tier-pricing.json",
+      "status": "source",
+      "source_refs": [
+        "libfile_4f9fff797b448191bbae18df1968f354"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-fcb08f663243",
+      "path": "product-audit/reference/2026-10-06-design-specification.md",
+      "area": "product-audit",
+      "title": "2026-10-06-design-specification.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_3bf86d8f8aac8191a0c2b58b76034de7"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-607cd08ef44a",
+      "path": "product-audit/reference/2026-10-06-implementation-plan.md",
+      "area": "product-audit",
+      "title": "2026-10-06-implementation-plan.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_b5dac2f0aa308191bb46c07e5fcd7766"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4cbe82fa632b",
+      "path": "product-audit/review/compact-printable-review.html",
+      "area": "product-audit",
+      "title": "compact-printable-review.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_c9f0e90fe94881919c22ed91c031b070"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-540e245338e9",
+      "path": "product-audit/review/kraig-offline-review.html",
+      "area": "product-audit",
+      "title": "kraig-offline-review.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_5b7e1fc04c788191bde9e78137d4d25a"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-3ef21f5ea9ce",
+      "path": "product-audit/review/original-printable-review.html",
+      "area": "product-audit",
+      "title": "original-printable-review.html",
+      "status": "source",
+      "source_refs": [
+        "libfile_0f5dc9d6bf1c8191957430125480fbf0"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of product-audit work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-2fc9ac474fa9",
+      "path": "records/README.md",
+      "area": "records",
+      "title": "Records guide",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Whitetail Syndicate project records.",
+      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
+      "used_for": "Project evidence, current billing and continued agent work.",
+      "updated_at": "2026-10-10T18:46:18.958195+00:00"
+    },
+    {
+      "id": "material-14cf7ae0bf09",
+      "path": "records/decisions.md",
+      "area": "records",
+      "title": "Decisions and standing instructions",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:18.990633+00:00"
+    },
+    {
+      "id": "material-09c44461631d",
+      "path": "records/historical/2026-10-08-work-record-readable.md",
+      "area": "records",
+      "title": "2026-10-08-work-record-readable.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_e29d880c65408191905fd880b4abc726"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.490827+00:00"
+    },
+    {
+      "id": "material-0b54d446f141",
+      "path": "records/historical/2026-10-08-work-record.pdf",
+      "area": "records",
+      "title": "2026-10-08-work-record.pdf",
+      "status": "historical",
+      "source_refs": [
+        "libfile_e29d880c65408191905fd880b4abc726"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of records work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-c6e3b1eadcc4",
+      "path": "records/meetings/2026-09-21-lori-call-redacted.md",
+      "area": "records",
+      "title": "2026-09-21-lori-call-redacted.md",
+      "status": "source",
+      "source_refs": [
+        "libfile_5d995c29bf18819182ed4e3d8c740432"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of records work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-4eedfd4be6b8",
+      "path": "records/metrics.json",
+      "area": "records",
+      "title": "metrics.json",
+      "status": "source",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of records work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-634289d948f9",
+      "path": "records/open-items.md",
+      "area": "records",
+      "title": "Open items",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.023202+00:00"
+    },
+    {
+      "id": "material-52ddf3e3e041",
+      "path": "records/sources.json",
+      "area": "records",
+      "title": "sources.json",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Whitetail Syndicate project records.",
+      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
+      "used_for": "Project evidence, current billing and continued agent work.",
+      "updated_at": "2026-10-10T18:46:19.055084+00:00"
+    },
+    {
+      "id": "material-b6271aad4431",
+      "path": "records/verification.md",
+      "area": "records",
+      "title": "Verification record",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.086930+00:00"
+    },
+    {
+      "id": "material-58adc084a507",
+      "path": "records/work-recap.md",
+      "area": "records",
+      "title": "work-recap.md",
+      "status": "source",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of records work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-409732c778fb",
+      "path": "scripts/record_material.py",
+      "area": "scripts",
+      "title": "record_material.py",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of scripts work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5074ee029228",
+      "path": "scripts/refresh_inventory.py",
+      "area": "scripts",
+      "title": "refresh_inventory.py",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of scripts work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-0ce0287a2d8b",
+      "path": "scripts/validate_records.py",
+      "area": "records",
+      "title": "validate_records.py",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.119963+00:00"
+    },
+    {
+      "id": "material-0eb684c3ea7b",
+      "path": "website/README.md",
+      "area": "website",
+      "title": "README.md",
+      "status": "current",
+      "source_refs": [
+        "craig-current-session"
+      ],
+      "source_note": "Project record created from the authorized current conversation",
+      "how_created": "Written as the repository guide or current work record",
+      "used_for": "Evidence and continuation of website work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-55f2050c3c89",
+      "path": "website/reference/historical-implementation-notes.md",
+      "area": "website",
+      "title": "historical-implementation-notes.md",
+      "status": "historical",
+      "source_refs": [
+        "libfile_5048f4506ee081919d4883d7acff5174"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of website work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-19db65d2a979",
+      "path": "website/reference/source-repository-readme.md",
+      "area": "website",
+      "title": "source-repository-readme.md",
+      "status": "historical",
+      "source_refs": [
+        "github-website-readme"
+      ],
+      "source_note": "Imported dated evidence",
+      "how_created": "Original copied or extracted; see sources.json",
+      "used_for": "Evidence and continuation of website work",
+      "updated_at": "2026-10-10T02:17:50.548483+00:00"
+    },
+    {
+      "id": "material-5d124c5cada6",
+      "path": ".github/workflows/hours-payments-trial.yml",
+      "area": "billing",
+      "title": "hours-payments-trial.yml",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.154493+00:00"
+    },
+    {
+      "id": "material-0865ca2069fa",
+      "path": "records/billing/README.md",
+      "area": "billing",
+      "title": "Hours and payments trial guide",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Whitetail Syndicate project records.",
+      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
+      "used_for": "Project evidence, current billing and continued agent work.",
+      "updated_at": "2026-10-10T18:46:19.185079+00:00"
+    },
+    {
+      "id": "material-57a972eaa1cf",
+      "path": "records/billing/ledger.json",
+      "area": "billing",
+      "title": "ledger.json",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
+      "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
+      "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
+      "updated_at": "2026-10-10T18:46:19.564064+00:00"
+    },
+    {
+      "id": "material-aa1defcae3aa",
+      "path": "scripts/billing.py",
+      "area": "billing",
+      "title": "Hours and payments ledger helper",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.246119+00:00"
+    },
+    {
+      "id": "material-1d4affd3597b",
+      "path": "tests/test_billing.py",
+      "area": "billing",
+      "title": "Billing calculation and workflow tests",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Whitetail Syndicate project records.",
+      "how_created": "Prepared from confirmed project records and validated workflow inputs.",
+      "used_for": "Project evidence, current billing and continued agent work.",
+      "updated_at": "2026-10-10T18:46:19.275934+00:00"
+    },
+    {
+      "id": "material-34f53e2183ac",
+      "path": "records/billing/summary.json",
+      "area": "billing",
+      "title": "summary.json",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
+      "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
+      "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
+      "updated_at": "2026-10-10T18:46:19.601306+00:00"
+    },
+    {
+      "id": "material-f4c116b946ef",
+      "path": "records/billing/summary.md",
+      "area": "billing",
+      "title": "summary.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
+      "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
+      "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
+      "updated_at": "2026-10-10T18:46:19.634308+00:00"
+    },
+    {
+      "id": "material-d39e89613d16",
+      "path": "scripts/create_billing_receipt.py",
+      "area": "billing",
+      "title": "create_billing_receipt.py",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.368089+00:00"
+    },
+    {
+      "id": "material-d72a4f0fae78",
+      "path": "records/billing/current-itemization.md",
+      "area": "billing",
+      "title": "current-itemization.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.398891+00:00"
+    },
+    {
+      "id": "material-3317c7249ec5",
+      "path": "records/billing/evidence/2026-10-09-billing-record.md",
+      "area": "billing",
+      "title": "2026-10-09-billing-record.md",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Billing ledger, linked source files, and explicit confirmation records.",
+      "how_created": "Maintained by the hours/payments workflow from explicit evidence-backed records.",
+      "used_for": "Tracking recorded time, payments and reconciliation without double-counting.",
+      "updated_at": "2026-10-10T18:46:19.666885+00:00"
+    },
+    {
+      "id": "material-f015d20f633c",
+      "path": "records/billing/receipts/WTS-Bills-2026-10-09.pdf",
+      "area": "billing",
+      "title": "Bill and receipt - October 9, 2026",
+      "status": "current",
+      "source_refs": [
+        "craig-billing-record-2026-10-09"
+      ],
+      "source_note": "Confirmed project records and Craig Ramos's billing information.",
+      "how_created": "Recorded itemized work, billing dates, amounts and payment status from confirmed project records.",
+      "used_for": "Project record keeping and the hours/payments workflow.",
+      "updated_at": "2026-10-10T18:46:19.460091+00:00"
+    }
+  ]
+}

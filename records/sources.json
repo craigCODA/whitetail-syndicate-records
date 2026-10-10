@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "imported_on": "2026-10-09",
+  "sources": [
+    {
+      "id": "libfile_27cc68affb1c8191ac9130d3a2b740da",
+      "original_name": "Whitetail_Syndicate_Interview_Questionnaire.pdf",
+      "version": null,
+      "source_created_at": "2026-10-02T22:45:42.587716Z",
+      "source_modified_at": "2026-10-02T22:45:42.587716Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "4e74a5cc20117723cec09ddf46fc690f43e38ad1589d4d7a484603b6f994c83b",
+      "repository_paths": [
+        "interviews/templates/original-questionnaire.pdf",
+        "interviews/templates/questionnaire-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_27cc68affb1c8191ac9130d3a2b740da/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_cf10a64e1c288191ae4a10bb2934ea05",
+      "original_name": "Whitetail_Syndicate_Live_Interview_Print_Packet.pdf",
+      "version": null,
+      "source_created_at": "2026-10-02T23:21:32.320115Z",
+      "source_modified_at": "2026-10-02T23:21:32.320115Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "eb3596df0ec0eee34b6592477a08021d5234c3ab9201b9c345814c734b3efb84",
+      "repository_paths": [
+        "interviews/templates/original-live-interview-packet.pdf",
+        "interviews/templates/interview-and-permissions-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_cf10a64e1c288191ae4a10bb2934ea05/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_1b4715fc9460819192dbafa9e146215e",
+      "original_name": "Whitetail_2x_Cost_Pricing_Decision_Workbook.xlsx",
+      "version": "1",
+      "source_created_at": "2026-10-08T13:28:53.191569Z",
+      "source_modified_at": "2026-10-08T13:29:19.886529Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "1e1ec1cea07957578f95d2829754b870e4a69cf94372f6bc1caf16177fb09a32",
+      "repository_paths": [
+        "product-audit/pricing/affordable-2x-proposal.xlsx",
+        "product-audit/pricing/exports/affordable-2x-product-review.json",
+        "product-audit/pricing/exports/affordable-2x-tier-pricing.json",
+        "product-audit/pricing/exports/affordable-2x-color-decisions.json",
+        "product-audit/pricing/exports/affordable-2x-instructions.json"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_1b4715fc9460819192dbafa9e146215e/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_4f9fff797b448191bbae18df1968f354",
+      "original_name": "Whitetail_Product_Pricing_Decision_Workbook.xlsx",
+      "version": null,
+      "source_created_at": "2026-10-08T13:16:13.178525Z",
+      "source_modified_at": "2026-10-08T13:16:13.178525Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "d636017e0c2f04dceb3c7dad558b69ced4c180b592b3415f647cb9831c7a1952",
+      "repository_paths": [
+        "product-audit/pricing/earlier-tier-proposal.xlsx",
+        "product-audit/pricing/exports/earlier-tier-product-review.json",
+        "product-audit/pricing/exports/earlier-tier-tier-pricing.json",
+        "product-audit/pricing/exports/earlier-tier-color-decisions.json",
+        "product-audit/pricing/exports/earlier-tier-instructions.json"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_4f9fff797b448191bbae18df1968f354/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_5b7e1fc04c788191bde9e78137d4d25a",
+      "original_name": "Whitetail_Syndicate_Kraig_Product_Review.html",
+      "version": null,
+      "source_created_at": "2026-10-07T11:43:49.457089Z",
+      "source_modified_at": "2026-10-07T11:43:49.457089Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "73c65d5420a5d7f84192e46b0ce200e435b42f62d38fac516c3861b83858bd10",
+      "repository_paths": [
+        "product-audit/review/kraig-offline-review.html"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_5b7e1fc04c788191bde9e78137d4d25a/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_0f5dc9d6bf1c8191957430125480fbf0",
+      "original_name": "Whitetail_Syndicate_Complete_Product_Review_Printable.html",
+      "version": null,
+      "source_created_at": "2026-10-08T11:42:43.258132Z",
+      "source_modified_at": "2026-10-08T11:42:43.258132Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "9f18ad80056053e601faa0887c1b67b6010bfe12f9f679fbc04b7f5b94b208d7",
+      "repository_paths": [
+        "product-audit/review/original-printable-review.html"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_0f5dc9d6bf1c8191957430125480fbf0/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_81ab66bbeda081919b137ae8c0d413f1",
+      "original_name": "Whitetail_Outreach_Full_Record_2026-10-07.json",
+      "version": "68",
+      "source_created_at": "2026-10-07T10:37:23.309036Z",
+      "source_modified_at": "2026-10-10T01:57:09.237966Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "b0b2fcae8571b8cad863f9b6741bc82cde6a18960ad68bdcad81a9678b5916d7",
+      "repository_paths": [
+        "outreach/snapshots/2026-10-09-master-record.json"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_81ab66bbeda081919b137ae8c0d413f1/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_a62f96fd6b9481918b5c0be8c2879c33",
+      "original_name": "Whitetail_Conversation_Packet_Evidence_2026-10-08.json",
+      "version": null,
+      "source_created_at": "2026-10-08T18:35:08.952890Z",
+      "source_modified_at": "2026-10-08T18:35:08.952890Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "bc03598dfbfd8846b272cff3393e059b68e93bde1eec898bc1a7498c2cb8d2f5",
+      "repository_paths": [
+        "outreach/snapshots/2026-10-08-contact-packet-evidence.json"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_a62f96fd6b9481918b5c0be8c2879c33/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_2a2999802b04819190074fd357f1bb8e",
+      "original_name": "Whitetail_Outreach_Review_2026-10-09.html",
+      "version": null,
+      "source_created_at": "2026-10-09T14:09:29.134626Z",
+      "source_modified_at": "2026-10-09T14:09:29.134626Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "209889ad57161312d862b2d1c9b2aaba8e1841ce8b0f9f05c6343ca223aee6ff",
+      "repository_paths": [
+        "outreach/snapshots/2026-10-09-readable-review.html"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_2a2999802b04819190074fd357f1bb8e/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_81f1630d2ac88191b34eb11f6fbf1eda",
+      "original_name": "WTS_Google_Contacts.csv",
+      "version": null,
+      "source_created_at": "2026-10-08T08:39:22.616906Z",
+      "source_modified_at": "2026-10-08T08:39:22.616906Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "174d35276fe0a1df567e2b94b9c1048732dd6063b1377bb8806f635caa9914f4",
+      "repository_paths": [
+        "outreach/contacts/original-google-contacts.csv"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_81f1630d2ac88191b34eb11f6fbf1eda/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_fed132acfca88191be96cf2811bf367e",
+      "original_name": "Whitetail_First_Call_Binder_Ready_To_Call_First.pdf",
+      "version": null,
+      "source_created_at": "2026-10-08T18:51:54.224378Z",
+      "source_modified_at": "2026-10-08T18:51:54.224378Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "dbb8be216bba9307b3ae52cb305f7a4c6c6fa8a295a03900d825c07a2f3c9e4d",
+      "repository_paths": [
+        "outreach/reference/first-call-binder.pdf",
+        "outreach/reference/first-call-binder-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_fed132acfca88191be96cf2811bf367e/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_8d523d451228819194f5280a40dd22b1",
+      "original_name": "Whitetail_Syndicate_Site_Audit_and_Local_Build.pdf",
+      "version": null,
+      "source_created_at": "2026-10-03T17:57:22.820940Z",
+      "source_modified_at": "2026-10-03T17:57:22.820940Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "517da498e8a46d6ce703df5b2938ea6288524842952251438e31259767be7b55",
+      "repository_paths": [
+        "product-audit/evidence/2026-10-03-site-audit.pdf",
+        "product-audit/evidence/2026-10-03-site-audit-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_8d523d451228819194f5280a40dd22b1/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_e29d880c65408191905fd880b4abc726",
+      "original_name": "Whitetail Syndicate work record, September 30 through October 8, 2026",
+      "version": null,
+      "source_created_at": "2026-10-08T09:02:41.235997Z",
+      "source_modified_at": "2026-10-08T09:02:41.235997Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "808a58337012427f4e712fdb9be90e09c4a6bce8a66f69227ce237f682ec9a1b",
+      "repository_paths": [
+        "records/historical/2026-10-08-work-record.pdf",
+        "records/historical/2026-10-08-work-record-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_e29d880c65408191905fd880b4abc726/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_0b436d5df6c4819195988da4769024a2",
+      "original_name": "Whitetail_Syndicate_Full_Launch_Packet_2026-10-08.pdf",
+      "version": null,
+      "source_created_at": "2026-10-08T20:10:49.217210Z",
+      "source_modified_at": "2026-10-08T20:10:49.217210Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "de1fd9b681405b20dc591c81a8944b52f6475734171f181c0c6252ba36577b99",
+      "repository_paths": [
+        "launch-research/historical/2026-10-08-full-packet.pdf",
+        "launch-research/historical/2026-10-08-full-packet-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_0b436d5df6c4819195988da4769024a2/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_c195e82f6ef08191a3c28058540e0d26",
+      "original_name": "Whitetail_Syndicate_Launch_Presentation_Shopify_Staged.pdf",
+      "version": "1",
+      "source_created_at": "2026-10-08T10:04:17.189689Z",
+      "source_modified_at": "2026-10-08T10:04:25.642510Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "022f954f856c83d3e4fa8f996e7c2021b93dec78df758927be3dab17f1e1c21d",
+      "repository_paths": [
+        "launch-research/historical/2026-10-08-staged-site-presentation.pdf"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_c195e82f6ef08191a3c28058540e0d26/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_4bbc5c9e167c8191b3c9deb630aa8d24",
+      "original_name": "Whitetail_Artwork_Inventory.xlsx",
+      "version": null,
+      "source_created_at": "2026-10-08T10:26:06.231427Z",
+      "source_modified_at": "2026-10-08T10:26:06.231427Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "0029f3745ea41e0ab5bc0bc0d02ccef1bea1b5e40732f132304d82dc1c547fdc",
+      "repository_paths": [
+        "artwork/inventory/2026-10-08-artwork-inventory.xlsx",
+        "artwork/inventory/artwork-overview.json",
+        "artwork/inventory/artwork-all-137-products.json",
+        "artwork/inventory/artwork-24-artwork-families.json",
+        "artwork/inventory/artwork-photo-recovery.json"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_4bbc5c9e167c8191b3c9deb630aa8d24/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_131bba7a3c3481919248ed6ffa2d03df",
+      "original_name": "Whitetail-Syndicate-Apparel-Placement-Proposal.pdf",
+      "version": "4",
+      "source_created_at": "2026-09-22T08:09:37.474374Z",
+      "source_modified_at": "2026-09-22T10:20:39.923784Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "3e35c0f382ba2c317d4b00f8df941a0550ccb48a522d4973bd1e68206be43459",
+      "repository_paths": [
+        "artwork/reference/original-placement-proposal.pdf",
+        "artwork/reference/placement-proposal-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_131bba7a3c3481919248ed6ffa2d03df/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_297316c6c1488191a7278eaed1ce86c4",
+      "original_name": "Whitetail_Outreach_Update_2026-10-07_Late.md",
+      "version": null,
+      "source_created_at": "2026-10-08T04:40:44.443063Z",
+      "source_modified_at": "2026-10-08T04:40:44.443063Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "0bc0046a584648c23826ceb1e67f5046bae239f611fe0b56891cdb1021f6c72a",
+      "repository_paths": [
+        "outreach/reference/2026-10-07-update.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_297316c6c1488191a7278eaed1ce86c4/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_2eb7718442e08191aad09972102fd387",
+      "original_name": "Whitetail_Reply_Strategy_For_Review_2026-10-07.md",
+      "version": null,
+      "source_created_at": "2026-10-08T03:48:45.831755Z",
+      "source_modified_at": "2026-10-08T03:48:45.831755Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "0e98b2b3e778aa5e7d990f579440aff4f05939d42aa4232eccf51167f91efe94",
+      "repository_paths": [
+        "outreach/reference/2026-10-07-reply-strategy.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_2eb7718442e08191aad09972102fd387/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_5048f4506ee081919d4883d7acff5174",
+      "original_name": "Whitetail_Syndicate_Implementation_Notes.md",
+      "version": "1",
+      "source_created_at": "2026-10-08T02:05:18.913482Z",
+      "source_modified_at": "2026-10-08T02:05:22.376260Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "e5b5e4bf3f49de84a0fa998d5aae7bec10e8b3e3e3bf882535efc2dbd9c4123d",
+      "repository_paths": [
+        "website/reference/historical-implementation-notes.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_5048f4506ee081919d4883d7acff5174/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_3bf86d8f8aac8191a0c2b58b76034de7",
+      "original_name": "2026-10-06-whitetail-product-control-design.md",
+      "version": "2",
+      "source_created_at": "2026-10-06T12:30:39.582386Z",
+      "source_modified_at": "2026-10-06T17:03:37.890793Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "849b8232fcdc1b2cc92afd21fcd7f0e4383847847e023d98a018138394a97aab",
+      "repository_paths": [
+        "product-audit/reference/2026-10-06-design-specification.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_3bf86d8f8aac8191a0c2b58b76034de7/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_b5dac2f0aa308191bb46c07e5fcd7766",
+      "original_name": "2026-10-06-whitetail-product-control-implementation.md",
+      "version": null,
+      "source_created_at": "2026-10-06T17:03:39.526698Z",
+      "source_modified_at": "2026-10-06T17:03:39.526698Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "4d4505d19daa974933f262457cf92c0f3c37ae139f3734a4d436efe87b28ac8b",
+      "repository_paths": [
+        "product-audit/reference/2026-10-06-implementation-plan.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_b5dac2f0aa308191bb46c07e5fcd7766/download",
+      "transformation": null,
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_4f73e3e0b908819180444385d6367dd2",
+      "original_name": "Whitetail_Syndicate_Current_Site_Audit-1.html",
+      "version": null,
+      "source_created_at": "2026-10-06T10:02:20.130403Z",
+      "source_modified_at": "2026-10-06T10:02:20.130403Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "ca1fa23a5e1415aab076058c7fd8f8890409466919330aa09db701fe1863d692",
+      "repository_paths": [
+        "product-audit/evidence/2026-10-01-site-audit-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_4f73e3e0b908819180444385d6367dd2/download",
+      "transformation": "Readable HTML text extraction. Full original retained at source URL.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_f47082bd41f0819186c861ef022296f7",
+      "original_name": "Wait Till He Turns _ Whitetail Syndicate.html",
+      "version": null,
+      "source_created_at": "2026-10-09T03:11:10.910776Z",
+      "source_modified_at": "2026-10-09T03:11:10.910776Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "3b2921e8da53f919207ec76b5360e5a5c15b07eb68add00702234fe14d0bed1c",
+      "repository_paths": [
+        "interviews/nathan-deville/source-page-readable.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_f47082bd41f0819186c861ef022296f7/download",
+      "transformation": "Readable HTML text extraction. Full original retained at source URL.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_b7957074df788191a3b672b7e6638f53",
+      "original_name": "Whitetail_Syndicate_Product_Control_2026-10-06.zip",
+      "version": null,
+      "source_created_at": "2026-10-06T22:56:13.415516Z",
+      "source_modified_at": "2026-10-06T22:56:13.415516Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "d36e09d991cae2c75ff072b436afd91fed72ccf8fec91d5304c453f4f5510081",
+      "repository_paths": [
+        "product-audit/application"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_b7957074df788191a3b672b7e6638f53/download",
+      "transformation": "Extracted original archive; file contents unchanged.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_90089bf64e4c8191b2839e03ddceddde",
+      "original_name": "whitetail_shopify_product_archive.zip",
+      "version": null,
+      "source_created_at": "2026-10-08T04:00:31.663278Z",
+      "source_modified_at": "2026-10-08T04:00:31.663278Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "2cce5a7a678e2e5d6b374969b88d88e0b1f48d8ae59d001998fcd1adc0312c09",
+      "repository_paths": [
+        "artwork/product-source-archive"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_90089bf64e4c8191b2839e03ddceddde/download",
+      "transformation": "Extracted original archive; file contents unchanged.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_c9f0e90fe94881919c22ed91c031b070",
+      "original_name": "Whitetail_Syndicate_Product_Review_Print_Compact.zip",
+      "version": null,
+      "source_created_at": "2026-10-08T14:29:04.547077Z",
+      "source_modified_at": "2026-10-08T14:29:04.547077Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "ded4d11328cb78dba36a6cab8adb51f492bf37cf8ec413944a3cb6381b762f99",
+      "repository_paths": [
+        "product-audit/review/compact-printable-review.html"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_c9f0e90fe94881919c22ed91c031b070/download",
+      "transformation": "Original HTML extracted from archive.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "libfile_5d995c29bf18819182ed4e3d8c740432",
+      "original_name": "Whitetail-Syndicate-Call-Transcript.md",
+      "version": null,
+      "source_created_at": "2026-09-22T07:15:42.983147Z",
+      "source_modified_at": "2026-09-22T07:15:42.983147Z",
+      "retrieved_on": "2026-10-09",
+      "original_sha256": "d6930d279215ce014d4dc4b839eaca60c17885ede70d6dcdf009cd8c234fc152",
+      "repository_paths": [
+        "records/meetings/2026-09-21-lori-call-redacted.md"
+      ],
+      "source_url": "https://chatgpt.com/api/library/files/libfile_5d995c29bf18819182ed4e3d8c740432/download",
+      "transformation": "Credential discussion removed. This call predates the reporting baseline and is background only.",
+      "access_note": "Original Library links require authorized access. Imported copies and readable derivatives are available in this private repository."
+    },
+    {
+      "id": "github-website-readme",
+      "original_name": "Website repository README.md",
+      "version": "41e2b1c262e2d038857c6b48d9987c720011d2bf",
+      "source_url": "https://github.com/craigCODA/whitetail-syndicate-horizon/blob/main/README.md",
+      "retrieved_on": "2026-10-09",
+      "repository_paths": [
+        "website/reference/source-repository-readme.md"
+      ],
+      "transformation": null
+    },
+    {
+      "id": "craig-current-session",
+      "original_name": "Craig Ramos October 9, 2026 conversation",
+      "source_url": null,
+      "retrieved_on": "2026-10-09",
+      "repository_paths": [
+        "records/work-recap.md",
+        "records/decisions.md",
+        "records/metrics.json",
+        "interviews/index.json"
+      ],
+      "transformation": "Faithful structured recap; promotion and film development excluded."
+    },
+    {
+      "id": "craig-billing-record-2026-10-09",
+      "original_name": "Craig Ramos Whitetail billing record through October 9, 2026",
+      "source_url": null,
+      "retrieved_on": "2026-10-10",
+      "repository_paths": [
+        "records/billing/evidence/2026-10-09-billing-record.md",
+        "records/billing/ledger.json",
+        "records/billing/receipts/WTS-Bills-2026-10-09.pdf",
+        "records/billing/current-itemization.md"
+      ],
+      "transformation": "Confirmed itemized work, billing dates and payment status: $560 paid and $310 current accrued."
+    }
+  ]
+}

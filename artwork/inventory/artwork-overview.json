@@ -1,0 +1,248 @@
+{
+  "source_workbook": "Whitetail_Artwork_Inventory.xlsx",
+  "sheet": "Overview",
+  "read_only_export": true,
+  "note": "Values are saved workbook values; formulas are preserved as text and were not recalculated. Prices are proposals unless approval evidence is attached.",
+  "rows": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "WHITETAIL SYNDICATE · PRODUCT ARTWORK CONTROL",
+          "formula": null
+        },
+        {
+          "cell": "B1",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "cells": [
+        {
+          "cell": "A2",
+          "value": "Shopify read-only review · October 8, 2026",
+          "formula": null
+        },
+        {
+          "cell": "B2",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "cell": "A3",
+          "value": "Measure",
+          "formula": null
+        },
+        {
+          "cell": "B3",
+          "value": "Count",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "cell": "A4",
+          "value": "Current active Shopify product listings",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "137",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "cell": "A5",
+          "value": "Historical source artwork families to review",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "24",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "cell": "A6",
+          "value": "Original source-derived print-ready pieces",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "27",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "cell": "A7",
+          "value": "Current products with local photographic evidence",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "107",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "cell": "A8",
+          "value": "Current products with Shopify CDN photo URL only",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "30",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "cell": "A9",
+          "value": "Downloaded historical product-gallery images",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "708",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "cell": "A10",
+          "value": "Additional hats/accessories photos",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "36",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "cell": "A11",
+          "value": "Original-source archive individual extracted crops",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "500",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "cell": "A12",
+          "value": "Confirmed unique logos currently on all products",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "Not yet verifiable",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "cell": "A13",
+          "value": "Important",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "24 artwork families are NOT proof of 24 separate logos in active use.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "cell": "A14",
+          "value": "Print-ready caveat",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "27 includes letters/word fragments, not 27 complete logos.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "cell": "A15",
+          "value": "Source caveat",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "A product photo is not the original print artwork.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "cell": "A16",
+          "value": "Shopify safety",
+          "formula": null
+        },
+        {
+          "cell": "B16",
+          "value": "Read-only. No store changes.",
+          "formula": null
+        }
+      ]
+    }
+  ]
+}

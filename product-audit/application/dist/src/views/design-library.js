@@ -1,0 +1,8 @@
+import {statusChip,esc} from '../components/status-chip.js';
+export function renderDesignLibrary({designs,designDecisions,productDecisions}){
+ const dmap=new Map(designDecisions.map(d=>[d.design_id,d]));
+ const counts=new Map();for(const d of productDecisions){if(d.current_design_id)counts.set(d.current_design_id,(counts.get(d.current_design_id)||0)+1)}
+ const ids=[...new Set([...designs.map(d=>d.id),...designDecisions.map(d=>d.design_id),...productDecisions.map(d=>d.current_design_id).filter(Boolean)])];
+ const rows=ids.map(id=>designs.find(d=>d.id===id)||{id,name:id.startsWith('OTHER:')?(id.slice(6).replaceAll('-',' ')):'Unmapped design '+id,status:'review'});
+ return `<section class="simple-page"><button class="text-btn" data-route="dashboard">← Dashboard</button><p class="eyebrow">DESIGN CONTROL</p><h2 class="page-title">Design Library</h2><p class="lead-copy">A global rejection is a local rule. It flags every mapped product for removal/replacement and never edits Shopify.</p><div class="design-grid">${rows.map(d=>{const saved=dmap.get(d.id);const status=saved?.status||d.status;return `<article class="card design-card"><div class="design-mark">${esc(d.id)}</div><h3>${esc(d.name)}</h3><p>${counts.get(d.id)||0} products mapped during review</p><p>${statusChip(status,status==='rejected_globally'?'danger':status==='approved_master'?'good':'warn')}</p><div class="stack"><button data-design-status="approved_master" data-design-id="${esc(d.id)}">Approve master</button><button data-design-status="review" data-design-id="${esc(d.id)}">Keep under review</button><button class="danger-btn" data-design-reject="${esc(d.id)}">Reject globally</button></div></article>`}).join('')}</div></section>`;
+}

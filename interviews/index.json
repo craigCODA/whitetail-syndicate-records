@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-10-09",
+  "reported_completed_interviews": 2,
+  "interviews": [
+    {
+      "id": "nathan-deville",
+      "name": "Nathan Deville",
+      "folder": "nathan-deville",
+      "story_title": "Wait Till He Turns",
+      "hunt_date": "2025-11-08",
+      "status": "published_reported",
+      "source": "Craig reports the story is on the live website; historical story capture imported.",
+      "signed_permission_file": null
+    },
+    {
+      "id": "second-interview-unidentified",
+      "name": null,
+      "folder": "second-interview",
+      "status": "completed_reported",
+      "source": "Craig reports a second completed interview. Identity, date and materials have not been supplied in this repository."
+    }
+  ]
+}

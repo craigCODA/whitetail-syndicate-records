@@ -1,0 +1,11 @@
+import {esc,statusChip} from '../components/status-chip.js';import {flagList} from '../components/flag-list.js';import {decisionControls} from '../components/decision-controls.js';
+const money=(a,b)=>a==null?'Unknown':a===b?`$${Number(a).toFixed(2)}`:`$${Number(a).toFixed(2)}–$${Number(b).toFixed(2)}`;
+export function renderProductReview(p,flags=[],d=null){return `<section class="review-head"><button class="text-btn" data-route="dashboard">← Dashboard</button><p class="eyebrow">PRODUCT REVIEW</p><h2>${esc(p.title_current)}</h2><p class="muted mono">${esc(p.handle_current)}</p></section>
+<div class="review-columns">
+ <section class="card current-card"><div class="section-tag">CURRENT LIVE LISTING</div><div class="product-hero">${p.image_urls_current?.[0]?`<img src="${esc(p.image_urls_current[0])}" alt="${esc(p.title_current)}">`:'<div class="no-image">No image captured</div>'}</div>
+ <dl class="facts"><dt>Public status</dt><dd>${esc(p.status_current||'ACTIVE')}</dd><dt>Price</dt><dd>${money(p.price_min_current,p.price_max_current)}</dd><dt>Vendor label</dt><dd>${esc(p.vendor_label_current||'—')}</dd><dt>Product type</dt><dd>${esc(p.product_type_current||'(blank)')}</dd><dt>Variants</dt><dd>${esc(p.variant_count_current)}</dd><dt>Collections</dt><dd>${(p.collections_current||[]).map(x=>statusChip(x)).join(' ')||'None'}</dd><dt>Options</dt><dd>${esc(p.option_summary_current||'—')}</dd><dt>Provider route</dt><dd>${statusChip('UNKNOWN','warn')}</dd></dl>
+ ${p.online_store_url_current?`<a class="link" href="${esc(p.online_store_url_current)}" target="_blank" rel="noopener">Open live listing ↗</a>`:''}
+ <details><summary>Current description</summary><div class="description">${esc(p.description_current||'No description captured')}</div></details>
+ <h3>Audit / live flags</h3>${flagList(flags)}</section>
+ <form class="card decision-card" id="decision-form" data-product-id="${esc(p.shopify_product_id)}"><div class="section-tag orange">OWNER DECISION</div><p class="decision-warning">Nothing saved here changes Shopify. This creates a local decision and Craig action only.</p>${decisionControls(d||{})}<div class="sticky-actions"><button type="button" class="secondary" data-skip>Skip / come back later</button><button type="submit" class="primary">Save local decision</button></div></form>
+</div>`}

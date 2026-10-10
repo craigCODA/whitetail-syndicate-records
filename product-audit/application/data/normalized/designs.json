@@ -1,0 +1,32 @@
+[
+  {
+    "id": "D01",
+    "name": "Master Design D01",
+    "status": "review",
+    "mapped_product_ids": []
+  },
+  {
+    "id": "D02",
+    "name": "Master Design D02",
+    "status": "review",
+    "mapped_product_ids": []
+  },
+  {
+    "id": "D03",
+    "name": "Master Design D03",
+    "status": "review",
+    "mapped_product_ids": []
+  },
+  {
+    "id": "D04",
+    "name": "Master Design D04",
+    "status": "review",
+    "mapped_product_ids": []
+  },
+  {
+    "id": "D05",
+    "name": "Master Design D05",
+    "status": "review",
+    "mapped_product_ids": []
+  }
+]

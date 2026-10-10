@@ -1,0 +1,938 @@
+{
+  "source_workbook": "Whitetail_Artwork_Inventory.xlsx",
+  "sheet": "Photo Recovery",
+  "read_only_export": true,
+  "note": "Values are saved workbook values; formulas are preserved as text and were not recalculated. Prices are proposals unless approval evidence is attached.",
+  "rows": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "title",
+          "formula": null
+        },
+        {
+          "cell": "B1",
+          "value": "handle",
+          "formula": null
+        },
+        {
+          "cell": "C1",
+          "value": "vendor",
+          "formula": null
+        },
+        {
+          "cell": "D1",
+          "value": "image_urls",
+          "formula": null
+        },
+        {
+          "cell": "E1",
+          "value": "product_url",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "cells": [
+        {
+          "cell": "A2",
+          "value": "5 Panel Neon Mesh Camo",
+          "formula": null
+        },
+        {
+          "cell": "B2",
+          "value": "5-panel-neon-mesh-camo",
+          "formula": null
+        },
+        {
+          "cell": "C2",
+          "value": "Apliiq",
+          "formula": null
+        },
+        {
+          "cell": "D2",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/6166684_8591.jpg?v=1791382580",
+          "formula": null
+        },
+        {
+          "cell": "E2",
+          "value": "https://www.whitetailsyndicate.com/products/5-panel-neon-mesh-camo",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "cell": "A3",
+          "value": "5 Panel Neon Orange Camo",
+          "formula": null
+        },
+        {
+          "cell": "B3",
+          "value": "5-panel-neon-orange-camo-1",
+          "formula": null
+        },
+        {
+          "cell": "C3",
+          "value": "Apliiq",
+          "formula": null
+        },
+        {
+          "cell": "D3",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/6166685_8590.jpg?v=1791382656",
+          "formula": null
+        },
+        {
+          "cell": "E3",
+          "value": "https://www.whitetailsyndicate.com/products/5-panel-neon-orange-camo-1",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "cell": "A4",
+          "value": "All-Over Print Men's Mirco Fleece Hoodie",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "all-over-print-mens-mirco-fleece-hoodie",
+          "formula": null
+        },
+        {
+          "cell": "C4",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D4",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-a89eab85-d9dd-4719-b858-db2452f1cc22.jpg?v=1791299909",
+          "formula": null
+        },
+        {
+          "cell": "E4",
+          "value": "https://www.whitetailsyndicate.com/products/all-over-print-mens-mirco-fleece-hoodie",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "cell": "A5",
+          "value": "All-Over Print Men's Sun Protection Hooded Sport Top",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "all-over-print-mens-sun-protection-hooded-sport-top-1",
+          "formula": null
+        },
+        {
+          "cell": "C5",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D5",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-05d38a81-1926-46fd-888e-7951f7c77de3.jpg?v=1791297814",
+          "formula": null
+        },
+        {
+          "cell": "E5",
+          "value": "https://www.whitetailsyndicate.com/products/all-over-print-mens-sun-protection-hooded-sport-top-1",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "cell": "A6",
+          "value": "All-Over Print Women's Lapel Hoodie with Pocket",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "all-over-print-womens-lapel-hoodie-with-pocket",
+          "formula": null
+        },
+        {
+          "cell": "C6",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D6",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-b0926abc-7c4e-4033-9d02-6b2f5a9a4264.jpg?v=1791235696",
+          "formula": null
+        },
+        {
+          "cell": "E6",
+          "value": "https://www.whitetailsyndicate.com/products/all-over-print-womens-lapel-hoodie-with-pocket",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "cell": "A7",
+          "value": "Baby jersey t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "baby-jersey-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C7",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D7",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/baby-jersey-t-shirt-black-front-6ac5a702cbe8c.jpg?v=1791338263",
+          "formula": null
+        },
+        {
+          "cell": "E7",
+          "value": "https://www.whitetailsyndicate.com/products/baby-jersey-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "cell": "A8",
+          "value": "Baby short sleeve one piece",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "baby-short-sleeve-one-piece-3",
+          "formula": null
+        },
+        {
+          "cell": "C8",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D8",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/baby-short-sleeve-one-piece-white-front-6ac5907841cf1.jpg?v=1791332484",
+          "formula": null
+        },
+        {
+          "cell": "E8",
+          "value": "https://www.whitetailsyndicate.com/products/baby-short-sleeve-one-piece-3",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "cell": "A9",
+          "value": "Baby short sleeve one piece",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "baby-short-sleeve-one-piece-4",
+          "formula": null
+        },
+        {
+          "cell": "C9",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D9",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/baby-short-sleeve-one-piece-pink-front-6ac59426f07ed.jpg?v=1791333429",
+          "formula": null
+        },
+        {
+          "cell": "E9",
+          "value": "https://www.whitetailsyndicate.com/products/baby-short-sleeve-one-piece-4",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "cell": "A10",
+          "value": "Baby short sleeve one piece",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "baby-short-sleeve-one-piece-5",
+          "formula": null
+        },
+        {
+          "cell": "C10",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D10",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/baby-short-sleeve-one-piece-black-front-6ac5a40f6b248.jpg?v=1791337505",
+          "formula": null
+        },
+        {
+          "cell": "E10",
+          "value": "https://www.whitetailsyndicate.com/products/baby-short-sleeve-one-piece-5",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "cell": "A11",
+          "value": "Crop Hoodie",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "crop-hoodie",
+          "formula": null
+        },
+        {
+          "cell": "C11",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D11",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/womens-cropped-hoodie-storm-front-6ac58bf406696.jpg?v=1791331332",
+          "formula": null
+        },
+        {
+          "cell": "E11",
+          "value": "https://www.whitetailsyndicate.com/products/crop-hoodie",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "cell": "A12",
+          "value": "DryBlend® T-Shirt",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "dryblend®-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C12",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D12",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/unisex-sports-tee-forest-green-front-6abfde816dd62.jpg?v=1790959264",
+          "formula": null
+        },
+        {
+          "cell": "E12",
+          "value": "https://www.whitetailsyndicate.com/products/dryblend®-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "cell": "A13",
+          "value": "DryBlend® T-Shirt",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "dryblend®-t-shirt-1",
+          "formula": null
+        },
+        {
+          "cell": "C13",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D13",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/unisex-sports-tee-black-front-6abfe6a23ac23.jpg?v=1790961347",
+          "formula": null
+        },
+        {
+          "cell": "E13",
+          "value": "https://www.whitetailsyndicate.com/products/dryblend®-t-shirt-1",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "cell": "A14",
+          "value": "Kid's T Shirt Printed in USA|Gildan 5000B Double DTF",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "kids-t-shirt-printed-in-usa-gildan-5000b-double-dtf",
+          "formula": null
+        },
+        {
+          "cell": "C14",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D14",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-d7ca11ca-7c8e-4a37-8040-c60a005a468b.jpg?v=1791297083",
+          "formula": null
+        },
+        {
+          "cell": "E14",
+          "value": "https://www.whitetailsyndicate.com/products/kids-t-shirt-printed-in-usa-gildan-5000b-double-dtf",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "cell": "A15",
+          "value": "Long Sleeve Shirt",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "long-sleeve-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C15",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D15",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/all-over-print-mens-long-sleeve-shirt-front-6ac50df5237cf.jpg?v=1791299128",
+          "formula": null
+        },
+        {
+          "cell": "E15",
+          "value": "https://www.whitetailsyndicate.com/products/long-sleeve-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "cell": "A16",
+          "value": "Men's T-Shirt Printed in USA |Gildan 5000 Double DTG",
+          "formula": null
+        },
+        {
+          "cell": "B16",
+          "value": "mens-t-shirt-printed-in-usa-gildan-5000-double-dtg",
+          "formula": null
+        },
+        {
+          "cell": "C16",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D16",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-b8ea7f32-79b0-4c42-8ad1-9e61ba5750dc.jpg?v=1791170075",
+          "formula": null
+        },
+        {
+          "cell": "E16",
+          "value": "https://www.whitetailsyndicate.com/products/mens-t-shirt-printed-in-usa-gildan-5000-double-dtg",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "cell": "A17",
+          "value": "Men's T-Shirt Printed in USA |Gildan 5000 DTF",
+          "formula": null
+        },
+        {
+          "cell": "B17",
+          "value": "mens-t-shirt-printed-in-usa-gildan-5000-dtf",
+          "formula": null
+        },
+        {
+          "cell": "C17",
+          "value": "Yoycol",
+          "formula": null
+        },
+        {
+          "cell": "D17",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/328214-cf9db45c-27af-4b68-bade-618dafe60932.jpg?v=1791167581",
+          "formula": null
+        },
+        {
+          "cell": "E17",
+          "value": "https://www.whitetailsyndicate.com/products/mens-t-shirt-printed-in-usa-gildan-5000-dtf",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "cell": "A18",
+          "value": "Premium heavyweight long sleeve shirt",
+          "formula": null
+        },
+        {
+          "cell": "B18",
+          "value": "premium-heavyweight-long-sleeve-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C18",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D18",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/unisex-premium-heavyweight-long-sleeve-shirt-cypress-front-6ac3144446ad0.jpg?v=1791169613",
+          "formula": null
+        },
+        {
+          "cell": "E18",
+          "value": "https://www.whitetailsyndicate.com/products/premium-heavyweight-long-sleeve-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "cell": "A19",
+          "value": "Tapered stainless steel tumbler",
+          "formula": null
+        },
+        {
+          "cell": "B19",
+          "value": "tapered-stainless-steel-tumbler-2",
+          "formula": null
+        },
+        {
+          "cell": "C19",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D19",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/tapered-stainless-steel-tumbler-20-oz-white-20oz-front-6ac40b493527e.jpg?v=1791232860",
+          "formula": null
+        },
+        {
+          "cell": "E19",
+          "value": "https://www.whitetailsyndicate.com/products/tapered-stainless-steel-tumbler-2",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "cell": "A20",
+          "value": "Toddler jersey t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B20",
+          "value": "toddler-jersey-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C20",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D20",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/toddler-jersey-t-shirt-black-front-6ac5a885079d7.jpg?v=1791338647",
+          "formula": null
+        },
+        {
+          "cell": "E20",
+          "value": "https://www.whitetailsyndicate.com/products/toddler-jersey-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "cells": [
+        {
+          "cell": "A21",
+          "value": "Unisex active t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B21",
+          "value": "unisex-active-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C21",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D21",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/unisex-active-t-shirt-black-front-6ac3098739bdd.jpg?v=1791166873",
+          "formula": null
+        },
+        {
+          "cell": "E21",
+          "value": "https://www.whitetailsyndicate.com/products/unisex-active-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "cells": [
+        {
+          "cell": "A22",
+          "value": "Unisex t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B22",
+          "value": "unisex-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C22",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D22",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/unisex-staple-t-shirt-black-heather-front-6ac327ccca7b2.jpg?v=1791174629",
+          "formula": null
+        },
+        {
+          "cell": "E22",
+          "value": "https://www.whitetailsyndicate.com/products/unisex-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "cell": "A23",
+          "value": "Women's Racerback Tank",
+          "formula": null
+        },
+        {
+          "cell": "B23",
+          "value": "womens-racerback-tank",
+          "formula": null
+        },
+        {
+          "cell": "C23",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D23",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/womens-racerback-tank-top-vintage-black-front-6ac4111744aaa.jpg?v=1791234340",
+          "formula": null
+        },
+        {
+          "cell": "E23",
+          "value": "https://www.whitetailsyndicate.com/products/womens-racerback-tank",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "cell": "A24",
+          "value": "Women's Racerback Tank",
+          "formula": null
+        },
+        {
+          "cell": "B24",
+          "value": "womens-racerback-tank-1",
+          "formula": null
+        },
+        {
+          "cell": "C24",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D24",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/womens-racerback-tank-top-heather-white-front-6ac4123390181.jpg?v=1791234622",
+          "formula": null
+        },
+        {
+          "cell": "E24",
+          "value": "https://www.whitetailsyndicate.com/products/womens-racerback-tank-1",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "cell": "A25",
+          "value": "Women’s crop top",
+          "formula": null
+        },
+        {
+          "cell": "B25",
+          "value": "women-s-crop-top",
+          "formula": null
+        },
+        {
+          "cell": "C25",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D25",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/womens-crop-top-white-front-6ac58ae0059db.jpg?v=1791331057",
+          "formula": null
+        },
+        {
+          "cell": "E25",
+          "value": "https://www.whitetailsyndicate.com/products/women-s-crop-top",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "cells": [
+        {
+          "cell": "A26",
+          "value": "Women’s relaxed v-neck t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B26",
+          "value": "women-s-relaxed-v-neck-t-shirt-2",
+          "formula": null
+        },
+        {
+          "cell": "C26",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D26",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/womens-relaxed-v-neck-t-shirt-solid-black-blend-front-6abfe79dc5c7b.jpg?v=1790961582",
+          "formula": null
+        },
+        {
+          "cell": "E26",
+          "value": "https://www.whitetailsyndicate.com/products/women-s-relaxed-v-neck-t-shirt-2",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "cells": [
+        {
+          "cell": "A27",
+          "value": "Youth Garment-Dyed Heavyweight T-Shirt - Comfort Colors 9018",
+          "formula": null
+        },
+        {
+          "cell": "B27",
+          "value": "youth-garment-dyed-heavyweight-t-shirt-comfort-colors-9018",
+          "formula": null
+        },
+        {
+          "cell": "C27",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D27",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/youth-garment-dyed-heavyweight-t-shirt-black-front-6ac5ac284fb2e.jpg?v=1791339582",
+          "formula": null
+        },
+        {
+          "cell": "E27",
+          "value": "https://www.whitetailsyndicate.com/products/youth-garment-dyed-heavyweight-t-shirt-comfort-colors-9018",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "cells": [
+        {
+          "cell": "A28",
+          "value": "Youth Garment-Dyed Heavyweight T-Shirt - Comfort Colors 9018",
+          "formula": null
+        },
+        {
+          "cell": "B28",
+          "value": "youth-garment-dyed-heavyweight-t-shirt-comfort-colors-9019",
+          "formula": null
+        },
+        {
+          "cell": "C28",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D28",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/youth-garment-dyed-heavyweight-t-shirt-black-front-6ac5ad79d02f1.jpg?v=1791339909",
+          "formula": null
+        },
+        {
+          "cell": "E28",
+          "value": "https://www.whitetailsyndicate.com/products/youth-garment-dyed-heavyweight-t-shirt-comfort-colors-9019",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "cells": [
+        {
+          "cell": "A29",
+          "value": "Youth long sleeve tee",
+          "formula": null
+        },
+        {
+          "cell": "B29",
+          "value": "youth-long-sleeve-tee",
+          "formula": null
+        },
+        {
+          "cell": "C29",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D29",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/youth-long-sleeve-tee-black-front-6ac5a514cab84.jpg?v=1791337768",
+          "formula": null
+        },
+        {
+          "cell": "E29",
+          "value": "https://www.whitetailsyndicate.com/products/youth-long-sleeve-tee",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "cells": [
+        {
+          "cell": "A30",
+          "value": "Youth t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B30",
+          "value": "youth-t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "C30",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D30",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/youth-sports-tee-black-front-6abfe89b751f3.jpg?v=1790961838",
+          "formula": null
+        },
+        {
+          "cell": "E30",
+          "value": "https://www.whitetailsyndicate.com/products/youth-t-shirt",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "cells": [
+        {
+          "cell": "A31",
+          "value": "Youth t-shirt",
+          "formula": null
+        },
+        {
+          "cell": "B31",
+          "value": "youth-t-shirt-1",
+          "formula": null
+        },
+        {
+          "cell": "C31",
+          "value": "WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D31",
+          "value": "https://cdn.shopify.com/s/files/1/0689/1087/4727/files/youth-sports-tee-black-front-6abfe985826ec.jpg?v=1790962061",
+          "formula": null
+        },
+        {
+          "cell": "E31",
+          "value": "https://www.whitetailsyndicate.com/products/youth-t-shirt-1",
+          "formula": null
+        }
+      ]
+    }
+  ]
+}

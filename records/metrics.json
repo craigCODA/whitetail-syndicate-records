@@ -1,0 +1,22 @@
+{
+  "timezone": "America/Chicago",
+  "snapshots": [
+    {
+      "as_of": "2026-10-09T20:30:53-05:00",
+      "source": "Craig in current conversation",
+      "outreach_emails_reported": 139,
+      "ongoing_conversations_reported": 38,
+      "interviews_completed_reported": 2,
+      "published_local_hunt_stories_reported": 1
+    },
+    {
+      "as_of": "2026-10-10T01:56:02.000Z",
+      "source": "outreach/snapshots/2026-10-09-master-record.json",
+      "sent_email_records": 157,
+      "reply_organizations": 27,
+      "reply_messages": 35,
+      "reply_check_as_of": "2026-10-09T14:07:00Z"
+    }
+  ],
+  "note": "Different dates and definitions. Do not equate emails, first contacts, replies, organizations, conversations, interviews, and published stories. Reconcile before presenting one current total."
+}

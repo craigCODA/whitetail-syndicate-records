@@ -1,0 +1,326 @@
+{
+  "source": "snapshots/2026-10-09-master-record.json",
+  "source_as_of": "2026-10-10T01:56:02.000Z",
+  "reply_check_as_of": "2026-10-09T14:07:00Z",
+  "groups": [
+    {
+      "name": "Bobby Cole / Outdoor Mentors",
+      "meaning": "Offered Friday, October 9 after 11 a.m. CT. No acceptance found.",
+      "next": "Confirm a time today; discuss preparation for the October 17 Lincoln County hunt.",
+      "ids": [
+        "1a10e1a73c0175ae",
+        "1a111968d6f0a771",
+        "1a11b9dc17323a15"
+      ],
+      "sent_ids": [
+        "1a10e15b3c8c066e",
+        "1a10e1ff9a730db2",
+        "1a11a8bb0e5c143e"
+      ]
+    },
+    {
+      "name": "Rick Nolan / Oklahoma Hunters & Anglers",
+      "meaning": "Flexible, but unavailable October 8 after noon through October 11 at 6 p.m.",
+      "next": "Arrange a call after his fishing trip; discuss the Tatanka Ranch mentored doe hunt.",
+      "ids": [
+        "1a110f18891a1559",
+        "1a11aea6d3b386da"
+      ],
+      "sent_ids": [
+        "1a10dbc335e7496b",
+        "1a11a8a3d3c11f16"
+      ]
+    },
+    {
+      "name": "Ronnie Ritter / Arkansas Hunters Feeding the Hungry",
+      "meaning": "Proposed Friday, October 9 around 10 a.m. CT. No acceptance found.",
+      "next": "Confirm the proposed time; discuss deer donation and a willing donor story.",
+      "ids": [
+        "1a111108f1712f07",
+        "1a11b67924eb9015"
+      ],
+      "sent_ids": [
+        "1a1109074bf61011",
+        "1a11a8a6a98e37c3"
+      ]
+    },
+    {
+      "name": "Logan / Battle Branch Boys",
+      "meaning": "Willing to talk; wants to know who would attend and how hunters would be approached.",
+      "next": "Explain the production plan and permissions before discussing the November 28–29 event.",
+      "ids": [
+        "1a1113ce84cabcf4"
+      ],
+      "sent_ids": [
+        "1a1110f5695de0d5"
+      ]
+    },
+    {
+      "name": "Todd / HSVPOA Urban Deer Hunt",
+      "meaning": "Offered help by phone or email. You have sent a scheduling question.",
+      "next": "Agree a call time about the urban hunt and donated venison.",
+      "ids": [
+        "1a11184a50397667"
+      ],
+      "sent_ids": [
+        "1a11a8abddb04568"
+      ]
+    },
+    {
+      "name": "Joel Acay / Blast & Cast Men’s Ministries",
+      "meaning": "Asked to talk later in the week. You sent your number; no time agreed in Gmail.",
+      "next": "Set a new time to discuss the East Texas youth hunt.",
+      "ids": [
+        "1a111a07324709fa"
+      ],
+      "sent_ids": [
+        "1a1109114cb84594",
+        "1a111a780761a4c5"
+      ]
+    },
+    {
+      "name": "David Feisal / Sportsman’s Hunting Club",
+      "meaning": "Offered Phineas Lea as a mentor contact and included him in the reply.",
+      "next": "Clarify the story request in the existing conversation; coordinate with Outdoor Mentors.",
+      "ids": [
+        "1a112a75e968bc82"
+      ],
+      "sent_ids": [
+        "1a1117dac70c920d"
+      ]
+    },
+    {
+      "name": "Opie Thomas, Paul and Christy Parsons / Hope Outdoors, Searcy",
+      "meaning": "Christy and Paul Parsons invited you to the November 6–8 event and asked about a feature date.",
+      "next": "Discuss scope and a possible date. Christy's substantive reply remains unread in Spam.",
+      "ids": [
+        "1a112c0bc6092ab5",
+        "1a112cbefad50d73"
+      ],
+      "sent_ids": [
+        "1a1124f9fcf85492"
+      ]
+    },
+    {
+      "name": "Charles Gaines / Pine Tree WDA",
+      "meaning": "Happy to discuss Pine Tree; you asked whether before or after Saturday's cleanup is easier.",
+      "next": "Agree a time around the October 10 cleanup.",
+      "ids": [
+        "1a1132e809d775ad"
+      ],
+      "sent_ids": [
+        "1a1124fb5b104302",
+        "1a11a89f82a85abe"
+      ]
+    },
+    {
+      "name": "Randall Jay Townsend / USACE Little Rock District",
+      "meaning": "Asked print or multimedia, and whether you want to interview a Corps employee. October 8 call offer has passed.",
+      "next": "Explain the format and request a fresh time through Public Affairs.",
+      "ids": [
+        "1a117680678bf846"
+      ],
+      "sent_ids": [
+        "1a116b8e54c4a881"
+      ]
+    },
+    {
+      "name": "Gary Futrell / River Ranch mentored hunt",
+      "meaning": "Happy to share information about the River Ranch mentor hunt by call or email.",
+      "next": "Speak with Gary about one specific mentor-and-hunter experience; clarify the proposed format, since the referral described it as a podcast.",
+      "ids": [
+        "1a1177348ef06083"
+      ],
+      "sent_ids": [
+        "1a1109055e567f0d"
+      ]
+    },
+    {
+      "name": "Mike Cranford / Southern Sportsmen Foundation",
+      "meaning": "Open to discussing the Redneck Safari most any time. You asked his preferred time.",
+      "next": "Arrange a call about the guides and adaptive hunters.",
+      "ids": [
+        "1a11771448727fe0"
+      ],
+      "sent_ids": [
+        "1a1110f3193054ca",
+        "1a11a8af301f2b4a"
+      ]
+    },
+    {
+      "name": "John G Allman / Atterbury Sportsman Club",
+      "meaning": "Asked for your site or a sample of what you would publish.",
+      "next": "Provide the approved story example and a clear explanation of placement and permissions.",
+      "ids": [
+        "1a1176d03dd12255"
+      ],
+      "sent_ids": [
+        "1a1176917f1327f1"
+      ]
+    },
+    {
+      "name": "William Frost / Dan Fout Memorial Disabled Veterans Hunt",
+      "meaning": "Offered his own story and help with participant stories. No sent reply from you found.",
+      "next": "Start with the hunt's origin and Dan Fout's legacy. The edited reply draft is still unsent.",
+      "ids": [
+        "1a1175b9e50ec2dc"
+      ],
+      "sent_ids": [
+        "1a116f32b2f02bf7"
+      ]
+    },
+    {
+      "name": "Kevin Potts / Reaching Outdoors of Texas",
+      "meaning": "Asked what the objective is and whether a young man is being asked to share a story.",
+      "next": "Explain the specific invitation, publication plan, organizer role and parent/guardian permissions.",
+      "ids": [
+        "1a117b8970d4ca85"
+      ],
+      "sent_ids": [
+        "1a117b18c0ba8827"
+      ]
+    },
+    {
+      "name": "Kylie Harris / Searcy County 4-H",
+      "meaning": "Invited a meeting with herself and the lead teacher Monday, October 12. No time or format agreed.",
+      "next": "Confirm time and format, allowing for your 9:30 a.m. call with Shawn.",
+      "ids": [
+        "1a1167ae64f4919c"
+      ],
+      "sent_ids": [
+        "1a111107768e04ae"
+      ]
+    },
+    {
+      "name": "Lea White / Becoming an Outdoors-Woman Arkansas",
+      "meaning": "Has several women who may be interested. You asked when to call.",
+      "next": "Discuss suitable adult participants and how a first-season story would be handled.",
+      "ids": [
+        "1a116fb9b78a73a6"
+      ],
+      "sent_ids": [
+        "1a11091838bf4420",
+        "1a11a8be50e54754"
+      ]
+    },
+    {
+      "name": "Virginia Rhame Slayton / My Natural State Story",
+      "meaning": "Forwarded the invitation to a contest-development contact. You thanked her and said you would wait.",
+      "next": "Await the referred contact before approaching any family.",
+      "ids": [
+        "1a11714cd20f3dd3"
+      ],
+      "sent_ids": [
+        "1a116b8b8c9d59df",
+        "1a11a8c577a44f3b"
+      ]
+    },
+    {
+      "name": "Ashley Edwards / Missouri Department of Conservation",
+      "meaning": "Agreed to pass the invitation to a willing participant and mentor after the October 10–11 hunt.",
+      "next": "Coordinate through Ashley after the event; agree permissions with the participant.",
+      "ids": [
+        "1a1171e4b6a3db05"
+      ],
+      "sent_ids": [
+        "1a11711893adb3a2"
+      ]
+    },
+    {
+      "name": "Greg Ray / Outdoor Solutions and From Field to Table",
+      "meaning": "Thinks he has a suitable parent and child; offered an introduction and asked about format, publication and audience.",
+      "next": "Answer those questions with an approved example, then request the introduction.",
+      "ids": [
+        "1a1178bebeea5ce3"
+      ],
+      "sent_ids": [
+        "1a1143960803d591"
+      ]
+    },
+    {
+      "name": "Jana Stout / The Quiver, Peel Compton Foundation",
+      "meaning": "Has a couple of members in mind and asked whether you want a youth or adult.",
+      "next": "Specify the first story you want; an adult would be a simpler initial feature if that fits the editorial plan.",
+      "ids": [
+        "1a117a56935a2b76"
+      ],
+      "sent_ids": [
+        "1a110916c1cd00f4"
+      ]
+    },
+    {
+      "name": "Jonathan Mills / Fort Campbell Fish and Wildlife",
+      "meaning": "Installation stories and interviews require Fort Campbell Public Affairs approval.",
+      "next": "Use the PAO route supplied in his reply; no interview approval exists in the thread.",
+      "ids": [
+        "1a1181ef9518fbe5"
+      ],
+      "sent_ids": [
+        "1a11439e790f6d9a"
+      ]
+    },
+    {
+      "name": "Pete Eisentrager / Missouri Disabled Sportsmen",
+      "meaning": "Invited a call; you asked for a day and time.",
+      "next": "Discuss Timmy Smith's memorial hunt and the volunteers keeping it going.",
+      "ids": [
+        "1a11830fc7f327e6"
+      ],
+      "sent_ids": [
+        "1a112507b6938aa6",
+        "1a11a8b3da827b79"
+      ]
+    },
+    {
+      "name": "Darren Haverstick / United Bowhunters of Missouri",
+      "meaning": "Agreed and offered any time October 8. That availability was for yesterday.",
+      "next": "Arrange a fresh time about Share the Harvest and one experience that stayed with him.",
+      "ids": [
+        "1a118f21f83ae0fd",
+        "1a11ba1dde4cde93"
+      ],
+      "sent_ids": [
+        "1a118eea69c22b20",
+        "1a11a8b6c254a964"
+      ]
+    },
+    {
+      "name": "Shawn Daniel / Darby's Warrior Support",
+      "meaning": "Monday, October 12 at 9:30 a.m. CT is agreed in email. You answered 'That works great'; he supplied his cell.",
+      "next": "Call Shawn at the agreed time about service members reconnecting with their children through hunting. No calendar event created in this review.",
+      "ids": [
+        "1a11965c1e7a8975",
+        "1a11b946731ac889",
+        "1a11bb8a39a44d26"
+      ],
+      "sent_ids": [
+        "1a1191873222d694",
+        "1a11a8c21f0db290",
+        "1a11b97a5e1d3dd1"
+      ]
+    },
+    {
+      "name": "Alexander Burga / Deerassic",
+      "meaning": "Available Friday, October 9; out next week. His response is unread.",
+      "next": "Respond or arrange a conversation today about Deerassic's youth hunt.",
+      "ids": [
+        "1a120a5f3d94af49"
+      ],
+      "sent_ids": [
+        "1a11e6f8447c951c"
+      ]
+    },
+    {
+      "name": "Touch of Nature / SIU Inclusive Archery Hunt",
+      "meaning": "Linnea Cagnoni forwarded the invitation to the staff member in charge of the Inclusive Archery Hunt on October 9. Awaiting the organizer.",
+      "next": "Wait for the hunt organizer's response; no additional contact needed now.",
+      "ids": [
+        "1a120f5fb989b5eb"
+      ],
+      "sent_ids": [
+        "1a11e8712d3b598e"
+      ]
+    }
+  ],
+  "note": "Groups are historical contact groups, not the number of ongoing conversations reported by Craig. Relative dates in original next steps require a fresh check."
+}

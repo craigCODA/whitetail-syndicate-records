@@ -1,0 +1,7 @@
+.worktrees/
+node_modules/
+.superpowers/
+
+dist/
+qa-*
+render_qa.mjs

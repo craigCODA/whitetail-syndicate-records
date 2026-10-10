@@ -1,0 +1,2 @@
+import {esc,statusChip} from './status-chip.js';
+export function flagList(flags=[]){if(!flags.length)return '<p class="muted">No automated flags on this listing.</p>';return `<div class="flag-list">${flags.map(f=>`<article class="flag"><div>${statusChip(f.priority||'INFO',f.priority==='P1'?'danger':'warn')} ${statusChip(f.type||'flag')}</div><p>${esc(f.message)}</p><small>${esc(f.source||'local rule')}</small></article>`).join('')}</div>`}

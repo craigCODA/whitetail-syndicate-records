@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "currency": "USD",
+  "timezone": "America/Chicago",
+  "default_rate_cents": 3000,
+  "billing_increment_cents": 50000,
+  "opening_balance": {
+    "as_of": "2026-10-09",
+    "amount_cents": 31000,
+    "confirmed_by": "Craig Ramos",
+    "evidence_paths": [
+      "records/billing/evidence/2026-10-09-billing-record.md"
+    ]
+  },
+  "coverage_note": "Bill 1: 18h40m/$560, invoiced October 7 and paid October 9. Bill 2: 10h20m/$310, accrued October 7 through October 9.",
+  "time_entries": [
+    {
+      "id": "TIME-WEBSITE-2026-10-09-5H",
+      "date": "2026-10-09",
+      "area": "website",
+      "description": "Website development - October 9",
+      "minutes": 300,
+      "rate_cents": 3000,
+      "basis": "logged",
+      "status": "confirmed",
+      "confirmed_by": "Craig Ramos",
+      "evidence_paths": [
+        "records/billing/evidence/2026-10-09-billing-record.md"
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "id": "PAY-2026-10-09-560",
+      "date": "2026-10-09",
+      "amount_cents": 56000,
+      "scope": "current_work",
+      "status": "confirmed",
+      "confirmed_by": "Craig Ramos",
+      "description": "Bill 1: 18 hours 40 minutes at $30/hour, $560, paid in full.",
+      "invoice_id": null,
+      "evidence_paths": [
+        "records/billing/evidence/2026-10-09-billing-record.md"
+      ],
+      "receipt_path": "records/billing/receipts/WTS-Bills-2026-10-09.pdf"
+    }
+  ],
+  "invoices": [],
+  "historical_references": [],
+  "reconciliation": {
+    "as_of": "2026-10-09",
+    "confirmed_by": "Craig Ramos",
+    "payment_id": "PAY-2026-10-09-560",
+    "evidence_paths": [
+      "records/billing/evidence/2026-10-09-billing-record.md"
+    ],
+    "paid_work_items": [
+      {
+        "description": "Storefront and product catalog audit",
+        "minutes": 90
+      },
+      {
+        "description": "Apparel and supplier research",
+        "minutes": 60
+      },
+      {
+        "description": "Launch plan, task tracker, and presentation",
+        "minutes": 120
+      },
+      {
+        "description": "Core design review and organization",
+        "minutes": 45
+      },
+      {
+        "description": "Collection artwork and image revisions",
+        "minutes": 240
+      },
+      {
+        "description": "Theme source recovery and code review",
+        "minutes": 45
+      },
+      {
+        "description": "Custom Shopify section development",
+        "minutes": 180
+      },
+      {
+        "description": "Responsive styling and typography",
+        "minutes": 60
+      },
+      {
+        "description": "Homepage and storefront integration",
+        "minutes": 40
+      },
+      {
+        "description": "Preview revisions and theme packaging",
+        "minutes": 60
+      },
+      {
+        "description": "Story outreach and interview preparation",
+        "minutes": 60
+      },
+      {
+        "description": "Interview visit and rescheduling",
+        "minutes": 120
+      }
+    ],
+    "current_work_items": [
+      {
+        "description": "Core design review and organization",
+        "minutes": 45
+      },
+      {
+        "description": "Theme source recovery and code review",
+        "minutes": 45
+      },
+      {
+        "description": "Custom Shopify section development",
+        "minutes": 60
+      },
+      {
+        "description": "Responsive styling and typography",
+        "minutes": 60
+      },
+      {
+        "description": "Homepage and storefront integration",
+        "minutes": 5
+      },
+      {
+        "description": "Preview revisions and theme packaging",
+        "minutes": 75
+      },
+      {
+        "description": "Story outreach and interview preparation",
+        "minutes": 30
+      },
+      {
+        "description": "Website development - October 9",
+        "minutes": 300,
+        "time_entry_id": "TIME-WEBSITE-2026-10-09-5H"
+      }
+    ],
+    "paid_bill_invoice_date": "2026-10-07",
+    "current_accrual_start_date": "2026-10-07",
+    "current_itemization_path": "records/billing/current-itemization.md"
+  }
+}

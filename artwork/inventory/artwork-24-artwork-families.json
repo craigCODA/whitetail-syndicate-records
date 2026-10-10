@@ -1,0 +1,1133 @@
+{
+  "source_workbook": "Whitetail_Artwork_Inventory.xlsx",
+  "sheet": "24 Artwork Families",
+  "read_only_export": true,
+  "note": "Values are saved workbook values; formulas are preserved as text and were not recalculated. Prices are proposals unless approval evidence is attached.",
+  "rows": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "cell": "A1",
+          "value": "family",
+          "formula": null
+        },
+        {
+          "cell": "B1",
+          "value": "asset_id",
+          "formula": null
+        },
+        {
+          "cell": "C1",
+          "value": "original_name",
+          "formula": null
+        },
+        {
+          "cell": "D1",
+          "value": "status",
+          "formula": null
+        },
+        {
+          "cell": "E1",
+          "value": "file",
+          "formula": null
+        },
+        {
+          "cell": "F1",
+          "value": "source_paths",
+          "formula": null
+        },
+        {
+          "cell": "G1",
+          "value": "pixels",
+          "formula": null
+        },
+        {
+          "cell": "H1",
+          "value": "notes",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "cells": [
+        {
+          "cell": "A2",
+          "value": "ampersand-flag-hat",
+          "formula": null
+        },
+        {
+          "cell": "B2",
+          "value": "A0031",
+          "formula": null
+        },
+        {
+          "cell": "C2",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D2",
+          "value": "print-ready",
+          "formula": null
+        },
+        {
+          "cell": "E2",
+          "value": "01_Recovered_Emblem_Files/ampersand-flag-hat__A0031.png",
+          "formula": null
+        },
+        {
+          "cell": "F2",
+          "value": "part-04/ws hat logo.png",
+          "formula": null
+        },
+        {
+          "cell": "G2",
+          "value": "1392x1122",
+          "formula": null
+        },
+        {
+          "cell": "H2",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "cell": "A3",
+          "value": "antler-wordmark-hat6",
+          "formula": null
+        },
+        {
+          "cell": "B3",
+          "value": "A0027",
+          "formula": null
+        },
+        {
+          "cell": "C3",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D3",
+          "value": "print-ready",
+          "formula": null
+        },
+        {
+          "cell": "E3",
+          "value": "01_Recovered_Emblem_Files/antler-wordmark-hat6__A0027.png",
+          "formula": null
+        },
+        {
+          "cell": "F3",
+          "value": "part-04/ws hat logo 6.png",
+          "formula": null
+        },
+        {
+          "cell": "G3",
+          "value": "2102x723",
+          "formula": null
+        },
+        {
+          "cell": "H3",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "cell": "A4",
+          "value": "black-hoodie-deer",
+          "formula": null
+        },
+        {
+          "cell": "B4",
+          "value": "A0250",
+          "formula": null
+        },
+        {
+          "cell": "C4",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D4",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E4",
+          "value": "01_Recovered_Emblem_Files/black-hoodie-deer__A0250.png",
+          "formula": null
+        },
+        {
+          "cell": "F4",
+          "value": "part-03/FVRMMP-8A.pdf",
+          "formula": null
+        },
+        {
+          "cell": "G4",
+          "value": "1103x1405",
+          "formula": null
+        },
+        {
+          "cell": "H4",
+          "value": "PDF page crop at its embedded 300-PPI rendering; originally displayed design, not an independent production layer.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "cell": "A5",
+          "value": "black-hoodie-embroidery",
+          "formula": null
+        },
+        {
+          "cell": "B5",
+          "value": "A0003",
+          "formula": null
+        },
+        {
+          "cell": "C5",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D5",
+          "value": "needs-review",
+          "formula": null
+        },
+        {
+          "cell": "E5",
+          "value": "01_Recovered_Emblem_Files/black-hoodie-embroidery__A0003.png",
+          "formula": null
+        },
+        {
+          "cell": "F5",
+          "value": "part-03/pro design 2.png",
+          "formula": null
+        },
+        {
+          "cell": "G5",
+          "value": "6421x6392",
+          "formula": null
+        },
+        {
+          "cell": "H5",
+          "value": "Full stacked composition from the 3-inch labeled source; measured width determines true print size. Output is at least 12 MiB; must reduce file size without changing detail.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "cell": "A6",
+          "value": "black-hoodie-fvrmmp8",
+          "formula": null
+        },
+        {
+          "cell": "B6",
+          "value": "A0276",
+          "formula": null
+        },
+        {
+          "cell": "C6",
+          "value": "WS / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D6",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E6",
+          "value": "01_Recovered_Emblem_Files/black-hoodie-fvrmmp8__A0276.png",
+          "formula": null
+        },
+        {
+          "cell": "F6",
+          "value": "part-03/ws hoodie black pro.jpg",
+          "formula": null
+        },
+        {
+          "cell": "G6",
+          "value": "2554x2887",
+          "formula": null
+        },
+        {
+          "cell": "H6",
+          "value": "High-resolution mockup sample; not an isolated production layer.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "cell": "A7",
+          "value": "deer-ws-background",
+          "formula": null
+        },
+        {
+          "cell": "B7",
+          "value": "A0048",
+          "formula": null
+        },
+        {
+          "cell": "C7",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D7",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E7",
+          "value": "01_Recovered_Emblem_Files/deer-ws-background__A0048.png",
+          "formula": null
+        },
+        {
+          "cell": "F7",
+          "value": "part-04/ws background image.png",
+          "formula": null
+        },
+        {
+          "cell": "G7",
+          "value": "1254x1254",
+          "formula": null
+        },
+        {
+          "cell": "H7",
+          "value": "Black is integral to this composition; preserve background.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "cell": "A8",
+          "value": "deer-ws-large",
+          "formula": null
+        },
+        {
+          "cell": "B8",
+          "value": "A0013",
+          "formula": null
+        },
+        {
+          "cell": "C8",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D8",
+          "value": "print-ready",
+          "formula": null
+        },
+        {
+          "cell": "E8",
+          "value": "01_Recovered_Emblem_Files/deer-ws-large__A0013.png",
+          "formula": null
+        },
+        {
+          "cell": "F8",
+          "value": "part-03/ws hat logo 3.png",
+          "formula": null
+        },
+        {
+          "cell": "G8",
+          "value": "1189x1254",
+          "formula": null
+        },
+        {
+          "cell": "H8",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "cell": "A9",
+          "value": "flag-design-fvrmmp7",
+          "formula": null
+        },
+        {
+          "cell": "B9",
+          "value": "A0274",
+          "formula": null
+        },
+        {
+          "cell": "C9",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D9",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E9",
+          "value": "01_Recovered_Emblem_Files/flag-design-fvrmmp7__A0274.png",
+          "formula": null
+        },
+        {
+          "cell": "F9",
+          "value": "part-03/FVRMMP-7A.png",
+          "formula": null
+        },
+        {
+          "cell": "G9",
+          "value": "4349x3765",
+          "formula": null
+        },
+        {
+          "cell": "H9",
+          "value": "Exact artwork-sheet region; visible rendered background/overlap requires manual print review.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "cell": "A10",
+          "value": "logo-10-antler-skull",
+          "formula": null
+        },
+        {
+          "cell": "B10",
+          "value": "A0253",
+          "formula": null
+        },
+        {
+          "cell": "C10",
+          "value": "WS / antlers / skull",
+          "formula": null
+        },
+        {
+          "cell": "D10",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E10",
+          "value": "01_Recovered_Emblem_Files/logo-10-antler-skull__A0253.png",
+          "formula": null
+        },
+        {
+          "cell": "F10",
+          "value": "part-02/ws markup 1.png",
+          "formula": null
+        },
+        {
+          "cell": "G10",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H10",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "cell": "A11",
+          "value": "logo-10-barbed-circle",
+          "formula": null
+        },
+        {
+          "cell": "B11",
+          "value": "A0264",
+          "formula": null
+        },
+        {
+          "cell": "C11",
+          "value": "WS / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D11",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E11",
+          "value": "01_Recovered_Emblem_Files/logo-10-barbed-circle__A0264.png",
+          "formula": null
+        },
+        {
+          "cell": "F11",
+          "value": "part-04/ws markup 7.png",
+          "formula": null
+        },
+        {
+          "cell": "G11",
+          "value": "491x369",
+          "formula": null
+        },
+        {
+          "cell": "H11",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "cell": "A12",
+          "value": "logo-11-skull-minimal",
+          "formula": null
+        },
+        {
+          "cell": "B12",
+          "value": "A0265",
+          "formula": null
+        },
+        {
+          "cell": "C12",
+          "value": "WS / antlers / skull / EST. 2024",
+          "formula": null
+        },
+        {
+          "cell": "D12",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E12",
+          "value": "01_Recovered_Emblem_Files/logo-11-skull-minimal__A0265.png",
+          "formula": null
+        },
+        {
+          "cell": "F12",
+          "value": "part-04/ws markup 7.png",
+          "formula": null
+        },
+        {
+          "cell": "G12",
+          "value": "523x369",
+          "formula": null
+        },
+        {
+          "cell": "H12",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "cell": "A13",
+          "value": "logo-2-circle-distressed",
+          "formula": null
+        },
+        {
+          "cell": "B13",
+          "value": "A0259",
+          "formula": null
+        },
+        {
+          "cell": "C13",
+          "value": "WS / WHITETAIL / SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D13",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E13",
+          "value": "01_Recovered_Emblem_Files/logo-2-circle-distressed__A0259.png",
+          "formula": null
+        },
+        {
+          "cell": "F13",
+          "value": "part-04/ws markup 7.png",
+          "formula": null
+        },
+        {
+          "cell": "G13",
+          "value": "369x379",
+          "formula": null
+        },
+        {
+          "cell": "H13",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "cell": "A14",
+          "value": "logo-4-deer-ws",
+          "formula": null
+        },
+        {
+          "cell": "B14",
+          "value": "A0257",
+          "formula": null
+        },
+        {
+          "cell": "C14",
+          "value": "deer / WS / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D14",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E14",
+          "value": "01_Recovered_Emblem_Files/logo-4-deer-ws__A0257.png",
+          "formula": null
+        },
+        {
+          "cell": "F14",
+          "value": "part-04/ws markup 4.png",
+          "formula": null
+        },
+        {
+          "cell": "G14",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H14",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "cell": "A15",
+          "value": "logo-5-shield",
+          "formula": null
+        },
+        {
+          "cell": "B15",
+          "value": "A0256",
+          "formula": null
+        },
+        {
+          "cell": "C15",
+          "value": "deer / WS geometric / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D15",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E15",
+          "value": "01_Recovered_Emblem_Files/logo-5-shield__A0256.png",
+          "formula": null
+        },
+        {
+          "cell": "F15",
+          "value": "part-03/ws markup 6.png",
+          "formula": null
+        },
+        {
+          "cell": "G15",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H15",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "cell": "A16",
+          "value": "logo-6-flag",
+          "formula": null
+        },
+        {
+          "cell": "B16",
+          "value": "A0254",
+          "formula": null
+        },
+        {
+          "cell": "C16",
+          "value": "WS / flag / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D16",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E16",
+          "value": "01_Recovered_Emblem_Files/logo-6-flag__A0254.png",
+          "formula": null
+        },
+        {
+          "cell": "F16",
+          "value": "part-02/ws markup 3.png",
+          "formula": null
+        },
+        {
+          "cell": "G16",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H16",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "cell": "A17",
+          "value": "logo-7-skull-est",
+          "formula": null
+        },
+        {
+          "cell": "B17",
+          "value": "A0258",
+          "formula": null
+        },
+        {
+          "cell": "C17",
+          "value": "WS / deer skull / EST. 2024 / WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D17",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E17",
+          "value": "01_Recovered_Emblem_Files/logo-7-skull-est__A0258.png",
+          "formula": null
+        },
+        {
+          "cell": "F17",
+          "value": "part-04/ws markup 5.png",
+          "formula": null
+        },
+        {
+          "cell": "G17",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H17",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "cell": "A18",
+          "value": "logo-8-barbed-ring",
+          "formula": null
+        },
+        {
+          "cell": "B18",
+          "value": "A0255",
+          "formula": null
+        },
+        {
+          "cell": "C18",
+          "value": "WS geometric / WHITETAIL / SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D18",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E18",
+          "value": "01_Recovered_Emblem_Files/logo-8-barbed-ring__A0255.png",
+          "formula": null
+        },
+        {
+          "cell": "F18",
+          "value": "part-03/ws markup 2.png",
+          "formula": null
+        },
+        {
+          "cell": "G18",
+          "value": "492x451",
+          "formula": null
+        },
+        {
+          "cell": "H18",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "cell": "A19",
+          "value": "logo-8-flag",
+          "formula": null
+        },
+        {
+          "cell": "B19",
+          "value": "A0262",
+          "formula": null
+        },
+        {
+          "cell": "C19",
+          "value": "WS / flag / WHITETAIL SYNDICATE",
+          "formula": null
+        },
+        {
+          "cell": "D19",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E19",
+          "value": "01_Recovered_Emblem_Files/logo-8-flag__A0262.png",
+          "formula": null
+        },
+        {
+          "cell": "F19",
+          "value": "part-04/ws markup 7.png",
+          "formula": null
+        },
+        {
+          "cell": "G19",
+          "value": "369x379",
+          "formula": null
+        },
+        {
+          "cell": "H19",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "cell": "A20",
+          "value": "logo-9-skull-minimal",
+          "formula": null
+        },
+        {
+          "cell": "B20",
+          "value": "A0263",
+          "formula": null
+        },
+        {
+          "cell": "C20",
+          "value": "WS / antlers / skull / EST. 2024",
+          "formula": null
+        },
+        {
+          "cell": "D20",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E20",
+          "value": "01_Recovered_Emblem_Files/logo-9-skull-minimal__A0263.png",
+          "formula": null
+        },
+        {
+          "cell": "F20",
+          "value": "part-04/ws markup 7.png",
+          "formula": null
+        },
+        {
+          "cell": "G20",
+          "value": "492x369",
+          "formula": null
+        },
+        {
+          "cell": "H20",
+          "value": "Exact original raster region; reference, not isolated print art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "cells": [
+        {
+          "cell": "A21",
+          "value": "logo-variant-hat-2",
+          "formula": null
+        },
+        {
+          "cell": "B21",
+          "value": "A0001",
+          "formula": null
+        },
+        {
+          "cell": "C21",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D21",
+          "value": "reference",
+          "formula": null
+        },
+        {
+          "cell": "E21",
+          "value": "01_Recovered_Emblem_Files/logo-variant-hat-2__A0001.png",
+          "formula": null
+        },
+        {
+          "cell": "F21",
+          "value": "part-01/ws hat logo 2.png",
+          "formula": null
+        },
+        {
+          "cell": "G21",
+          "value": "1774x887",
+          "formula": null
+        },
+        {
+          "cell": "H21",
+          "value": "Checkerboard is baked into RGB source, not alpha.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "cells": [
+        {
+          "cell": "A22",
+          "value": "round-deer-patch",
+          "formula": null
+        },
+        {
+          "cell": "B22",
+          "value": "A0002",
+          "formula": null
+        },
+        {
+          "cell": "C22",
+          "value": "WHITETAIL SYNDICATE / PREMIUM HUNTING CO.",
+          "formula": null
+        },
+        {
+          "cell": "D22",
+          "value": "needs-review",
+          "formula": null
+        },
+        {
+          "cell": "E22",
+          "value": "01_Recovered_Emblem_Files/round-deer-patch__A0002.png",
+          "formula": null
+        },
+        {
+          "cell": "F22",
+          "value": "part-02/pro design 4.png",
+          "formula": null
+        },
+        {
+          "cell": "G22",
+          "value": "5820x5397",
+          "formula": null
+        },
+        {
+          "cell": "H22",
+          "value": "Rectangular rendered remnant outside stitched patch requires review.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "cell": "A23",
+          "value": "sand-antler-ws",
+          "formula": null
+        },
+        {
+          "cell": "B23",
+          "value": "A0046",
+          "formula": null
+        },
+        {
+          "cell": "C23",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D23",
+          "value": "needs-review",
+          "formula": null
+        },
+        {
+          "cell": "E23",
+          "value": "01_Recovered_Emblem_Files/sand-antler-ws__A0046.png",
+          "formula": null
+        },
+        {
+          "cell": "F23",
+          "value": "part-03/pro design 1.png",
+          "formula": null
+        },
+        {
+          "cell": "G23",
+          "value": "6224x6036",
+          "formula": null
+        },
+        {
+          "cell": "H23",
+          "value": "Composite image includes rendered brown blocks behind art.",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "cell": "A24",
+          "value": "wide-antler-ws-hat4",
+          "formula": null
+        },
+        {
+          "cell": "B24",
+          "value": "A0018",
+          "formula": null
+        },
+        {
+          "cell": "C24",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D24",
+          "value": "print-ready",
+          "formula": null
+        },
+        {
+          "cell": "E24",
+          "value": "01_Recovered_Emblem_Files/wide-antler-ws-hat4__A0018.png",
+          "formula": null
+        },
+        {
+          "cell": "F24",
+          "value": "part-04/ws hat logo 4.png",
+          "formula": null
+        },
+        {
+          "cell": "G24",
+          "value": "1916x809",
+          "formula": null
+        },
+        {
+          "cell": "H24",
+          "value": "",
+          "formula": null
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "cell": "A25",
+          "value": "wordmark-only-hat5",
+          "formula": null
+        },
+        {
+          "cell": "B25",
+          "value": "A0023",
+          "formula": null
+        },
+        {
+          "cell": "C25",
+          "value": "WHITETAIL SYNDICATE / WHERE THE RUT LEADS",
+          "formula": null
+        },
+        {
+          "cell": "D25",
+          "value": "print-ready",
+          "formula": null
+        },
+        {
+          "cell": "E25",
+          "value": "01_Recovered_Emblem_Files/wordmark-only-hat5__A0023.png",
+          "formula": null
+        },
+        {
+          "cell": "F25",
+          "value": "part-04/ws hat logo 5.png",
+          "formula": null
+        },
+        {
+          "cell": "G25",
+          "value": "2105x614",
+          "formula": null
+        },
+        {
+          "cell": "H25",
+          "value": "",
+          "formula": null
+        }
+      ]
+    }
+  ]
+}

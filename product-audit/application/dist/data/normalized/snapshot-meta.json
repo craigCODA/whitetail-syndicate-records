@@ -1,0 +1,36 @@
+{
+  "capturedAt": "2026-10-06",
+  "liveProductCount": 125,
+  "liveVariantCount": 1722,
+  "collectionCount": 8,
+  "addedSinceAudit": [
+    "all-over-print-mens-mirco-fleece-hoodie",
+    "all-over-print-mens-sun-protection-hooded-sport-top-1",
+    "all-over-print-womens-lapel-hoodie-with-pocket",
+    "dryblend®-t-shirt",
+    "dryblend®-t-shirt-1",
+    "kids-t-shirt-printed-in-usa-gildan-5000b-double-dtf",
+    "long-sleeve-shirt",
+    "mens-t-shirt-printed-in-usa-gildan-5000-double-dtg",
+    "mens-t-shirt-printed-in-usa-gildan-5000-dtf",
+    "premium-heavyweight-long-sleeve-shirt",
+    "tapered-stainless-steel-tumbler-2",
+    "unisex-active-t-shirt",
+    "unisex-t-shirt",
+    "women-s-relaxed-v-neck-t-shirt-2",
+    "womens-racerback-tank",
+    "womens-racerback-tank-1",
+    "youth-t-shirt",
+    "youth-t-shirt-1"
+  ],
+  "removedSinceAudit": [
+    "cotton-blend-cap"
+  ],
+  "vendorCounts": {
+    "Apliiq": 31,
+    "WHITETAIL SYNDICATE": 54,
+    "Yoycol": 40
+  },
+  "sourceMode": "read_only",
+  "decisionStorage": "local_only"
+}

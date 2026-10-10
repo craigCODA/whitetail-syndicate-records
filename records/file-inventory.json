@@ -1,0 +1,1529 @@
+{
+  "schema_version": 1,
+  "excluded_generated_paths": [
+    "records/file-inventory.json",
+    "records/material-directory.md"
+  ],
+  "files": [
+    {
+      "path": ".github/workflows/hours-payments-trial.yml",
+      "size_bytes": 1776,
+      "sha256": "fab8752c537d169b37fc892489ee72bdc102641172219379686d4715967d664d"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 67,
+      "sha256": "a558b62cb783f5ffcc86138cf598aac3ee39b3c4e4c2107a043e50db6359e54b"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 4389,
+      "sha256": "fbcb5c6550bca372ac47b105a1d7df7d492deeefac5179fafdba68112d96f391"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2926,
+      "sha256": "11541d21bdcc5765c57a3903089db263d73719cb2024f43375a3e1009ce88087"
+    },
+    {
+      "path": "STATUS.md",
+      "size_bytes": 2076,
+      "sha256": "57a7ff4eecf02f95fd6ca9965caebd4360d51e64eebefeea63619b4d07421cd3"
+    },
+    {
+      "path": "artwork/README.md",
+      "size_bytes": 1095,
+      "sha256": "fa9cb53acb60701f356a2354706a04748dc6f4a3914284fa7f7d0c1894cbfebb"
+    },
+    {
+      "path": "artwork/inventory/2026-10-08-artwork-inventory.xlsx",
+      "size_bytes": 34271,
+      "sha256": "0029f3745ea41e0ab5bc0bc0d02ccef1bea1b5e40732f132304d82dc1c547fdc"
+    },
+    {
+      "path": "artwork/inventory/artwork-24-artwork-families.json",
+      "size_bytes": 25912,
+      "sha256": "8174a69898d8726383d782f2b492f6d99125593892ca4210283ed84df7f37c45"
+    },
+    {
+      "path": "artwork/inventory/artwork-all-137-products.json",
+      "size_bytes": 301121,
+      "sha256": "f13fcfa03190e41a651d47e09fc9d36d63901637d02c0b72be88a4df2bfab678"
+    },
+    {
+      "path": "artwork/inventory/artwork-overview.json",
+      "size_bytes": 4964,
+      "sha256": "4afc21e440e08ecebea635757fd4646415367a61a69f8fd5b9d8af3b6f5aaa1c"
+    },
+    {
+      "path": "artwork/inventory/artwork-photo-recovery.json",
+      "size_bytes": 24739,
+      "sha256": "5d79823230d04601c6416631d74662489c218fc1868784dd03e8c4f3b22540a5"
+    },
+    {
+      "path": "artwork/product-source-archive/README.txt",
+      "size_bytes": 983,
+      "sha256": "6897f5a0f0ac43aaf1a46e5dba37ec2851ccf0d9c88aaacebba83bbf4e78176b"
+    },
+    {
+      "path": "artwork/product-source-archive/archive_gallery.html",
+      "size_bytes": 14818,
+      "sha256": "e6f798d297738ffcfdb4008c8b77f9a59d9338a5d6897522b0fda996c71d66d8"
+    },
+    {
+      "path": "artwork/product-source-archive/download_product_images.ps1",
+      "size_bytes": 1107,
+      "sha256": "859682f6b8795075ba69d5a036a9a9b710017cb0a93898fa6e0d9a113513c064"
+    },
+    {
+      "path": "artwork/product-source-archive/download_product_images.py",
+      "size_bytes": 1019,
+      "sha256": "0851c5da23791d08e61a49ecf5ef9c432d7007434bce48bd3bc66daea061b934"
+    },
+    {
+      "path": "artwork/product-source-archive/gear-accessories/products.json",
+      "size_bytes": 4010,
+      "sha256": "4ed4baefb113fb782006ac5c992d016cf7d9fc712ee41c3e673f8e73ab132e99"
+    },
+    {
+      "path": "artwork/product-source-archive/hats-beanies/products.json",
+      "size_bytes": 4553,
+      "sha256": "b87fb0012a482f0738e02c6e664a09b3ce8ddefe9d56bbec35273a968fe9cbb2"
+    },
+    {
+      "path": "artwork/product-source-archive/manifest_all.json",
+      "size_bytes": 9576,
+      "sha256": "f6e637991110b4ed8da2aa80a12cf612b2e6a4cd90be7db2b9e07a3625d016e7"
+    },
+    {
+      "path": "artwork/reference/original-placement-proposal.pdf",
+      "size_bytes": 95450,
+      "sha256": "3e35c0f382ba2c317d4b00f8df941a0550ccb48a522d4973bd1e68206be43459"
+    },
+    {
+      "path": "artwork/reference/placement-proposal-readable.md",
+      "size_bytes": 3480,
+      "sha256": "76b467634da5541717e1ed567ef32dc6409ee081c23ed70f080d2d82b6a51e96"
+    },
+    {
+      "path": "interviews/README.md",
+      "size_bytes": 1367,
+      "sha256": "e1474f989c4f91ed19dae7f6a49e74afea6844f4c494619a1fc49df68c9f6d1a"
+    },
+    {
+      "path": "interviews/index.json",
+      "size_bytes": 736,
+      "sha256": "af5876074cbdb33423afedc1e1d835fb2cea0da2cbd66ec3650616e75b7a5a18"
+    },
+    {
+      "path": "interviews/nathan-deville/README.md",
+      "size_bytes": 1036,
+      "sha256": "98623af52cd2182066da2d94299b7b08259a86249f6e1a002a9eb614fff8426c"
+    },
+    {
+      "path": "interviews/nathan-deville/source-page-readable.md",
+      "size_bytes": 4933,
+      "sha256": "ff9c604cd6401f24bfc26ba1fab97cfb445b99506494396f355a5997cc9189c7"
+    },
+    {
+      "path": "interviews/second-interview/README.md",
+      "size_bytes": 417,
+      "sha256": "2199992c1dce228c6f2ed55f79e25bd471366fe451a27ef8c9749ca7f290d06b"
+    },
+    {
+      "path": "interviews/templates/interview-and-permissions-readable.md",
+      "size_bytes": 5766,
+      "sha256": "6bf7a02066a09a8b2c722f2f1bf0f162fd50bc2d0a7c7edd0237849a6693ae03"
+    },
+    {
+      "path": "interviews/templates/original-live-interview-packet.pdf",
+      "size_bytes": 76222,
+      "sha256": "eb3596df0ec0eee34b6592477a08021d5234c3ab9201b9c345814c734b3efb84"
+    },
+    {
+      "path": "interviews/templates/original-questionnaire.pdf",
+      "size_bytes": 78462,
+      "sha256": "4e74a5cc20117723cec09ddf46fc690f43e38ad1589d4d7a484603b6f994c83b"
+    },
+    {
+      "path": "interviews/templates/questionnaire-readable.md",
+      "size_bytes": 8263,
+      "sha256": "062c6fa317f71ab5cd4e3a7dcda846423d8fc7047447f4eef2a336204eadcd12"
+    },
+    {
+      "path": "launch-research/README.md",
+      "size_bytes": 1261,
+      "sha256": "25436d18643e261e9fb116b93fadd487474faf31a15c6ffcd938bbd69df9fdec"
+    },
+    {
+      "path": "launch-research/historical/2026-10-08-full-packet-readable.md",
+      "size_bytes": 97708,
+      "sha256": "87d4a18cc0fcc3fef28b8e6c9ce4d8ce2f34d96d4ccd4ce64c2906876cdea2d7"
+    },
+    {
+      "path": "launch-research/historical/2026-10-08-full-packet.pdf",
+      "size_bytes": 3020500,
+      "sha256": "de1fd9b681405b20dc591c81a8944b52f6475734171f181c0c6252ba36577b99"
+    },
+    {
+      "path": "launch-research/historical/2026-10-08-staged-site-presentation.pdf",
+      "size_bytes": 1368442,
+      "sha256": "022f954f856c83d3e4fa8f996e7c2021b93dec78df758927be3dab17f1e1c21d"
+    },
+    {
+      "path": "outreach/README.md",
+      "size_bytes": 2082,
+      "sha256": "72597d26a5d182409fb0086b55f112566adfa32449b7ce7d771929645a6ad16b"
+    },
+    {
+      "path": "outreach/contacts/273-outdoors-chris/profile.md",
+      "size_bytes": 1061,
+      "sha256": "d13de428d82949762612bb8cc3e80003bdb88431e1d62392fd31b6bf90323b5f"
+    },
+    {
+      "path": "outreach/contacts/al-raychard-bangor-daily-news/profile.md",
+      "size_bytes": 956,
+      "sha256": "1e619cee84fa28e2e576b22e6cfb1c81674fb9f6c4291766f1ca1ddcbec6bf6d"
+    },
+    {
+      "path": "outreach/contacts/alexis-nunan-hero-hunts-foundation/profile.md",
+      "size_bytes": 1027,
+      "sha256": "b403cf28270ca847355d91331090fce708a062a8fa3d32e1c2c2587b3b3452cc"
+    },
+    {
+      "path": "outreach/contacts/anderson-dingus-whitetails-unlimited-lonoke-county/profile.md",
+      "size_bytes": 936,
+      "sha256": "ec5d5884da7fb0b756cc50001f9bda439e3b90a8525ca00febaaef1aae88efc8"
+    },
+    {
+      "path": "outreach/contacts/antlers-deer-festival/profile.md",
+      "size_bytes": 886,
+      "sha256": "ea64d64aa83172dd577efe3f6780e47234af4f89920c45873c524ef885cfb586"
+    },
+    {
+      "path": "outreach/contacts/arkansas-big-buck-classic/profile.md",
+      "size_bytes": 923,
+      "sha256": "e3b9a433df1522dd00428b291daf7e199be31d8fee098f828b7d8e0015fd1e0b"
+    },
+    {
+      "path": "outreach/contacts/ashley-edwards-missouri-department-of-conservation/profile.md",
+      "size_bytes": 1472,
+      "sha256": "dfbf629fddb510bebcfa9f6c89a72bcba3c8dc696a48898f108bb7232d190bd3"
+    },
+    {
+      "path": "outreach/contacts/ashley-eve-wildlife-taxidermy/profile.md",
+      "size_bytes": 1054,
+      "sha256": "510057997d4f4e99175235ac0abeb4bf871b8ecb1bf409869a985d86fc8d0a69"
+    },
+    {
+      "path": "outreach/contacts/austin-and-charles-the-whitetail-distraction-podcast/profile.md",
+      "size_bytes": 1094,
+      "sha256": "cc9bf04f0367da95cca3b6b938ac17cda56ffc997d1b482bf738c1b5ef716981"
+    },
+    {
+      "path": "outreach/contacts/bear-grease-meateater/profile.md",
+      "size_bytes": 911,
+      "sha256": "3a068efa64cfc1809f2a33d985a9f75030986f340d23ec4e601a9cddc7d12a7f"
+    },
+    {
+      "path": "outreach/contacts/big-h-hunts/profile.md",
+      "size_bytes": 1019,
+      "sha256": "381dd21bf06bbdead3efa351f74f93383c5f3a28e82575ba7d5f612086111720"
+    },
+    {
+      "path": "outreach/contacts/bill-s-sporting-goods/profile.md",
+      "size_bytes": 970,
+      "sha256": "de64ce734504ecd1a69dd7260040b852ddb00a9263e5344c6ee9171aab33473c"
+    },
+    {
+      "path": "outreach/contacts/blue-sage-outfitters/profile.md",
+      "size_bytes": 921,
+      "sha256": "ff5d2c7f7d96c008fae753a1414e3dfd23f0ce057000a00a0cc9ed226b610465"
+    },
+    {
+      "path": "outreach/contacts/bobby-armstrong-po-folk-outdoors/profile.md",
+      "size_bytes": 1137,
+      "sha256": "6e0268532ba49aa9f10b2ddb719aa54113709bde8cb156680a5153f6c6c0fb54"
+    },
+    {
+      "path": "outreach/contacts/bobby-cole-outdoor-mentors/profile.md",
+      "size_bytes": 1356,
+      "sha256": "538abeb94a81b3cb19450e7bcde7d04bd5e9df8959db61d452aa4026685fd70f"
+    },
+    {
+      "path": "outreach/contacts/brian-and-jeanne-herndon-big-creek-ducks-n-bucks/profile.md",
+      "size_bytes": 986,
+      "sha256": "e0ddb8b862797d7f075ddb7cc59f8332c9d49eb0ea0f12bbe75423070ce023e7"
+    },
+    {
+      "path": "outreach/contacts/charles-gaines-pine-tree-wda/profile.md",
+      "size_bytes": 1210,
+      "sha256": "fe403f5fe015ec3247f45c653f95900c623409447d3b9e5a6f669e0105324b62"
+    },
+    {
+      "path": "outreach/contacts/cherokee-nation-wildlife/profile.md",
+      "size_bytes": 924,
+      "sha256": "35c629a48238f6db6a839558cc169cb594dd33c2573972e598cd3996fc87eab6"
+    },
+    {
+      "path": "outreach/contacts/clifton-denney-on-your-own-outdoors/profile.md",
+      "size_bytes": 917,
+      "sha256": "1cb6e859b50b9e0540d44638d725062e709359b2d3e5980dd39055dea8872cce"
+    },
+    {
+      "path": "outreach/contacts/cypress-valley-meat-company/profile.md",
+      "size_bytes": 1105,
+      "sha256": "73dadbef2fa84ddafc324903fceaeb8df0becf4a99d56de4f48e5d5c77427199"
+    },
+    {
+      "path": "outreach/contacts/darrell-noblitt-original-outreach-attribution-unconfirmed/profile.md",
+      "size_bytes": 1592,
+      "sha256": "f279292194d97cc703dd825fa88db83307e69821830a0c49391fb86e972aee2d"
+    },
+    {
+      "path": "outreach/contacts/darren-haverstick-united-bowhunters-of-missouri/profile.md",
+      "size_bytes": 1603,
+      "sha256": "dcaa068cf6e4b54d32e480ac3917877c82ea4e35865f6384629b54c49c719c3b"
+    },
+    {
+      "path": "outreach/contacts/david-feisal-sportsman-s-hunting-club/profile.md",
+      "size_bytes": 1370,
+      "sha256": "2013a656e53c9eb2df6c67b0fc3eb4c9faf78cb4eb43f15dc9de99e363d30646"
+    },
+    {
+      "path": "outreach/contacts/david-hinceman-hands-of-a-sportsman/profile.md",
+      "size_bytes": 1107,
+      "sha256": "5b5c3d7e582d1f472fd7d04958d05cda8ef8b6d5adb1ca069ffe631cb4cc7a8e"
+    },
+    {
+      "path": "outreach/contacts/dd214-outdoor-ministry/profile.md",
+      "size_bytes": 904,
+      "sha256": "c01d2ba848283144d0f62f3f60079a9f04184f3f79502025168ef99692ac924c"
+    },
+    {
+      "path": "outreach/contacts/dr-mark-turner-blazin-grazin-and-other-wild-things/profile.md",
+      "size_bytes": 978,
+      "sha256": "f9cca5554ae6780ad1aac0fb0fb18369bae638aab649cdf839a9145ca00c80b4"
+    },
+    {
+      "path": "outreach/contacts/duane-hada-cross-trail-outfitters-buffalo-river/profile.md",
+      "size_bytes": 1067,
+      "sha256": "e1158e2449bc11ecb63502687fa3f398822be8b3e0a179e984407337d53885cb"
+    },
+    {
+      "path": "outreach/contacts/duck-creek-hunting-club/profile.md",
+      "size_bytes": 892,
+      "sha256": "0c8bb4343785d750c69a82130eaedf5f1f108603705afc2150bbdc0a728204f9"
+    },
+    {
+      "path": "outreach/contacts/dwayne-arkansas-bowhunters-association/profile.md",
+      "size_bytes": 921,
+      "sha256": "059466bd0ce8ab6b80102da3b296a3784ec45bafda93ecc8a3933794375c433b"
+    },
+    {
+      "path": "outreach/contacts/ed-haas-white-river-now/profile.md",
+      "size_bytes": 956,
+      "sha256": "4fb3a3d31e6f1f3abb4c648b4d3e317db224f9a66cd12a881d018619493416de"
+    },
+    {
+      "path": "outreach/contacts/findmybucknwa-drones-inbound/profile.md",
+      "size_bytes": 917,
+      "sha256": "74982ac1596a13de8a78d9afcbef8f223c97900514a264af43c66760610f64e5"
+    },
+    {
+      "path": "outreach/contacts/fort-rock-family-camp/profile.md",
+      "size_bytes": 905,
+      "sha256": "f89af10214b7b2dfbedbe41639f020c1a56ddcf26e9efb328682e3748a2dc573"
+    },
+    {
+      "path": "outreach/contacts/gary-futrell-river-ranch-mentored-hunt/profile.md",
+      "size_bytes": 1466,
+      "sha256": "dac2c391e42c625680c621da26210c00c171e4286cf73636c40f945c3cea1bcf"
+    },
+    {
+      "path": "outreach/contacts/greg-allen-bend-of-the-river-outfitters/profile.md",
+      "size_bytes": 908,
+      "sha256": "eabf62b596453a745039a70600c793b277be1e6eee427989eddc55b9c1355cdd"
+    },
+    {
+      "path": "outreach/contacts/greg-ray-outdoor-solutions-and-from-field-to-table/profile.md",
+      "size_bytes": 1472,
+      "sha256": "7cd987942490dbfde8cd6550f37d1d585fa3f39c3afc257f938ec1f7f76a4a39"
+    },
+    {
+      "path": "outreach/contacts/hardwood-outdoors/profile.md",
+      "size_bytes": 885,
+      "sha256": "2b0f4591d9727b40fa44cab35649a504740ce2995f66501251c5c1c16e751fe3"
+    },
+    {
+      "path": "outreach/contacts/harvesting-nature/profile.md",
+      "size_bytes": 903,
+      "sha256": "a6ef88e6d8a2fda6f44e388049b3c591a3d64ae90abcdd81e777446b10b77deb"
+    },
+    {
+      "path": "outreach/contacts/huntdog-arkansas/profile.md",
+      "size_bytes": 908,
+      "sha256": "c2201ce5f3e9980416534c4e715dbf060542e3ca2604486fb3cbaaabd60bb149"
+    },
+    {
+      "path": "outreach/contacts/hunters-advantage-podcast-invitation-for-jordan-shofler/profile.md",
+      "size_bytes": 1108,
+      "sha256": "8fe3c49d9892b213245e47e29e86e56a19995efda0a3f799341be69cee3d692d"
+    },
+    {
+      "path": "outreach/contacts/hunters-harvest-berryville/profile.md",
+      "size_bytes": 906,
+      "sha256": "5b79884c26c0ef0ec6f4b6612a5cf18aa8058821683b50a417374bbe0e32c766"
+    },
+    {
+      "path": "outreach/contacts/hunting-with-soldiers/profile.md",
+      "size_bytes": 1137,
+      "sha256": "313f9271d92b3f58e44159ec143d52859a35f37e380cf6049cce7a9d7c271f10"
+    },
+    {
+      "path": "outreach/contacts/index.md",
+      "size_bytes": 13731,
+      "sha256": "d5083cd5e67117503bca9d6001b77f8e0466d55e3787a134a9135003c0544db7"
+    },
+    {
+      "path": "outreach/contacts/island-ranch/profile.md",
+      "size_bytes": 892,
+      "sha256": "bb146fe7a7ee5ade5b7dc01183e479f9d9daa12ea386a947402b5d749ec367b4"
+    },
+    {
+      "path": "outreach/contacts/jana-stout-the-quiver-peel-compton-foundation/profile.md",
+      "size_bytes": 1367,
+      "sha256": "ad4c04c4c8f90c3aa2e48e3cc80e32bdeea01f201b40b49dec51714c6442e65c"
+    },
+    {
+      "path": "outreach/contacts/jay-compton-whitetail-properties/profile.md",
+      "size_bytes": 905,
+      "sha256": "51239e912bf479eec34ed1e329f9b492189cfbf3a1b0db5b2d4e714fcfe52069"
+    },
+    {
+      "path": "outreach/contacts/joe-and-jamie-cannady-otter-creek-hunting-club/profile.md",
+      "size_bytes": 1116,
+      "sha256": "2d33c1efd2cb4521e6f051a8ee7d8232dc780a14fa3842279df12b29bb680f40"
+    },
+    {
+      "path": "outreach/contacts/joel-acay-blast-cast-men-s-ministries/profile.md",
+      "size_bytes": 1395,
+      "sha256": "7a2a1a3f5c455cc1337f7b52a4c3dda497452347663802fab330d5120c6952a6"
+    },
+    {
+      "path": "outreach/contacts/joey-gentry-bull-shoals-lakeview-area/profile.md",
+      "size_bytes": 923,
+      "sha256": "f98bb483e4599083902cba017988510491980904a9483d6207f0188e1aa3d871"
+    },
+    {
+      "path": "outreach/contacts/john-burk-missouri-governor-s-mentored-deer-hunt/profile.md",
+      "size_bytes": 1122,
+      "sha256": "b36e060660f1a23a561349a21e9794ba0b573740ed34f7527b430cb41ef71d40"
+    },
+    {
+      "path": "outreach/contacts/john-g-allman-atterbury-sportsman-club/profile.md",
+      "size_bytes": 1493,
+      "sha256": "5211c8f7e99561bee79e12ab61a19ef92d6d81b1c396a747c09f3481465b34bd"
+    },
+    {
+      "path": "outreach/contacts/john-valor-camp-arkansas/profile.md",
+      "size_bytes": 904,
+      "sha256": "43942810f92f91992bd2583cc66c15c8ac8ab7730be35dc30bee45ce5210dc3b"
+    },
+    {
+      "path": "outreach/contacts/jon-mission-4-19-outdoors/profile.md",
+      "size_bytes": 937,
+      "sha256": "a01ffdd723ea24a082c0a55c65ca8b9c404a3d8915672b3ad7c5542b78fc0b3c"
+    },
+    {
+      "path": "outreach/contacts/jonathan-mills-fort-campbell-fish-and-wildlife/profile.md",
+      "size_bytes": 1247,
+      "sha256": "84a5eac4e2313d2d9ba9ea251f70c105238ad50f01087e9fcfdb77c735fa0d37"
+    },
+    {
+      "path": "outreach/contacts/julie-hunters-for-the-hungry-louisiana/profile.md",
+      "size_bytes": 907,
+      "sha256": "b2bb84ba90b619fafc6e0745f7e142f66e1629f62b62ab06e09a79c0a2692735"
+    },
+    {
+      "path": "outreach/contacts/kempf-s-meat-processing/profile.md",
+      "size_bytes": 889,
+      "sha256": "5667327cd1b9b18642b61b7ac2bbb78660bea4ab351971d511c54175dd3daa0b"
+    },
+    {
+      "path": "outreach/contacts/kevin-potts-reaching-outdoors-of-texas/profile.md",
+      "size_bytes": 1424,
+      "sha256": "714245b6c528e0fe5d8e89375c2fb7fb68e791a4d14815d11cd490c1d0aa540b"
+    },
+    {
+      "path": "outreach/contacts/kylie-harris-searcy-county-4-h/profile.md",
+      "size_bytes": 1348,
+      "sha256": "d33562e7d434950212489d0149582212e4ba3310f535f8fda4286c595cb66e4a"
+    },
+    {
+      "path": "outreach/contacts/lea-white-becoming-an-outdoors-woman-arkansas/profile.md",
+      "size_bytes": 1294,
+      "sha256": "cb66a6205c86fc7791481a20659007e8dee66f1ac78cbaaa63ccd59da066d5fa"
+    },
+    {
+      "path": "outreach/contacts/liberty-hill-outfitters/profile.md",
+      "size_bytes": 895,
+      "sha256": "d77393f67bdc2fae370a23b8c802e529202fa6f3ba352ca3880d4bbdb318bc2d"
+    },
+    {
+      "path": "outreach/contacts/logan-battle-branch-boys/profile.md",
+      "size_bytes": 1338,
+      "sha256": "f5e414c12ec8e7dfc7ed03cc03f7dd07aedeffb069557f078b62ef725e9506ea"
+    },
+    {
+      "path": "outreach/contacts/louisiana-outdoor-expo/profile.md",
+      "size_bytes": 917,
+      "sha256": "835b26a06f15ab239bf92b9b797b8d9ff70b5de8df4c1fa8a2d294b8e5a58b72"
+    },
+    {
+      "path": "outreach/contacts/luke-clayton/profile.md",
+      "size_bytes": 923,
+      "sha256": "f7d1fa1bff81993179ce3d792d29cf66b4d48fd08a67617dc635c1d5334f2cc5"
+    },
+    {
+      "path": "outreach/contacts/matt-mcnair-arkansas-wild/profile.md",
+      "size_bytes": 1026,
+      "sha256": "764d4edfa963ce7d97efcd9b3ecc969afb3a96c52aa78a2ac8850192cc77f75f"
+    },
+    {
+      "path": "outreach/contacts/micah-holmes-outdoor-oklahoma-odwc/profile.md",
+      "size_bytes": 952,
+      "sha256": "54d3ad8981f3f8054a0e62a71bcbee3f47ded9e19ebe7494a78f6bbfb736a688"
+    },
+    {
+      "path": "outreach/contacts/mike-coffee-renfro-hunting-club/profile.md",
+      "size_bytes": 1129,
+      "sha256": "b9473fedec6c112e0b1a02b8a70bf776ddf877ddf35fd3aec18b1713e2c6b4c2"
+    },
+    {
+      "path": "outreach/contacts/mike-cranford-southern-sportsmen-foundation/profile.md",
+      "size_bytes": 1347,
+      "sha256": "cc8edd109db7728e113c49dadbde7ea53d150636053052bb7d44e8ce457edfde"
+    },
+    {
+      "path": "outreach/contacts/missouri-hunting-heritage-federation/profile.md",
+      "size_bytes": 913,
+      "sha256": "197a4bcce112706284337d821900af8bc28227cb9137a7ae91816176a31e8f8c"
+    },
+    {
+      "path": "outreach/contacts/missouri-woods-water-podcast/profile.md",
+      "size_bytes": 1328,
+      "sha256": "6c3608edf62cb110f50d4da681c20ce92be23e7349d7d43cdd235aad36e1a3ef"
+    },
+    {
+      "path": "outreach/contacts/national-deer-association-keener-and-sons-hunting-club/profile.md",
+      "size_bytes": 951,
+      "sha256": "553468afb4171f0701337c1a243aceb67f48e3ea617ebc77c7d615fcec45894b"
+    },
+    {
+      "path": "outreach/contacts/naturally-wild-arkansas-tv/profile.md",
+      "size_bytes": 952,
+      "sha256": "4787e6a0a90c3cd8c213af083646fa3d5099ef4b43dc9b9f0d58d078b29ff1df"
+    },
+    {
+      "path": "outreach/contacts/nicole-gardner-camp/profile.md",
+      "size_bytes": 1131,
+      "sha256": "2ab2693ad83ae2c5820e51a8c2bb564ad61a40a588e4e8d88872305e511faf56"
+    },
+    {
+      "path": "outreach/contacts/north-american-whitetail-derek-curtis-inquiry/profile.md",
+      "size_bytes": 922,
+      "sha256": "ef92f16b96f3f52d969dc89f86dc5e47c19f8ef118e3fd264b9863896e64b380"
+    },
+    {
+      "path": "outreach/contacts/okie-land-bowhunters/profile.md",
+      "size_bytes": 909,
+      "sha256": "9819020ba995a2fa8cdb7495e2604f6a2d1319e603ae862e8e3f527004b57f99"
+    },
+    {
+      "path": "outreach/contacts/oklahoma-fur-bearers-alliance/profile.md",
+      "size_bytes": 931,
+      "sha256": "358d934f76de98284cbf40652c081c741f79e159aeff9ca0e05b81e1ea03c64c"
+    },
+    {
+      "path": "outreach/contacts/oklahoma-outdoor-pursuits/profile.md",
+      "size_bytes": 903,
+      "sha256": "ac82a127f99dea2b8faca42cdbcdd82d628de19c72ea75670d4e15cf89b5092d"
+    },
+    {
+      "path": "outreach/contacts/oklahoma-youth-hunting-program/profile.md",
+      "size_bytes": 901,
+      "sha256": "90db6a8a08a9535d97b5988564c6fd3f8da3ef52d9b859fcf8307c3e7cbffbdf"
+    },
+    {
+      "path": "outreach/contacts/old-miss-hunting-club/profile.md",
+      "size_bytes": 1202,
+      "sha256": "297314aa5902e161c385718d68b0e7f521615962dbd855b9e2d780890e7bbbe6"
+    },
+    {
+      "path": "outreach/contacts/on-target-outfitters-dan-tyrrell/profile.md",
+      "size_bytes": 1108,
+      "sha256": "e7a7ad8942f5963e7472a292e08ebe6dee6ae8778fc1370f5434c7a8710609d6"
+    },
+    {
+      "path": "outreach/contacts/opie-thomas-paul-and-christy-parsons-hope-outdoors-searcy/profile.md",
+      "size_bytes": 1544,
+      "sha256": "b5716910c770c0298aeab926f81f7fe6aebe2d31b316343a6cbe32eed88b0d8d"
+    },
+    {
+      "path": "outreach/contacts/opportunity-outdoors/profile.md",
+      "size_bytes": 903,
+      "sha256": "b4d65f531b04b5ea10fb12d117d4cd1d140edddb0506b662c3283e19b4354c42"
+    },
+    {
+      "path": "outreach/contacts/original-google-contacts.csv",
+      "size_bytes": 8781,
+      "sha256": "174d35276fe0a1df567e2b94b9c1048732dd6063b1377bb8806f635caa9914f4"
+    },
+    {
+      "path": "outreach/contacts/osage-nation-department-of-natural-resources-kassidee-chouteau/profile.md",
+      "size_bytes": 1237,
+      "sha256": "c6737e4d796025d3a0941c142fe871b20cc2afa89b3efe8a04ed542311c53b6d"
+    },
+    {
+      "path": "outreach/contacts/paul-tyus-4m-whitetails/profile.md",
+      "size_bytes": 1073,
+      "sha256": "7f2a5ffba3c33a97b872f155e8004fb7cb30ffcd97c31571a9e207d96a9eb9be"
+    },
+    {
+      "path": "outreach/contacts/pete-eisentrager-missouri-disabled-sportsmen/profile.md",
+      "size_bytes": 1275,
+      "sha256": "d426573ff2de492af9d4394a97cfc7b191791bf5aa5c38a965946a9fa88ae47f"
+    },
+    {
+      "path": "outreach/contacts/pushmataha-county-sportsman-club-inquiry/profile.md",
+      "size_bytes": 919,
+      "sha256": "40cd354903008e563925b6afc22bb26aa44b8b3eebc16015fa0e1f386441920b"
+    },
+    {
+      "path": "outreach/contacts/quapaw-nation-public-relations-and-wildlife/profile.md",
+      "size_bytes": 977,
+      "sha256": "27389e7c3f6095d8f17e6244b8a93968c94600d9f8db727b8c3822beaeaacc6e"
+    },
+    {
+      "path": "outreach/contacts/randall-jay-townsend-usace-little-rock-district/profile.md",
+      "size_bytes": 1486,
+      "sha256": "dac118dd2c718e27e0959217cc303f0f54e40d41fcd0fab9a14c3cc6cfc7afba"
+    },
+    {
+      "path": "outreach/contacts/red-rock-outfitters/profile.md",
+      "size_bytes": 887,
+      "sha256": "8572c7c756973c016faaba0aa9539b802bad8bf4c53830e48791c4c6e504f04d"
+    },
+    {
+      "path": "outreach/contacts/rhett-acker-oklahoma-drone-recovery-company/profile.md",
+      "size_bytes": 1064,
+      "sha256": "4c6985536da4616ddd74c6604198869e11e0944afa40e5448366200b7e649fa5"
+    },
+    {
+      "path": "outreach/contacts/rick-nolan-oklahoma-hunters-anglers/profile.md",
+      "size_bytes": 1456,
+      "sha256": "53219290d86769153f38451ac6ee3a092000e3e625ed4b75ee5a844b8d73cb3f"
+    },
+    {
+      "path": "outreach/contacts/rivers-woods-county-whitetails/profile.md",
+      "size_bytes": 1062,
+      "sha256": "c9f457f79ee1b05a3433880da97f55ca35d8a95be62cf5a7b66454adf2be2307"
+    },
+    {
+      "path": "outreach/contacts/ronnie-ritter-arkansas-hunters-feeding-the-hungry/profile.md",
+      "size_bytes": 1428,
+      "sha256": "d67f799fc7e43d7ac8e83856c4d9e57ee534c782969b6fe1d02b68c2a0b29a60"
+    },
+    {
+      "path": "outreach/contacts/rustic-rack-outdoors/profile.md",
+      "size_bytes": 964,
+      "sha256": "a690e57a2f3b38ba3d45d26011da64aa6f3f886742dc0e04cd1143d26fc70c03"
+    },
+    {
+      "path": "outreach/contacts/rusty-redfearn-rockin-69-outfitters/profile.md",
+      "size_bytes": 911,
+      "sha256": "a8739c4bc5925d0aa74e64dbf5823877bc395d54a7eeee4850d0e2bbd3810cfa"
+    },
+    {
+      "path": "outreach/contacts/s-bar-outfitters/profile.md",
+      "size_bytes": 889,
+      "sha256": "85ef367153cc43d89d4614d0ca4204274227ad186023f116f7ef005ecfb8dcb1"
+    },
+    {
+      "path": "outreach/contacts/safari-club-international-women-go-hunting/profile.md",
+      "size_bytes": 946,
+      "sha256": "57f71bd3e205131b0c2130bfd919a00f8b22432cc635fd96188424359f0e4eed"
+    },
+    {
+      "path": "outreach/contacts/scott-hargrove-compton-traditional-bowhunters/profile.md",
+      "size_bytes": 1070,
+      "sha256": "f4bf26fd4e2facd4967dc25800d9fb6b1bd5d2e8f80539a3dbb54426ffec8a0b"
+    },
+    {
+      "path": "outreach/contacts/shawn-daniel-darby-s-warrior-support/profile.md",
+      "size_bytes": 1541,
+      "sha256": "b9512ee14e0a6bde652311541d1792de772c454c6a4c39d907b451d9ad531bb8"
+    },
+    {
+      "path": "outreach/contacts/silver-creek-hunting-club-david-glover/profile.md",
+      "size_bytes": 1077,
+      "sha256": "a69a4aa401ad0666ec6c64a4caea22c31db693dc649b94b74eac4b099b148446"
+    },
+    {
+      "path": "outreach/contacts/the-ozark-podcast/profile.md",
+      "size_bytes": 907,
+      "sha256": "d6b57fb9cd276e8d62e5b5cbcdcdf9ffc0b539dd0d93fba0e51150befc0f85c2"
+    },
+    {
+      "path": "outreach/contacts/todd-hsvpoa-urban-deer-hunt/profile.md",
+      "size_bytes": 1316,
+      "sha256": "942bdfbf5723e03888c90621199a4f756d569b244213ebe287ed5de7f7366660"
+    },
+    {
+      "path": "outreach/contacts/trakr/profile.md",
+      "size_bytes": 896,
+      "sha256": "25f484f4518e685f5d98f167a42e02fd213d148bf83852e1258eaf5e06b035e7"
+    },
+    {
+      "path": "outreach/contacts/tron-peterson-outdoors-ministries/profile.md",
+      "size_bytes": 949,
+      "sha256": "91cacec488cfb77a0242d0bed14b3e8f657b701d3e458ce4589e66e232482dc9"
+    },
+    {
+      "path": "outreach/contacts/tu-mile-sportsmen-s-association/profile.md",
+      "size_bytes": 1060,
+      "sha256": "c7dc97201cb9aff717310bed42d0b5b8d90289f7a90dc32b6dc1e46039f68d89"
+    },
+    {
+      "path": "outreach/contacts/tulsa-archery-association/profile.md",
+      "size_bytes": 1241,
+      "sha256": "a07838df71b636f68e6ab7162162ef9a5abb6f8b1fbf026548898cb71fd25637"
+    },
+    {
+      "path": "outreach/contacts/virginia-rhame-slayton-my-natural-state-story/profile.md",
+      "size_bytes": 1506,
+      "sha256": "a8e18c573fa211d80544d2fb469d2c8ba4914820795464e6db882c377603b966"
+    },
+    {
+      "path": "outreach/contacts/whitetails-unlimited-red-dirt-oklahoma-chapter/profile.md",
+      "size_bytes": 924,
+      "sha256": "42e4ba78f120207eadefdd5f271249a4b8d0b032b91a21facb687a7ede8685e1"
+    },
+    {
+      "path": "outreach/contacts/wild-country-meats/profile.md",
+      "size_bytes": 992,
+      "sha256": "766edf9500537c05cc337466a8584c95a78aa8052da3e0130a7337a5e9455c3d"
+    },
+    {
+      "path": "outreach/contacts/wildherness/profile.md",
+      "size_bytes": 902,
+      "sha256": "c3e6827c1815ea75cb3628a26717dcee921d20f2ac95bff6dbdf6b39c0bf2e0d"
+    },
+    {
+      "path": "outreach/contacts/william-frost-dan-fout-memorial-disabled-veterans-hunt/profile.md",
+      "size_bytes": 1545,
+      "sha256": "cca66cf2e75aed8160ea29e29f1970373157647d9a70eaa338d6be32ed64ff8a"
+    },
+    {
+      "path": "outreach/contacts/willow-creek-hunting-club/profile.md",
+      "size_bytes": 1098,
+      "sha256": "14c8b11d791fc592820b3ec7b12d388ae25951d5afa0f5511f02a00aee1961a7"
+    },
+    {
+      "path": "outreach/contacts/woodlot-whitetail/profile.md",
+      "size_bytes": 1110,
+      "sha256": "8eb3f5a68d59f8a0eec0e7a0f3e2d14005e4a8c6218a2934b77a001d2ef57c2c"
+    },
+    {
+      "path": "outreach/contacts/working-class-bowhunter-hunting-mason-dixon/profile.md",
+      "size_bytes": 933,
+      "sha256": "a66b4b1c44f9aae0c9796d580c549d859db043853c5b7c75056ab89dee5d535c"
+    },
+    {
+      "path": "outreach/reference/2026-10-07-reply-strategy.md",
+      "size_bytes": 21426,
+      "sha256": "0e98b2b3e778aa5e7d990f579440aff4f05939d42aa4232eccf51167f91efe94"
+    },
+    {
+      "path": "outreach/reference/2026-10-07-update.md",
+      "size_bytes": 5093,
+      "sha256": "0bc0046a584648c23826ceb1e67f5046bae239f611fe0b56891cdb1021f6c72a"
+    },
+    {
+      "path": "outreach/reference/first-call-binder-readable.md",
+      "size_bytes": 41175,
+      "sha256": "a8c819cd968fc9b01eb43c2891653bca19fa3b4a5925a933e9b1e4583ff29766"
+    },
+    {
+      "path": "outreach/reference/first-call-binder.pdf",
+      "size_bytes": 1322960,
+      "sha256": "dbb8be216bba9307b3ae52cb305f7a4c6c6fa8a295a03900d825c07a2f3c9e4d"
+    },
+    {
+      "path": "outreach/reply-status.json",
+      "size_bytes": 11281,
+      "sha256": "756078145ea46985d90ccadfcd5987fada18fb2238a3f923780c41efa6638047"
+    },
+    {
+      "path": "outreach/sending-policy.json",
+      "size_bytes": 783,
+      "sha256": "550484b7c23370026cfb595ad639723a24c2e2f2096763cf5adb3a6e65359416"
+    },
+    {
+      "path": "outreach/snapshots/2026-10-08-contact-packet-evidence.json",
+      "size_bytes": 2791552,
+      "sha256": "bc03598dfbfd8846b272cff3393e059b68e93bde1eec898bc1a7498c2cb8d2f5"
+    },
+    {
+      "path": "outreach/snapshots/2026-10-09-master-record.json",
+      "size_bytes": 732810,
+      "sha256": "b0b2fcae8571b8cad863f9b6741bc82cde6a18960ad68bdcad81a9678b5916d7"
+    },
+    {
+      "path": "outreach/snapshots/2026-10-09-readable-review.html",
+      "size_bytes": 479104,
+      "sha256": "209889ad57161312d862b2d1c9b2aaba8e1841ce8b0f9f05c6343ca223aee6ff"
+    },
+    {
+      "path": "product-audit/README.md",
+      "size_bytes": 2302,
+      "sha256": "31e2be52a6d782df3ddd22d03868beb2aa6c63c80478deaa59b34fd11b51fbad"
+    },
+    {
+      "path": "product-audit/application/.gitignore",
+      "size_bytes": 66,
+      "sha256": "420bc9aa1a69d89e3e456f1e7784a466021d63f76691e2810e1c63f624ac5bf5"
+    },
+    {
+      "path": "product-audit/application/README.md",
+      "size_bytes": 3125,
+      "sha256": "24e204ebe37b145e6b77cf248adfb628d32786fa2ce73dc24aa304d069d1c160"
+    },
+    {
+      "path": "product-audit/application/data/normalized/audit-flags.json",
+      "size_bytes": 87629,
+      "sha256": "182cd479539c797568d87aee0a6062f14d355916e1770dce34b64e54042606e2"
+    },
+    {
+      "path": "product-audit/application/data/normalized/designs.json",
+      "size_bytes": 562,
+      "sha256": "86836de6995130572c94de68c61370459ba155a0d1f12e4d89ac4aaabf55394e"
+    },
+    {
+      "path": "product-audit/application/data/normalized/products.json",
+      "size_bytes": 1200140,
+      "sha256": "ab092381b55258c7f7ecb1f3dfdcae9b8434f6e679ad51f715f8ad9821601031"
+    },
+    {
+      "path": "product-audit/application/data/normalized/snapshot-meta.json",
+      "size_bytes": 1036,
+      "sha256": "cdd78db664879f74e5b1d17de2daccc8dc1ce535bd46ac693b01a778df27dbc6"
+    },
+    {
+      "path": "product-audit/application/data/raw/october-1-audit-reference.json",
+      "size_bytes": 613360,
+      "sha256": "460aa5818fa90664d75d08d286c3d2efc75a0244b319ee70f5e9be44bf6aec3d"
+    },
+    {
+      "path": "product-audit/application/data/raw/shopify-live-2026-10-06.json",
+      "size_bytes": 625084,
+      "sha256": "4d9748555a05e27f7900975f2d754c66c213415751c207d79e348a9b791c6414"
+    },
+    {
+      "path": "product-audit/application/dist/data/normalized/audit-flags.json",
+      "size_bytes": 87629,
+      "sha256": "182cd479539c797568d87aee0a6062f14d355916e1770dce34b64e54042606e2"
+    },
+    {
+      "path": "product-audit/application/dist/data/normalized/designs.json",
+      "size_bytes": 562,
+      "sha256": "86836de6995130572c94de68c61370459ba155a0d1f12e4d89ac4aaabf55394e"
+    },
+    {
+      "path": "product-audit/application/dist/data/normalized/products.json",
+      "size_bytes": 1200140,
+      "sha256": "ab092381b55258c7f7ecb1f3dfdcae9b8434f6e679ad51f715f8ad9821601031"
+    },
+    {
+      "path": "product-audit/application/dist/data/normalized/snapshot-meta.json",
+      "size_bytes": 1036,
+      "sha256": "cdd78db664879f74e5b1d17de2daccc8dc1ce535bd46ac693b01a778df27dbc6"
+    },
+    {
+      "path": "product-audit/application/dist/data/raw/october-1-audit-reference.json",
+      "size_bytes": 613360,
+      "sha256": "460aa5818fa90664d75d08d286c3d2efc75a0244b319ee70f5e9be44bf6aec3d"
+    },
+    {
+      "path": "product-audit/application/dist/data/raw/shopify-live-2026-10-06.json",
+      "size_bytes": 625084,
+      "sha256": "4d9748555a05e27f7900975f2d754c66c213415751c207d79e348a9b791c6414"
+    },
+    {
+      "path": "product-audit/application/dist/index.html",
+      "size_bytes": 1077,
+      "sha256": "2f34f8ad008d7de39d0d4872f44449cd81652846d0a85698dde2e12c82305601"
+    },
+    {
+      "path": "product-audit/application/dist/public/icon.svg",
+      "size_bytes": 368,
+      "sha256": "afcfd173dd4eed87e26c3afbdeea01037393ab746ac8982e74da62df92b3e107"
+    },
+    {
+      "path": "product-audit/application/dist/public/manifest.webmanifest",
+      "size_bytes": 373,
+      "sha256": "b42a7aab0da11cb046620ab544480a1f95bc7dcf45bee565abc606997a6275a4"
+    },
+    {
+      "path": "product-audit/application/dist/public/sw.js",
+      "size_bytes": 2080,
+      "sha256": "7b12f8e305fb260ffc1e7e575cda4c519ea07ecaf64fe96dd605e16084189b82"
+    },
+    {
+      "path": "product-audit/application/dist/src/app.js",
+      "size_bytes": 11877,
+      "sha256": "89591993f236065028b26859ae249af0ccbd1eeb87e786a5affe1a303bcade60"
+    },
+    {
+      "path": "product-audit/application/dist/src/components/confirmation-dialog.js",
+      "size_bytes": 626,
+      "sha256": "289462b140b05a45d152d2540a85364d349638caccec720ada60b1f2c952f1f3"
+    },
+    {
+      "path": "product-audit/application/dist/src/components/decision-controls.js",
+      "size_bytes": 4610,
+      "sha256": "4113ba1d9013d21d0d60458dd1077595e77c16e59c316c1ab19916ede786e9a3"
+    },
+    {
+      "path": "product-audit/application/dist/src/components/flag-list.js",
+      "size_bytes": 444,
+      "sha256": "b9cbb88455f03d1d1e1331bc3336f5dc507de08e4718f429a750835d7d89393c"
+    },
+    {
+      "path": "product-audit/application/dist/src/components/product-card.js",
+      "size_bytes": 662,
+      "sha256": "1cb1b551789a5e558839e938017211b9bd13b8d6c60355e136574d67ab5bf4f7"
+    },
+    {
+      "path": "product-audit/application/dist/src/components/status-chip.js",
+      "size_bytes": 236,
+      "sha256": "b87f63f152ca59e49fe0fe5d4d99cb716a467f2b941d069599e0e2facd8fd752"
+    },
+    {
+      "path": "product-audit/application/dist/src/config.js",
+      "size_bytes": 409,
+      "sha256": "b22064b89cc117b85ee6310a3abbdb3869ee41239a93b84c33d260670510e084"
+    },
+    {
+      "path": "product-audit/application/dist/src/data/load-baseline.js",
+      "size_bytes": 702,
+      "sha256": "271e6c68970ec52e42170dcbb495007e201906c8a6cbaeeea85792eff7395583"
+    },
+    {
+      "path": "product-audit/application/dist/src/data/validate-baseline.js",
+      "size_bytes": 970,
+      "sha256": "224f26ff57ec417ade5c2410ddb0746d2dad8ae8c9c53bc566a9d65a4f2e292c"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/actions.js",
+      "size_bytes": 2708,
+      "sha256": "89d98b84af90a6991866bff30631579fc55e5105ab947e7859d84c67c5345e7d"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/design-impact.js",
+      "size_bytes": 1150,
+      "sha256": "ae6fe828fb746a5d8d1ef39b7c032472678463b61732b53478228e01cbe2fc6a"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/duplicates.js",
+      "size_bytes": 980,
+      "sha256": "ad03154fca66bb57ee2b35f26c49073f0fd907120add667fa417f9c0849b8542"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/flags.js",
+      "size_bytes": 2291,
+      "sha256": "1ce56a5f6488cfd6155114ec138a4a85e1e7d16af1999931819a0315f3e87d1d"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/product-decision-flow.js",
+      "size_bytes": 1501,
+      "sha256": "eb60fcc7aea8e141b4128ac8e77523c06f24a8bfa1ef8b0d39c5fe27711fca0f"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/readiness.js",
+      "size_bytes": 1294,
+      "sha256": "229a188f99bdb2c9d7bfadb0e2cbc1d485bc6f1fbf59fcfd7a22ddf45bf15ba2"
+    },
+    {
+      "path": "product-audit/application/dist/src/domain/review-order.js",
+      "size_bytes": 1026,
+      "sha256": "bc63d74bcccc918c58ac98ec0aea085230f0c67df7b93e25eef94f87656fe56f"
+    },
+    {
+      "path": "product-audit/application/dist/src/export/exporters.js",
+      "size_bytes": 2608,
+      "sha256": "ebb2bec9fb2d4d9cf433302174287a0bda2033fb78e38e373931105201522dcc"
+    },
+    {
+      "path": "product-audit/application/dist/src/export/import-decisions.js",
+      "size_bytes": 783,
+      "sha256": "3b879e2d03a6f0130c697f365c19238e2f25d54ff9d6c574ce0d7374209d617d"
+    },
+    {
+      "path": "product-audit/application/dist/src/state/db.js",
+      "size_bytes": 1237,
+      "sha256": "196ac44c622bb75fb4a7e28c8bef2dc688891cae47ad9cc0f3506ff1dca57864"
+    },
+    {
+      "path": "product-audit/application/dist/src/state/repository.js",
+      "size_bytes": 1420,
+      "sha256": "0c52e592f903efe0e155d55eb271f26834c86bf531409f7b5475feadf7ce3b96"
+    },
+    {
+      "path": "product-audit/application/dist/src/styles.css",
+      "size_bytes": 7676,
+      "sha256": "252b29068fa346851009ba0d03e236392eb7d7b953c42fb8093b475589b7dd21"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/action-queue.js",
+      "size_bytes": 1499,
+      "sha256": "26920246a93fa539604896fa7bbcf675309ff4860b4c1348fe621c102b976974"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/dashboard.js",
+      "size_bytes": 1993,
+      "sha256": "0dabe24d35e3c92bab16036ee3d6e4cc317208db4c023525293aedddc111cb0e"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/design-library.js",
+      "size_bytes": 1719,
+      "sha256": "2bda270aced2b0df1385079e41e04e213a6c14f56746e903c272e308ed888185"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/duplicate-review.js",
+      "size_bytes": 1348,
+      "sha256": "ecd8564b42eccf392f4f98c0fbff6157a7e84c3cf2f85bdc14df37459a616502"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/launch-collection.js",
+      "size_bytes": 966,
+      "sha256": "d8b1d44bccbb75d3d83298bd054cd501ad639655215ce697d70f1b33c1a3e581"
+    },
+    {
+      "path": "product-audit/application/dist/src/views/product-review.js",
+      "size_bytes": 2332,
+      "sha256": "82f4318821af6184deb37b564ffaa58e3450c40d8c88ca587144ecd44613402d"
+    },
+    {
+      "path": "product-audit/application/dist/sw.js",
+      "size_bytes": 2080,
+      "sha256": "7b12f8e305fb260ffc1e7e575cda4c519ea07ecaf64fe96dd605e16084189b82"
+    },
+    {
+      "path": "product-audit/application/docs/superpowers/plans/2026-10-06-whitetail-product-control-implementation.md",
+      "size_bytes": 25677,
+      "sha256": "4d4505d19daa974933f262457cf92c0f3c37ae139f3734a4d436efe87b28ac8b"
+    },
+    {
+      "path": "product-audit/application/docs/superpowers/specs/2026-10-06-whitetail-product-control-design.md",
+      "size_bytes": 19222,
+      "sha256": "849b8232fcdc1b2cc92afd21fcd7f0e4383847847e023d98a018138394a97aab"
+    },
+    {
+      "path": "product-audit/application/index.html",
+      "size_bytes": 1077,
+      "sha256": "2f34f8ad008d7de39d0d4872f44449cd81652846d0a85698dde2e12c82305601"
+    },
+    {
+      "path": "product-audit/application/package.json",
+      "size_bytes": 277,
+      "sha256": "4e6ed95ee52fe7e2ea20eaa67db9d2ee1fdfd95177403dc6bd59e5cf12b0ede2"
+    },
+    {
+      "path": "product-audit/application/public/icon.svg",
+      "size_bytes": 368,
+      "sha256": "afcfd173dd4eed87e26c3afbdeea01037393ab746ac8982e74da62df92b3e107"
+    },
+    {
+      "path": "product-audit/application/public/manifest.webmanifest",
+      "size_bytes": 373,
+      "sha256": "b42a7aab0da11cb046620ab544480a1f95bc7dcf45bee565abc606997a6275a4"
+    },
+    {
+      "path": "product-audit/application/public/sw.js",
+      "size_bytes": 2080,
+      "sha256": "7b12f8e305fb260ffc1e7e575cda4c519ea07ecaf64fe96dd605e16084189b82"
+    },
+    {
+      "path": "product-audit/application/scripts/build.mjs",
+      "size_bytes": 384,
+      "sha256": "954b60b6351df1785efdfb6fd5cb8750ce1d474b353a21d2865d839d8fef1d63"
+    },
+    {
+      "path": "product-audit/application/scripts/normalize-baseline.mjs",
+      "size_bytes": 2506,
+      "sha256": "e31dec4c062af738e542b8018686f3e071dffda0b56a285f7ae36867c7f56e79"
+    },
+    {
+      "path": "product-audit/application/src/app.js",
+      "size_bytes": 11877,
+      "sha256": "89591993f236065028b26859ae249af0ccbd1eeb87e786a5affe1a303bcade60"
+    },
+    {
+      "path": "product-audit/application/src/components/confirmation-dialog.js",
+      "size_bytes": 626,
+      "sha256": "289462b140b05a45d152d2540a85364d349638caccec720ada60b1f2c952f1f3"
+    },
+    {
+      "path": "product-audit/application/src/components/decision-controls.js",
+      "size_bytes": 4610,
+      "sha256": "4113ba1d9013d21d0d60458dd1077595e77c16e59c316c1ab19916ede786e9a3"
+    },
+    {
+      "path": "product-audit/application/src/components/flag-list.js",
+      "size_bytes": 444,
+      "sha256": "b9cbb88455f03d1d1e1331bc3336f5dc507de08e4718f429a750835d7d89393c"
+    },
+    {
+      "path": "product-audit/application/src/components/product-card.js",
+      "size_bytes": 662,
+      "sha256": "1cb1b551789a5e558839e938017211b9bd13b8d6c60355e136574d67ab5bf4f7"
+    },
+    {
+      "path": "product-audit/application/src/components/status-chip.js",
+      "size_bytes": 236,
+      "sha256": "b87f63f152ca59e49fe0fe5d4d99cb716a467f2b941d069599e0e2facd8fd752"
+    },
+    {
+      "path": "product-audit/application/src/config.js",
+      "size_bytes": 409,
+      "sha256": "b22064b89cc117b85ee6310a3abbdb3869ee41239a93b84c33d260670510e084"
+    },
+    {
+      "path": "product-audit/application/src/data/load-baseline.js",
+      "size_bytes": 702,
+      "sha256": "271e6c68970ec52e42170dcbb495007e201906c8a6cbaeeea85792eff7395583"
+    },
+    {
+      "path": "product-audit/application/src/data/validate-baseline.js",
+      "size_bytes": 970,
+      "sha256": "224f26ff57ec417ade5c2410ddb0746d2dad8ae8c9c53bc566a9d65a4f2e292c"
+    },
+    {
+      "path": "product-audit/application/src/domain/actions.js",
+      "size_bytes": 2708,
+      "sha256": "89d98b84af90a6991866bff30631579fc55e5105ab947e7859d84c67c5345e7d"
+    },
+    {
+      "path": "product-audit/application/src/domain/design-impact.js",
+      "size_bytes": 1150,
+      "sha256": "ae6fe828fb746a5d8d1ef39b7c032472678463b61732b53478228e01cbe2fc6a"
+    },
+    {
+      "path": "product-audit/application/src/domain/duplicates.js",
+      "size_bytes": 980,
+      "sha256": "ad03154fca66bb57ee2b35f26c49073f0fd907120add667fa417f9c0849b8542"
+    },
+    {
+      "path": "product-audit/application/src/domain/flags.js",
+      "size_bytes": 2291,
+      "sha256": "1ce56a5f6488cfd6155114ec138a4a85e1e7d16af1999931819a0315f3e87d1d"
+    },
+    {
+      "path": "product-audit/application/src/domain/product-decision-flow.js",
+      "size_bytes": 1501,
+      "sha256": "eb60fcc7aea8e141b4128ac8e77523c06f24a8bfa1ef8b0d39c5fe27711fca0f"
+    },
+    {
+      "path": "product-audit/application/src/domain/readiness.js",
+      "size_bytes": 1294,
+      "sha256": "229a188f99bdb2c9d7bfadb0e2cbc1d485bc6f1fbf59fcfd7a22ddf45bf15ba2"
+    },
+    {
+      "path": "product-audit/application/src/domain/review-order.js",
+      "size_bytes": 1026,
+      "sha256": "bc63d74bcccc918c58ac98ec0aea085230f0c67df7b93e25eef94f87656fe56f"
+    },
+    {
+      "path": "product-audit/application/src/export/exporters.js",
+      "size_bytes": 2608,
+      "sha256": "ebb2bec9fb2d4d9cf433302174287a0bda2033fb78e38e373931105201522dcc"
+    },
+    {
+      "path": "product-audit/application/src/export/import-decisions.js",
+      "size_bytes": 783,
+      "sha256": "3b879e2d03a6f0130c697f365c19238e2f25d54ff9d6c574ce0d7374209d617d"
+    },
+    {
+      "path": "product-audit/application/src/state/db.js",
+      "size_bytes": 1237,
+      "sha256": "196ac44c622bb75fb4a7e28c8bef2dc688891cae47ad9cc0f3506ff1dca57864"
+    },
+    {
+      "path": "product-audit/application/src/state/repository.js",
+      "size_bytes": 1420,
+      "sha256": "0c52e592f903efe0e155d55eb271f26834c86bf531409f7b5475feadf7ce3b96"
+    },
+    {
+      "path": "product-audit/application/src/styles.css",
+      "size_bytes": 7676,
+      "sha256": "252b29068fa346851009ba0d03e236392eb7d7b953c42fb8093b475589b7dd21"
+    },
+    {
+      "path": "product-audit/application/src/views/action-queue.js",
+      "size_bytes": 1499,
+      "sha256": "26920246a93fa539604896fa7bbcf675309ff4860b4c1348fe621c102b976974"
+    },
+    {
+      "path": "product-audit/application/src/views/dashboard.js",
+      "size_bytes": 1993,
+      "sha256": "0dabe24d35e3c92bab16036ee3d6e4cc317208db4c023525293aedddc111cb0e"
+    },
+    {
+      "path": "product-audit/application/src/views/design-library.js",
+      "size_bytes": 1719,
+      "sha256": "2bda270aced2b0df1385079e41e04e213a6c14f56746e903c272e308ed888185"
+    },
+    {
+      "path": "product-audit/application/src/views/duplicate-review.js",
+      "size_bytes": 1348,
+      "sha256": "ecd8564b42eccf392f4f98c0fbff6157a7e84c3cf2f85bdc14df37459a616502"
+    },
+    {
+      "path": "product-audit/application/src/views/launch-collection.js",
+      "size_bytes": 966,
+      "sha256": "d8b1d44bccbb75d3d83298bd054cd501ad639655215ce697d70f1b33c1a3e581"
+    },
+    {
+      "path": "product-audit/application/src/views/product-review.js",
+      "size_bytes": 2332,
+      "sha256": "82f4318821af6184deb37b564ffaa58e3450c40d8c88ca587144ecd44613402d"
+    },
+    {
+      "path": "product-audit/application/start_product_control.bat",
+      "size_bytes": 157,
+      "sha256": "81107c922ffcd517f6cbc148f200fdf9c3d362dfc77fecc8f2091d4546cafedb"
+    },
+    {
+      "path": "product-audit/application/start_product_control.sh",
+      "size_bytes": 77,
+      "sha256": "70ed118192f1bea469466b02ea9ba4c0a76fdf9220d4f61c8d6dfd0619af0d2f"
+    },
+    {
+      "path": "product-audit/application/sw.js",
+      "size_bytes": 2080,
+      "sha256": "7b12f8e305fb260ffc1e7e575cda4c519ea07ecaf64fe96dd605e16084189b82"
+    },
+    {
+      "path": "product-audit/application/tests/data/normalize-baseline.test.js",
+      "size_bytes": 2700,
+      "sha256": "b07bd8386beffb64a704325586585ef0dc426b10e733e6cd94bd1027db1405b2"
+    },
+    {
+      "path": "product-audit/application/tests/domain/actions.test.js",
+      "size_bytes": 3666,
+      "sha256": "2aa30263838e7012167572ff87b81c2fdcab2296e0f29b5ef02db29068b0ee39"
+    },
+    {
+      "path": "product-audit/application/tests/domain/design-impact.test.js",
+      "size_bytes": 1659,
+      "sha256": "740bcd3f383002d5e40ae97f29e27f7dd7325e5dcb8af919be4bfdc085fb02c8"
+    },
+    {
+      "path": "product-audit/application/tests/domain/duplicates.test.js",
+      "size_bytes": 872,
+      "sha256": "dd405e4538aee37bc40efb5514fafd38cbac94965a7a90798cc05360f7b6d2f2"
+    },
+    {
+      "path": "product-audit/application/tests/domain/flags.test.js",
+      "size_bytes": 2107,
+      "sha256": "12802c397ac4d9b0dc027a0f3db0484b6081489edb8902728157e7a04b86a994"
+    },
+    {
+      "path": "product-audit/application/tests/domain/product-decision-flow.test.js",
+      "size_bytes": 1608,
+      "sha256": "f73a42e77835cd370812fc80c25d22a982eda68011e9e6525d63f8edebe30cb0"
+    },
+    {
+      "path": "product-audit/application/tests/domain/readiness.test.js",
+      "size_bytes": 2283,
+      "sha256": "91a2de277cbd24a1fe02be0844781bc11af0c4d16aa8a50ed9327de20a176d5c"
+    },
+    {
+      "path": "product-audit/application/tests/domain/review-order.test.js",
+      "size_bytes": 671,
+      "sha256": "2e033029d9eabaf42c0ed5044b1528ffa972a104b4e1431fab9d2f3e210710fe"
+    },
+    {
+      "path": "product-audit/application/tests/e2e/action-execution.spec.js",
+      "size_bytes": 548,
+      "sha256": "4723820bb304e52a3838623512edbb0b17350fc6734e9bde18df8c6326d99898"
+    },
+    {
+      "path": "product-audit/application/tests/e2e/action-queue.spec.js",
+      "size_bytes": 460,
+      "sha256": "7cec901afdd608df89e867c4878ddb34305e2441e08ae89457a4e0716630ee7f"
+    },
+    {
+      "path": "product-audit/application/tests/e2e/offline.spec.js",
+      "size_bytes": 1346,
+      "sha256": "d058f3aef4c89e296d2ddc04fd4309318873b0e9e28646727b9bb7854927e6e3"
+    },
+    {
+      "path": "product-audit/application/tests/e2e/product-review.spec.js",
+      "size_bytes": 1520,
+      "sha256": "30d692ac2931d81714225853fd750309416d24cf93543679e0fddd2f04e538a6"
+    },
+    {
+      "path": "product-audit/application/tests/export/exporters.test.js",
+      "size_bytes": 2320,
+      "sha256": "70f3567fbf40c6d7785b99c13fec28c0d8ee13962bfbafcfb50cddd02b3c8c7c"
+    },
+    {
+      "path": "product-audit/application/tests/export/import-decisions.test.js",
+      "size_bytes": 788,
+      "sha256": "6212054cb298bcde0647aabecaf87a09aa6f53e0bd04c9ca773cfeb8d753dfa1"
+    },
+    {
+      "path": "product-audit/application/tests/state/repository.test.js",
+      "size_bytes": 1356,
+      "sha256": "37d55d9fdb1b68af721bffe672d5af0e23f66913d091f0ae68dc6a2268056442"
+    },
+    {
+      "path": "product-audit/decisions/README.md",
+      "size_bytes": 315,
+      "sha256": "1940f545eb6431322ee74a6b234fb6aebe99df0310203311c7219a18e7fadf8a"
+    },
+    {
+      "path": "product-audit/evidence/2026-10-01-site-audit-readable.md",
+      "size_bytes": 1816032,
+      "sha256": "9c3f59b8e49507a8d25f537dbf5596c52d774300acc645ea015dd8f36f31881f"
+    },
+    {
+      "path": "product-audit/evidence/2026-10-03-site-audit-readable.md",
+      "size_bytes": 16399,
+      "sha256": "73f7f2d487cf50d169db79383fd3c9659890f1faf6e4297582edd0933b66cbcb"
+    },
+    {
+      "path": "product-audit/evidence/2026-10-03-site-audit.pdf",
+      "size_bytes": 780890,
+      "sha256": "517da498e8a46d6ce703df5b2938ea6288524842952251438e31259767be7b55"
+    },
+    {
+      "path": "product-audit/pricing/affordable-2x-proposal.xlsx",
+      "size_bytes": 64001,
+      "sha256": "1e1ec1cea07957578f95d2829754b870e4a69cf94372f6bc1caf16177fb09a32"
+    },
+    {
+      "path": "product-audit/pricing/earlier-tier-proposal.xlsx",
+      "size_bytes": 52365,
+      "sha256": "d636017e0c2f04dceb3c7dad558b69ced4c180b592b3415f647cb9831c7a1952"
+    },
+    {
+      "path": "product-audit/pricing/exports/affordable-2x-color-decisions.json",
+      "size_bytes": 524208,
+      "sha256": "475091b2686c268dc9b7a5e56d248582a2187dc3cbd1ae5ecdebeef8df717363"
+    },
+    {
+      "path": "product-audit/pricing/exports/affordable-2x-instructions.json",
+      "size_bytes": 6141,
+      "sha256": "650db01a6e2f71963d656ed75b1a302c9d6da1023fa775799cc5ad8d98a156bb"
+    },
+    {
+      "path": "product-audit/pricing/exports/affordable-2x-product-review.json",
+      "size_bytes": 408248,
+      "sha256": "0754d1544e4208e06773baa43c778924b88c8b08a9720909ca4e6163dadf3906"
+    },
+    {
+      "path": "product-audit/pricing/exports/affordable-2x-tier-pricing.json",
+      "size_bytes": 15546,
+      "sha256": "0c1ce67693abef8fa35a907aae977d32c621285efbd201f5b9fa7bc869a4dc37"
+    },
+    {
+      "path": "product-audit/pricing/exports/earlier-tier-color-decisions.json",
+      "size_bytes": 500352,
+      "sha256": "b53e9bcbdc89083205d686c6d4b5d594be0c1a0040c4c3347b7c33df31b90cfa"
+    },
+    {
+      "path": "product-audit/pricing/exports/earlier-tier-instructions.json",
+      "size_bytes": 6076,
+      "sha256": "19609e8f2750ce31663d104965c9ca0128aac304dc032616740e40b14abee1dc"
+    },
+    {
+      "path": "product-audit/pricing/exports/earlier-tier-product-review.json",
+      "size_bytes": 323963,
+      "sha256": "5f3c8e03ddb99905d4839f643ca2c29efba8189f56a812b54e5cf9b25caf22cf"
+    },
+    {
+      "path": "product-audit/pricing/exports/earlier-tier-tier-pricing.json",
+      "size_bytes": 15359,
+      "sha256": "85286100c46574991a6f08535f6cdbc6e4e85e74ad81f06b6e2abdcff6549203"
+    },
+    {
+      "path": "product-audit/reference/2026-10-06-design-specification.md",
+      "size_bytes": 19222,
+      "sha256": "849b8232fcdc1b2cc92afd21fcd7f0e4383847847e023d98a018138394a97aab"
+    },
+    {
+      "path": "product-audit/reference/2026-10-06-implementation-plan.md",
+      "size_bytes": 25677,
+      "sha256": "4d4505d19daa974933f262457cf92c0f3c37ae139f3734a4d436efe87b28ac8b"
+    },
+    {
+      "path": "product-audit/review/compact-printable-review.html",
+      "size_bytes": 4006144,
+      "sha256": "0370e2538467a4f61073bcf48e9499601bbdb1cdb9b12ecfeb41138d565bf36e"
+    },
+    {
+      "path": "product-audit/review/kraig-offline-review.html",
+      "size_bytes": 280286,
+      "sha256": "73c65d5420a5d7f84192e46b0ce200e435b42f62d38fac516c3861b83858bd10"
+    },
+    {
+      "path": "product-audit/review/original-printable-review.html",
+      "size_bytes": 132746,
+      "sha256": "9f18ad80056053e601faa0887c1b67b6010bfe12f9f679fbc04b7f5b94b208d7"
+    },
+    {
+      "path": "records/README.md",
+      "size_bytes": 1072,
+      "sha256": "4ee99bc13d93c1f682897ad11ecccd937f25ec1c68dda373c8412d2cbf6f74f0"
+    },
+    {
+      "path": "records/activity.jsonl",
+      "size_bytes": 194394,
+      "sha256": "7e66a416a8c66999dcb1a5ace09b178829a4a9c61282adebe917680519fdb8a1"
+    },
+    {
+      "path": "records/billing/README.md",
+      "size_bytes": 6742,
+      "sha256": "d338b4ab5a42ab15d42e33979f7ac25a18223a0ccd708e16840d309ca3c708b6"
+    },
+    {
+      "path": "records/billing/current-itemization.md",
+      "size_bytes": 721,
+      "sha256": "b6622dbcca2bcf9065e1c28c76c2838f569be134f2f584f7a49b8f34856e6b8a"
+    },
+    {
+      "path": "records/billing/evidence/2026-10-09-billing-record.md",
+      "size_bytes": 1811,
+      "sha256": "9918bd9975c7357d6b33fe650d5da51c3105133fc53cbb77cf5d7037cacaaa2b"
+    },
+    {
+      "path": "records/billing/ledger.json",
+      "size_bytes": 4016,
+      "sha256": "f9e5513cb1b812e0ebc76c5a56a92f38976759618827ed2b45367e0369496ee0"
+    },
+    {
+      "path": "records/billing/receipts/WTS-Bills-2026-10-09.pdf",
+      "size_bytes": 44854,
+      "sha256": "95c765291db9392759f40d70eb77bc26e1b39698371461a6d6e6889154ab0043"
+    },
+    {
+      "path": "records/billing/summary.json",
+      "size_bytes": 5042,
+      "sha256": "43ee1023c5696e6c5c722a00e79287343c20a20ef60ded8fc8665ced0b478a28"
+    },
+    {
+      "path": "records/billing/summary.md",
+      "size_bytes": 1974,
+      "sha256": "6fef9d4ea50f70daec19d0a9c02bf6314a697cab0c4f2bbe543c84f32946e7ee"
+    },
+    {
+      "path": "records/decisions.md",
+      "size_bytes": 1842,
+      "sha256": "06c855428d874214d3c64db715aaa30d70a316b718f99384245cf974e031e75c"
+    },
+    {
+      "path": "records/historical/2026-10-08-work-record-readable.md",
+      "size_bytes": 21941,
+      "sha256": "f57ea181f443ea2c39299bb93a9b356559bb90c5001f8027782a8fa77f3194bd"
+    },
+    {
+      "path": "records/historical/2026-10-08-work-record.pdf",
+      "size_bytes": 823175,
+      "sha256": "808a58337012427f4e712fdb9be90e09c4a6bce8a66f69227ce237f682ec9a1b"
+    },
+    {
+      "path": "records/materials.json",
+      "size_bytes": 166657,
+      "sha256": "b3a12d51c1aae9c2b33dffd5f66540d13a19c36918a52f6712e36cf4d5b63e66"
+    },
+    {
+      "path": "records/meetings/2026-09-21-lori-call-redacted.md",
+      "size_bytes": 7724,
+      "sha256": "e51dfba6d472ee05040020aa22269a193437b4e916c45c919876c96f268f6a12"
+    },
+    {
+      "path": "records/metrics.json",
+      "size_bytes": 810,
+      "sha256": "d9483d26aca9e09f4b40d0fc3f9d6d0af3d0c5bc37c1a0ce6cb4b57010ea6b87"
+    },
+    {
+      "path": "records/open-items.md",
+      "size_bytes": 1251,
+      "sha256": "b34233bc45629c962face85f811a277d9f866d0325146f0a3667576d7e9adbbc"
+    },
+    {
+      "path": "records/sources.json",
+      "size_bytes": 25718,
+      "sha256": "29bf853702babcc4f9bffc263a236eb646c693ba46e6f889de1b4ac371417795"
+    },
+    {
+      "path": "records/verification.md",
+      "size_bytes": 2628,
+      "sha256": "8731bc091052f63a243f1663440d94b205515ce9e6a070c2c60138309bd2779c"
+    },
+    {
+      "path": "records/work-recap.md",
+      "size_bytes": 3326,
+      "sha256": "5c2591238791447a9c644b560c2e1d2fc5e72904c022261d9a034a3edb594044"
+    },
+    {
+      "path": "scripts/billing.py",
+      "size_bytes": 32630,
+      "sha256": "46e9d4a81dbd7da921d9cf555e602367ab61a072ff21c8d53b5676411914ec6f"
+    },
+    {
+      "path": "scripts/create_billing_receipt.py",
+      "size_bytes": 7345,
+      "sha256": "deac4733eea7f21d3573995a06c5e07ff1b9dff79994ff6d83d6c181f42a8aea"
+    },
+    {
+      "path": "scripts/record_material.py",
+      "size_bytes": 2848,
+      "sha256": "c40a41ad0dcd468f63e1e3e49a73ac962d6797375becee8f34dca1d55ab12f2d"
+    },
+    {
+      "path": "scripts/refresh_inventory.py",
+      "size_bytes": 1690,
+      "sha256": "08b8f3b6c4cd88c0db083fe37910a0388cb3e5409bf56fd5c6112eeacf501048"
+    },
+    {
+      "path": "scripts/validate_records.py",
+      "size_bytes": 3815,
+      "sha256": "34a1bf4a14dd734c212b4e52ec7c5d9e0d886027830dcc1120ce140161fb5ede"
+    },
+    {
+      "path": "tests/test_billing.py",
+      "size_bytes": 18142,
+      "sha256": "c9c3b12b2b91a00f918eb4a34909b2f27547fa3ffd9a1c516351b4b6e77f0940"
+    },
+    {
+      "path": "website/README.md",
+      "size_bytes": 1728,
+      "sha256": "ca7743342984cffdf8f41aec58beaad8c489ec981db6611f3675df2510e8dafa"
+    },
+    {
+      "path": "website/reference/historical-implementation-notes.md",
+      "size_bytes": 3885,
+      "sha256": "e5b5e4bf3f49de84a0fa998d5aae7bec10e8b3e3e3bf882535efc2dbd9c4123d"
+    },
+    {
+      "path": "website/reference/source-repository-readme.md",
+      "size_bytes": 1979,
+      "sha256": "16e4c6b174a38479f89be4880fa2b5793fe0e76ccf0722651df198b9b509c67c"
+    }
+  ]
+}
